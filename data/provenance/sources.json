@@ -1,0 +1,188 @@
+{
+  "files": [
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/male-pair-filter/output-records-before/official-sources.json",
+      "collection": "current-session",
+      "originalRelativePath": "work/male-pair-filter/output-records-before/official-sources.json",
+      "bytes": 3674,
+      "sha256": "cae5378d74acdb463da899497a24347dc652041ed1a01e85cbf90b5470f408c9",
+      "projectRelativePath": "data/provenance/sources/current-session/work/male-pair-filter/output-records-before/official-sources.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/raw-rescreen/available-originals.json",
+      "collection": "current-session",
+      "originalRelativePath": "work/raw-rescreen/available-originals.json",
+      "bytes": 107355,
+      "sha256": "24b9ff723b57d8f738b41e77643ddd507c12795c654da7e008f40137149f3e7b",
+      "projectRelativePath": "data/provenance/sources/current-session/work/raw-rescreen/available-originals.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/x-supplement/below-pixel-threshold.json",
+      "collection": "current-session",
+      "originalRelativePath": "work/x-supplement/below-pixel-threshold.json",
+      "bytes": 77621,
+      "sha256": "c577715ea4b743c6c184ee2fcd3264a9f9ab7c738facf0dca2b834924e7cdc05",
+      "projectRelativePath": "data/provenance/sources/current-session/work/x-supplement/below-pixel-threshold.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/x-supplement/discovered.json",
+      "collection": "current-session",
+      "originalRelativePath": "work/x-supplement/discovered.json",
+      "bytes": 234541,
+      "sha256": "6c3be4971866339237dbf6eed98e4d83169257430244984d378f8b0a32bcdf0d",
+      "projectRelativePath": "data/provenance/sources/current-session/work/x-supplement/discovered.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/x-supplement/downloads.json",
+      "collection": "current-session",
+      "originalRelativePath": "work/x-supplement/downloads.json",
+      "bytes": 570111,
+      "sha256": "9fd7c2c6565d24ba1246333724c26f6c2b41436afd79ae004e2fde2ad325ce25",
+      "projectRelativePath": "data/provenance/sources/current-session/work/x-supplement/downloads.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/x-supplement/duplicates.json",
+      "collection": "current-session",
+      "originalRelativePath": "work/x-supplement/duplicates.json",
+      "bytes": 70322,
+      "sha256": "12d9657b68bda7c5862359e540e9ee57b158be12e29d94f24407356bdf2f9b3a",
+      "projectRelativePath": "data/provenance/sources/current-session/work/x-supplement/duplicates.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/x-supplement/featured-approved-crop.json",
+      "collection": "current-session",
+      "originalRelativePath": "work/x-supplement/featured-approved-crop.json",
+      "bytes": 596,
+      "sha256": "711981e4734ff22f76dc8f96fb427a9b616ccf2b3f88b2e5917bad768a82c514",
+      "projectRelativePath": "data/provenance/sources/current-session/work/x-supplement/featured-approved-crop.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/x-supplement/novel-review.json",
+      "collection": "current-session",
+      "originalRelativePath": "work/x-supplement/novel-review.json",
+      "bytes": 573472,
+      "sha256": "9c4ec370f969bcc706b75e60e6abfe2c7fe9f11e41cb1091cc3b7f671a5940ee",
+      "projectRelativePath": "data/provenance/sources/current-session/work/x-supplement/novel-review.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/x-supplement/raw-fingerprints.json",
+      "collection": "current-session",
+      "originalRelativePath": "work/x-supplement/raw-fingerprints.json",
+      "bytes": 2776551,
+      "sha256": "6a50109225aa91de133edc18df781c827b6849c1eea269043abf389568585c29",
+      "projectRelativePath": "data/provenance/sources/current-session/work/x-supplement/raw-fingerprints.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/x-supplement/review-group-1.json",
+      "collection": "current-session",
+      "originalRelativePath": "work/x-supplement/review-group-1.json",
+      "bytes": 288478,
+      "sha256": "02f2e6effbc9484d2b1161a1f45f08e75ab84f700b5672598aa638796d2cef9d",
+      "projectRelativePath": "data/provenance/sources/current-session/work/x-supplement/review-group-1.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/x-supplement/review-group-2.json",
+      "collection": "current-session",
+      "originalRelativePath": "work/x-supplement/review-group-2.json",
+      "bytes": 284997,
+      "sha256": "e0a32478af96f3b26f3f671ef865f7638e8a70ad4bd24bc25e78586678764656",
+      "projectRelativePath": "data/provenance/sources/current-session/work/x-supplement/review-group-2.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/x-supplement/review-result-1.json",
+      "collection": "current-session",
+      "originalRelativePath": "work/x-supplement/review-result-1.json",
+      "bytes": 80125,
+      "sha256": "62e8f2f761d59de51b3542da6dbf004776e1c8ba15dcb7612839e845115a413a",
+      "projectRelativePath": "data/provenance/sources/current-session/work/x-supplement/review-result-1.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/x-supplement/review-result-2.json",
+      "collection": "current-session",
+      "originalRelativePath": "work/x-supplement/review-result-2.json",
+      "bytes": 75975,
+      "sha256": "e6f82d283a6b112ee9a482224207fffb566fac72e06a77d5a48353a899800162",
+      "projectRelativePath": "data/provenance/sources/current-session/work/x-supplement/review-result-2.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/x-supplement/source-label-overrides.json",
+      "collection": "current-session",
+      "originalRelativePath": "work/x-supplement/source-label-overrides.json",
+      "bytes": 359,
+      "sha256": "48f680de84a9993303a8f6ca3036f5be9507ff379fdb312141ddf46024652f9a",
+      "projectRelativePath": "data/provenance/sources/current-session/work/x-supplement/source-label-overrides.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-13/bang/work/all-review-ready.json",
+      "collection": "original-session",
+      "originalRelativePath": "work/all-review-ready.json",
+      "bytes": 783975,
+      "sha256": "dc008c6a38feba9396d05f2939b0ad92173b3adcbf921b6d39b8544cf6c27534",
+      "projectRelativePath": "data/provenance/sources/original-session/work/all-review-ready.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-13/bang/work/official-additional-sources.json",
+      "collection": "original-session",
+      "originalRelativePath": "work/official-additional-sources.json",
+      "bytes": 9217,
+      "sha256": "f48818d09d3de16fcfdebd9c47984661706599bc8633a5eda8c7a19196d06ac3",
+      "projectRelativePath": "data/provenance/sources/original-session/work/official-additional-sources.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-13/bang/work/official-calendar-source.json",
+      "collection": "original-session",
+      "originalRelativePath": "work/official-calendar-source.json",
+      "bytes": 13849,
+      "sha256": "04a5074eb814b166ab079398be583f307db2c0f783dc490acc1d84394b095069",
+      "projectRelativePath": "data/provenance/sources/original-session/work/official-calendar-source.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-13/bang/work/official-offstage-source.json",
+      "collection": "original-session",
+      "originalRelativePath": "work/official-offstage-source.json",
+      "bytes": 2387,
+      "sha256": "a9a5e557babeb7d5a0a9b4da0089418800eded6815504092986bb02a919c58e1",
+      "projectRelativePath": "data/provenance/sources/original-session/work/official-offstage-source.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-13/bang/work/official-source-index.json",
+      "collection": "original-session",
+      "originalRelativePath": "work/official-source-index.json",
+      "bytes": 17796,
+      "sha256": "0c670b99427e9d2f8169cb6f13fa74c84a354df8e5440da74fb2f679fd9c707e",
+      "projectRelativePath": "data/provenance/sources/original-session/work/official-source-index.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-13/bang/work/scored-originals-available-downloaded.json",
+      "collection": "original-session",
+      "originalRelativePath": "work/scored-originals-available-downloaded.json",
+      "bytes": 60518,
+      "sha256": "7523534c09d72b5ac9a3f00372f602e1402ca0e7bef2e3c09c1a7a3ecc2dcf8e",
+      "projectRelativePath": "data/provenance/sources/original-session/work/scored-originals-available-downloaded.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-13/bang/work/scored-originals-available.json",
+      "collection": "original-session",
+      "originalRelativePath": "work/scored-originals-available.json",
+      "bytes": 54615,
+      "sha256": "23f7292b4dfa6e3bbd0b7646801387a8b439998f6f47c4634d9144803a367343",
+      "projectRelativePath": "data/provenance/sources/original-session/work/scored-originals-available.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/outputs/odette_mousepad_updated/official-sources.json",
+      "collection": "current-session",
+      "originalRelativePath": "outputs/odette_mousepad_updated/official-sources.json",
+      "bytes": 3234,
+      "sha256": "52b3c4aa81105b8f5212b44b18ef2e868b8c75dd1f5de5fe70d934585c5bb164",
+      "projectRelativePath": "data/provenance/sources/current-session/outputs/odette_mousepad_updated/official-sources.json"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/outputs/odette_mousepad_updated/manifest.json",
+      "collection": "current-session",
+      "originalRelativePath": "outputs/odette_mousepad_updated/manifest.json",
+      "bytes": 1305273,
+      "sha256": "a30c00d97987b47bff01872c8cf01451d53f5fd753fb08338d4893b679b186bc",
+      "projectRelativePath": "data/provenance/sources/current-session/outputs/odette_mousepad_updated/manifest.json"
+    }
+  ]
+}

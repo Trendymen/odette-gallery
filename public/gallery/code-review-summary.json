@@ -1,0 +1,166 @@
+{
+  "scope": "custom-candidates-interaction-deletion-20261014",
+  "phase": "RE_REVIEW",
+  "codeHashes": {
+    "work/crop-rescore/render-thumbnail-gallery.mjs": "f12413da1c60234da8f466d392a8bcf9ef13d920667eb87315745d9a6aae5ed4",
+    "work/crop-rescore/custom-selection-client.mjs": "7c8046b942288ade3f8785b7c4dc65f0991c48fb09562fc418586c9f72b7574a",
+    "work/crop-rescore/render-scored-gallery.mjs": "7440b74c94a70a2f49942e6014a4456ef0f725c83e977cbbdbdd02c9bc564a42",
+    "work/gallery-server/tests/gallery-browser.test.mjs": "d7761e0ee9c9e2ac85c96bac81d6574f9fe4eb223fcb6c512647895d9f8d167f",
+    "work/gallery-server/src/server.mjs": "cfb7a27b694980b4f0a1f0c671f2ecefab8acc9a5224a2999c9c197d19955e97",
+    "work/gallery-server/src/selection-store.mjs": "f7199ae7107bbb6e441751ef082d483786379a15333fc988bbfcbc38ba4c4857",
+    "work/gallery-server/src/start.mjs": "c0e62eb68001425706d36c8ac52207f938fcfeab97794d7f65f24ae66219a7e2",
+    "work/gallery-server/tests/catalog-store.test.mjs": "696c03fdd7db8ca08822b9afc9f9d630b54c1d2d0a5f4116880780962c75a7cc",
+    "work/gallery-server/tests/server.test.mjs": "127575c36f57bdb6af119ed54b9404c8d5360899d9716d8f817624ae5f64cf00",
+    "work/gallery-server/README.md": "9635b80e05b6275b3d523954c152725854ccc2e3a0f3acf9aed664c3cb1d8cd8"
+  },
+  "initialPatchSHA256": "a8916ce0dd700d7aee6cf8448dc754b56847539b60fe9607a4099a67d8fe5614",
+  "fixPatchSHA256": "37fe5d2cb8548dc4f02e523842bcc3c062ac31aecfa2310f97addbdc2f449979",
+  "spec": {
+    "agent": "custom_candidates_spec_compliance",
+    "verdict": "PASS",
+    "closedFindings": [
+      "IF-S1",
+      "IF-S2"
+    ]
+  },
+  "quality": {
+    "agent": "custom_candidates_code_quality",
+    "verdict": "PASS",
+    "closedFindings": [
+      "CQ-ID-1"
+    ]
+  },
+  "tests": [
+    {
+      "command": "npm --prefix work/gallery-server test",
+      "passed": 58,
+      "failed": 0,
+      "skipped": 0
+    },
+    {
+      "command": "node --test work/masonry-change/tests/*.test.mjs",
+      "passed": 16,
+      "failed": 0,
+      "skipped": 0
+    }
+  ],
+  "browserEvidence": "interaction-deletion-qa.json",
+  "previousReview": {
+    "scope": "custom-candidates-implementation-20261014",
+    "initialPatchSHA256": "9fb7ed2206cf5642a9820d9745f8173845d2dfa5a847d3f8b7962725725a4fda",
+    "fixPatchSHA256": "53eacec60f9f7725472123544a7d287a0e96ad08ed70ba7b293955ecb110059d",
+    "codeHashes": {
+      "work/crop-rescore/render-scored-gallery.mjs": "b49308bd2bcf2474e332311e54e7c4a9370f6de007d3cbfea5da9588e214bb38",
+      "work/crop-rescore/render-thumbnail-gallery.mjs": "4089b2fffa70d0ffa7d75847c63af7a09b9dd66a2acba00cdf2e73c1a6c033d8",
+      "work/masonry-change/tests/gallery.test.mjs": "cfd0466700a72025511b7e57462d4947f5031ab5f94bcf246961022d8b37f915",
+      "work/masonry-change/tests/export-exclusions.test.mjs": "6cad68548c1a55c140e08dcf3d30d03cde04dc4fde3e0d1427c97e1c87c82c0d",
+      "work/gallery-server/package.json": "87dde1555dc967e3c96624dc4b97575245a3561841d6b777618acb5f327a1e77",
+      "work/gallery-server/src/catalog.mjs": "83f086b593eee2a66379f315576d09279906a755073e1820604fa9d9f24d35f8",
+      "work/gallery-server/src/selection-store.mjs": "1fcbd7a4d9105576315afb7a4d8cd2546e4563be22986620df3a83f21ace1a60",
+      "work/gallery-server/src/server.mjs": "5c2f803a19bed7f881810f40abfe2fccfba18814d88438f93bacaffa262c03ad",
+      "work/gallery-server/src/start.mjs": "175041b7c8d59672015822ccffa8bc45fbda595330cd7eaa8411804e5e48e562",
+      "work/gallery-server/tests/catalog-store.test.mjs": "9414655ec1d08d7cab3dc679e4559610ca0c4e5c6c0ffea5280a770a93334509",
+      "work/gallery-server/tests/server.test.mjs": "07fe1bd19e21fd2b4a31731a00a411a8ce1310cf48355b81d68baab9bd89078c",
+      "work/gallery-server/tests/gallery-browser.test.mjs": "0585c2de7b2336a6c3f37756f3220b7b64f20fda7a3126b32830a582a875f77f",
+      "work/gallery-server/README.md": "8ba17f5d6f6eaac0f6ca2dcc32907606a6755b930bcebee56f304a760cc9aa22",
+      "work/crop-rescore/custom-selection-client.mjs": "6f8b91dcd4ecc0f66bd5029d50b5ac2eca673e5e371947d66b50679ea1e214a2"
+    },
+    "spec": {
+      "agent": "custom_candidates_spec_compliance",
+      "phase": "RE_REVIEW",
+      "verdict": "PASS",
+      "closedFindings": [
+        "S-1"
+      ]
+    },
+    "quality": {
+      "agent": "custom_candidates_code_quality",
+      "phase": "RE_REVIEW",
+      "verdict": "PASS",
+      "closedFindings": [
+        "CQ-1",
+        "CQ-2",
+        "CQ-3"
+      ]
+    },
+    "tests": [
+      {
+        "command": "npm --prefix work/gallery-server test",
+        "passed": 31,
+        "failed": 0,
+        "skipped": 0
+      },
+      {
+        "command": "node --test work/masonry-change/tests/*.test.mjs",
+        "passed": 16,
+        "failed": 0,
+        "skipped": 0
+      }
+    ],
+    "browserEvidence": "custom-candidates-qa.json",
+    "imageInvariant": {
+      "recordedAt": "2026-10-14T10:54:10.972Z",
+      "files": 2258,
+      "bytes": 6482213476,
+      "seconds": 4.981,
+      "unchanged": true,
+      "failures": [],
+      "baseline": "baseline/data/verification.json"
+    },
+    "previousReview": {
+      "scope": "odette-masonry-three-columns-and-persistent-exclusion-20261014",
+      "codeHashes": {
+        "work/crop-rescore/render-scored-gallery.mjs": "b4a2c8120afd2526bf09c5e9e4acb13ed66ba4dae58617125cd409e304056f13",
+        "work/crop-rescore/render-thumbnail-gallery.mjs": "0ee3091f7e0beeadf99e5f2b06eee7a5d47813c914b4dc7c39024dbd8cf21b41",
+        "work/export-scored-candidates.mjs": "d5f7008d4f8066f48d1d2a482a4c955a893c993d75c68485e6fac4e5d8d2a7dd"
+      },
+      "quality": {
+        "agent": "masonry_quality_review",
+        "phase": "RE_REVIEW",
+        "verdict": "PASS",
+        "closedFindings": [
+          "ID whitespace validation"
+        ]
+      },
+      "spec": {
+        "agent": "masonry_spec_review",
+        "phase": "INITIAL",
+        "verdict": "PASS"
+      },
+      "tests": {
+        "command": "node --test work/masonry-change/tests/*.test.mjs",
+        "passed": 16,
+        "failed": 0
+      },
+      "currentContentScope": 544,
+      "finalImageVerificationSeparate": "verification.json",
+      "reviewDoesNotReplacePixelValidation": true,
+      "previousPipelineReview": {
+        "scope": "odette-expanded-gallery-20261014",
+        "codeHashes": {
+          "work/export-scored-candidates.mjs": "8b677ccc602421e8de8ef64774a90ba9757e96382425850f0f10fdefb4fe5863",
+          "work/verify-expanded-gallery.mjs": "81dc8babe1e6ff0cd04137811e0ee2de9b3cb397e57a576ae297111bda128fdf",
+          "work/crop-rescore/render-scored-gallery.mjs": "da47633b7060b1e4279e3808adefa6de9eb49a0cefaee686390479c73229a229"
+        },
+        "quality": {
+          "agent": "expanded_quality_review",
+          "phase": "RE_REVIEW",
+          "verdict": "PASS",
+          "closedFindings": [
+            "CQ-1",
+            "CQ-2",
+            "CQ-3"
+          ]
+        },
+        "spec": {
+          "agent": "expanded_spec_review",
+          "phase": "INITIAL",
+          "verdict": "PASS"
+        },
+        "reviewSnapshotWorks": 544,
+        "finalImageVerificationSeparate": "verification.json",
+        "reviewDoesNotReplacePixelValidation": true
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+# 奥黛塔画廊工程迁移
+
+用户授权直接执行，将当前画廊和在用图片移到 /Users/liuzhuo/webstorm_project/odette-gallery。未用图片与采集信息集中保存，归档目录被 Git 忽略。
+
+## 范围与不变量
+
+当前画廊有 544 幅作品、576 个裁剪版本、2258 个唯一图片文件。迁移不重裁、不重新筛选、不应用删除标记；作品 ID、manifest 数据、排除策略和两份用户状态保持。既有即时勾选、不重排列表、三列布局及保存失败处理不变。服务仍使用 http://127.0.0.1:58855/，galleryKey 仍为 odette_mousepad_updated。
+
+## 工程结构
+
+- src/server：服务器、目录资格和状态存储。
+- src/gallery：单图页、瀑布流和共享勾选客户端的生成代码。
+- scripts：生成页面与验证资源的入口。
+- tests：现有服务与页面回归测试，加迁移路径、资源核对和生成测试。
+- data/gallery：当前完整 manifest 及交付中的非图片资料，保留文件间相对层次。data/policies 保存排除策略。data/provenance 保存资源与归档索引。
+- public/gallery：当前三份页面、2258 个在用图片以及页面下载所需的报告，保留原有图片相对路径。manifest 的历史审核绝对路径保留原记录，通过迁移路径索引定位归档；运行代码只依赖当前项目相对路径。
+- state/odette_mousepad_updated：两份用户状态，Git 忽略。
+- archive：Git 忽略；按 current-session 和 original-session 保存旧 work、旧输出、一次性采集代码、来源 JSON/CSV、未用图片、历史交付包和过程材料，保留原目录层次。不按排除结果删除原素材，也不去重删除重复文件。
+- docs：保留现有说明与本次 Spec/Plan。
+
+根 package.json、lockfile、README 和 .gitignore 提供 npm start、npm run generate、npm test、npm run verify:assets。Node >=22，sharp 与 playwright 声明为本地开发依赖，取消运行及测试对 Codex 缓存路径的依赖。服务入口从代码位置解析项目根目录，支持从其他 cwd 启动。生成读取 data，输出 public，不能改状态。不引入框架、数据库、构建打包器或 Git LFS，不提交或推送。
+
+## 迁移源与目标映射
+
+旧当前根（C）：/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365。旧原始根（O）：/Users/liuzhuo/Documents/Codex/2026-10-13/bang。新根（N）：/Users/liuzhuo/webstorm_project/odette-gallery。
+
+| 原位置 | 新位置与处理 |
+| --- | --- |
+| C/outputs/odette_mousepad_updated | 在用图片进 N/public/gallery；非图片资料进 N/data/gallery，页面下载资料另复制到 public；其余文件进 N/archive/current-session/delivery-extra |
+| C/outputs 中其他文件及目录 | N/archive/current-session/outputs，原样保留 |
+| C/work | N/archive/current-session/work，生产源码另提取到 src，旧代码仍原样归档 |
+| C/docs | N/docs，保留现有内容 |
+| C/.superpowers | N/archive/current-session/process，原样保留过程与恢复材料 |
+| O/work、O/outputs | N/archive/original-session/work、outputs，原样保留 |
+| C/state/odette_mousepad_updated/custom-candidates.json | N/state/odette_mousepad_updated/custom-candidates.json，停服后原文搬运 |
+| C/state/odette_mousepad_updated/deletion-marks.json | N/state/odette_mousepad_updated/deletion-marks.json，停服后原文搬运 |
+
+canonical manifest 是 C/outputs/odette_mousepad_updated/manifest.json，新位置 N/data/gallery/manifest.json；排除策略是 C/work/male-pair-filter/exclusions.json，新位置 N/data/policies/exclusions.json。只迁移上述范围，两个旧根中的其他文件保留。旧位置通过兼容链接访问新位置。回退入口是 C/work/gallery-server/src/start.mjs，回退状态位置仍是 C/state/odette_mousepad_updated 两份文件；只有新工程验收后才换旧入口为兼容链接。
+
+## 数据与来源
+
+以当前画廊 manifest 中 original、cropped、preview、frame 及 variants 的路径并集判定在用图片。保留整个现有交付目录的非图片资料。归档当前任务 work 和原始 bang 的 work/outputs，并保留当前旧输出里的补充素材及交付 ZIP。旧目录仅留兼容链接和迁移说明，项目独立运行不依赖这些链接。
+
+在用资源索引记录作品 ID、来源 URL、原相对路径、尺寸可用信息、大小与 SHA256。归档文件索引记录原绝对路径、新项目相对路径、大小、SHA256 和所属来源资料路径；图片能对应已有来源记录时附作品 ID 和 URL，无法确定时明确未知。保留原来源数据原文，不能编造作者或来源。路径映射支持查询历史记录中的旧绝对路径。原样迁移的图片、manifest、来源资料、历史文件及停服后的最终状态，迁移前后文件集合、大小与 SHA256 必须一致；新增或重构工程文件单独按生成与回归验收；归档采用同卷 rename 时，提前建立指纹并在新位置复核。
+
+## 迁移与切换
+
+先建立新工程和复制在用资源，旧服务继续运行。代码审查、测试和资源核对完成后，停止已确认的旧进程，读取最终两份状态原文，复制到新目录并逐字节核对，随后启动新工程。同一时刻只运行一个正式写入服务；不能用旧快照覆盖操作期间的新勾选。若新服务启动失败，用已保留旧路径和状态回退旧服务。
+
+素材先复制校验或同卷移动后核验，只有核验成功才清理旧副本并设置兼容链接。迁移不删除素材。当前 root 本身保留，避免正在运行的任务 cwd 失效。原 bang 根仍保留，通过其 work/outputs 的兼容链接访问已迁资料。
+
+## 验收
+
+1. 从新工程和其他 cwd 启动；HTTP API、单图和瀑布流可访问，静态资源不缺失。
+2. canonical manifest 字节保持；2258 图片 SHA256 与原文件一致，当前版本及筛选结果不变。
+3. 原有服务/浏览器回归与页面生成回归通过；新路径与生成验证通过，测试使用临时 state。
+4. 两份最终状态字节一致，正式 API 可读取；刷新、切换筛选及勾选行为沿用已验证实现。
+5. 未用图、来源数据与历史交付资料在 archive 可查，索引路径存在且文件指纹对应。
+6. Git check-ignore 证明 archive、state、node_modules、过程材料不入库；生产代码无旧目录或 Codex 缓存依赖。
+7. 新工程正式监听 58855，旧服务已退出，旧链接与新的来源索引有效。

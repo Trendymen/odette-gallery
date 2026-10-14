@@ -1,0 +1,38 @@
+画廊勾选与删除标记功能说明（已实现）
+
+# 本地画廊服务
+
+在工作区根目录运行：
+
+```sh
+npm --prefix work/gallery-server start
+```
+
+成功启动后打开终端打印的 `http://127.0.0.1:58855/`。首页是三列瀑布流；从卡片或单图页勾选“加入定制候选”，可以在两个视图的“定制候选”范围查看。隐藏作品也可以选入，作品仍保留原有精选或隐藏分类。选择按作品 ID 保存，页面刷新后使用当前默认裁剪。
+
+每幅作品还有“标记删除”开关，标记独立保存在 `state/odette_mousepad_updated/deletion-marks.json` 的 `markedIds` 中。标记不会隐藏作品、修改定制候选或删除文件；它是以后处理的名单。当前页面没有执行删除或应用过滤的按钮，只有用户以后明确要求处理时才按名单过滤。
+
+生成画廊页面后再启动服务。页面由 `work/crop-rescore/render-scored-gallery.mjs` 生成，共享选择逻辑来自 `work/crop-rescore/custom-selection-client.mjs`。服务器仅托管 `outputs/odette_mousepad_updated/`，不暴露状态和 work 目录。直接用 `file:` 打开 HTML 仍可浏览，保存选择需要本地服务。
+
+状态文件位于 `state/odette_mousepad_updated/custom-candidates.json`，在生成目录之外。首次 API 读取创建空集合；不会自动勾选作品。停止服务后状态仍保留，重新启动可继续使用。不要同时启动多个实例；固定端口被占用时服务会退出。按 Ctrl+C 停止服务。
+
+勾选或取消立即更新开关和数量，保存通知保留当前图片、卡片、焦点与滚动位置。正在浏览定制候选时，取消作品会保留当前浏览列表，切换或重新进入定制候选后才显示最新选择；确实被目录排除的作品立即移除。首次读取尚未完成或失败时也可以在 HTTP 页面本地选择，数量会标为“未确认”，不会冒充服务器确认状态。
+
+两套开关各自显示“保存中”“已保存”或“未保存”。保存失败时保留本页最后意图，可按对应“重试”；画廊内部跨页链接会等待选择和删除标记都保存完成，失败时留在当前页。手动刷新或关闭页面只恢复服务器已确认的状态。
+
+每次 API 操作检查最终 `manifest.json` 和 `work/male-pair-filter/exclusions.json`。排除或移除作品会从选择中清理；目录文件损坏时返回错误，不清空状态。状态 JSON 损坏或版本不支持时服务也会报错，请保留原文件并检查内容，不要用空文件覆盖。
+
+运行自动化测试：
+
+```sh
+npm --prefix work/gallery-server test
+node --test work/masonry-change/tests/*.test.mjs
+```
+
+生产代码仅用 Node 标准库。测试使用已有缓存 runtime 的 Playwright 与 sharp；不安装新依赖。测试页面、端口和状态位于独立临时目录，测试结束关闭服务。正式入口的端口冲突测试仅在 58855 已被占用时运行入口，不启动正式画廊实例。
+
+`GET /api/custom-candidates` 读取完整状态。`PUT /api/custom-candidates/:id` 仅接受同源 JSON `{ "selected": true }` 或 `{ "selected": false }`，请求体上限 4096 bytes。返回状态含 `revision`、`catalogRevision`、`allowedIds` 和 `selectedIds`。非法请求为 400，未知作品为 404，排除作品为 410，过大请求为 413，状态读写失败为 500，目录不可用为 503。同源或 Host 校验失败为 403，错误方法为 405。
+
+`GET /api/deletion-marks` 和 `PUT /api/deletion-marks/:id` 使用相同的校验和持久机制，请求体为 `{ "marked": true }` 或 `{ "marked": false }`，返回 ID 字段为 `markedIds`。两份 JSON 和 revision 独立，标记变化不会修改 `selectedIds`。这些 API 只保存开关状态，不提供物理删除。
+
+删除标记为红色滑动开关，在卡片底部与定制候选同行，位于右下角。文件包用于离线浏览，服务代码位于当前工作区work/gallery-server；两份个人状态均不包含在图片包内。

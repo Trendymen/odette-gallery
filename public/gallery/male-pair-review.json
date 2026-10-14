@@ -1,0 +1,118 @@
+{
+  "reviewed": 557,
+  "excluded": 13,
+  "retained": 544,
+  "exceptions": {
+    "character": "旅行者空 / Aether",
+    "allowedDepictions": [
+      "萌系形象",
+      "玩偶或头像",
+      "空本人",
+      "仅与空同框或配对"
+    ],
+    "otherConfirmedMalePresent": "exclude",
+    "unconfirmedOffFramePerson": "keep"
+  },
+  "excludedWorks": [
+    {
+      "id": "147129067",
+      "number": 9,
+      "reason": "原图中间有持枪男性角色，与奥黛塔及另一女性同框。",
+      "identifiedMale": "中间灰发男性角色（来源标签アリョーシャ）"
+    },
+    {
+      "id": "148350032",
+      "number": 16,
+      "reason": "奥黛塔与右侧男性牵手舞蹈，来源说明明确写配对。",
+      "identifiedMale": "右侧灰发男性（标签ミティヤ／米提亚）"
+    },
+    {
+      "id": "148328468",
+      "number": 17,
+      "reason": "原图中间红发男性与右侧灰发男性均与奥黛塔同框。",
+      "identifiedMale": "中间红发男性、右侧灰发男性"
+    },
+    {
+      "id": "official_launcher_kv",
+      "number": 97,
+      "reason": "官方群像除空之外还含达达利亚、公鸡、富人等男性，与奥黛塔同框。",
+      "identifiedMale": "达达利亚、公鸡、富人等男性角色"
+    },
+    {
+      "id": "150578384",
+      "number": 169,
+      "reason": "奥黛塔与黑发穿铠甲的男角色同框，并触碰对方面部，属于男女 CP 互动。",
+      "identifiedMale": "黑发穿铠甲的男角色"
+    },
+    {
+      "id": "150649292",
+      "number": 222,
+      "reason": "奥黛塔与上方两名男角色同框，蓝黑发与灰发男性的脸和上半身清楚可见。",
+      "identifiedMale": "上方蓝黑发、灰发两名男角色"
+    },
+    {
+      "id": "148787272",
+      "number": 247,
+      "reason": "奥黛塔与沃佳妮察、阿廖沙三人同框；作者标签标记アリョーシャ，属空以外男性。",
+      "identifiedMale": "阿廖沙 / Alyosha / アリョーシャ"
+    },
+    {
+      "id": "148954650",
+      "number": 307,
+      "reason": "奥黛塔与黑发男性骑士同框；男方贴近并扶住她肩膀，双人互动明确。",
+      "identifiedMale": "黑发男性骑士（未确认角色名）"
+    },
+    {
+      "id": "148428638",
+      "number": 324,
+      "reason": "同一原图并列奥黛塔与黑发男性的校园头像卡，属于男女配对图。",
+      "identifiedMale": "黑发男性（未确认角色名）"
+    },
+    {
+      "id": "148486449",
+      "number": 466,
+      "reason": "左侧角色与作者标签 Alyosha / アリョーシャ(原神) 对应；主线程据 HoYoWiki 官方技能说明中的 his 核实为男性，与奥黛塔同框。",
+      "identifiedMale": "Alyosha / アリョーシャ"
+    },
+    {
+      "id": "150137018",
+      "number": 490,
+      "reason": "下方三人画面右侧为与 466 同一造型的 Alyosha，奥黛塔与男性角色同框。",
+      "identifiedMale": "Alyosha / アリョーシャ"
+    },
+    {
+      "id": "x_HPrTeSZbYAA2mxq",
+      "number": 502,
+      "reason": "原图第一格为观看奥黛塔舞台的群像，前景右侧黑发铠甲男角色及左侧 Alyosha 同框；即使其余格为单人也应剔除。",
+      "identifiedMale": "Alyosha；右侧黑发铠甲男角色"
+    },
+    {
+      "id": "x_HPflGfVXMAAKvi5",
+      "number": 568,
+      "reason": "原图拼图中除奥黛塔和阿蕾奇诺外，右下有男性角色阿廖沙头像；绿色短发、金眼、雀斑、白毛领红衣与已确认466中的阿廖沙一致，即使预览只裁左侧仍排除。",
+      "identifiedMale": "阿廖沙 / Alyosha"
+    }
+  ],
+  "decisionCounts": {
+    "keep": 544,
+    "exclude": 13,
+    "uncertain": 0
+  },
+  "deliveryContainsExcludedImages": false,
+  "AetherExceptionRecheck": {
+    "reviewedExcludedOriginals": 13,
+    "restoreNeeded": 0,
+    "restoredEarlier": [
+      1,
+      33,
+      203
+    ],
+    "currentlyFeatured": [
+      1,
+      33,
+      203,
+      216
+    ],
+    "record": "aether-exclusion-audit.json"
+  }
+}

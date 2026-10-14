@@ -1,0 +1,19 @@
+{
+  "works": 544,
+  "defaultVisible": 414,
+  "defaultHidden": 130,
+  "rightDefaultVisible": 137,
+  "officialDefaultVisible": 7,
+  "nativeWidth4000DefaultVisible": 40,
+  "currentAndHistoricalVersions": 576,
+  "explicitKeep95": {
+    "viewed": true,
+    "defaultVisible": true,
+    "classification": "keep",
+    "reason": "用户明确要求保留。",
+    "rootRechecked": false,
+    "previousReason": "发丝、睫毛和衣服有密集反复描线，表面色块与轮廓交错较碎，仍有明显松散草稿感。",
+    "userOverride": true
+  },
+  "aiSourceQualityBased": true
+}

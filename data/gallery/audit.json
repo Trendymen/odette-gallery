@@ -1,0 +1,114 @@
+{
+  "status": "complete",
+  "updatedAt": "2026-10-14T09:37:00.471Z",
+  "localLibrary": {
+    "images": 936,
+    "reusedCurrentPixiv": 93,
+    "additionalImagesViewed": 843,
+    "candidates": 318,
+    "nativeOriginalsReady": 318
+  },
+  "x": {
+    "keywords": [
+      "オデット filter:images",
+      "奥黛塔 filter:images",
+      "Odette Genshin filter:images"
+    ],
+    "distinctMediaDownloaded": 681,
+    "initialDuplicates": 76,
+    "belowNativeWidthThreshold": 93,
+    "novelImagesViewed": 512,
+    "candidates": 154
+  },
+  "newCandidateQC": {
+    "uniqueAfterDuplicates": 467,
+    "accepted": 445,
+    "rejected": 13,
+    "pending": 0,
+    "acceptedBeforeMaleFilter": 454
+  },
+  "gallery": {
+    "works": 544,
+    "defaultVisible": 414,
+    "defaultHidden": 130,
+    "rightDefaultVisible": 137,
+    "officialDefaultVisible": 7,
+    "nativeWidth4000DefaultVisible": 40,
+    "currentAndHistoricalVersions": 576
+  },
+  "duplicates": {
+    "149510952": {
+      "keep": "148557809",
+      "reason": "与现有091原文件SHA256完全相同，作者也相同，保留稳定编号091。"
+    },
+    "149719875": {
+      "keep": "149719877",
+      "reason": "原始库同画面重复，归一像素差小于1。"
+    },
+    "x_HPqdt35b0AAbyHo": {
+      "keep": "x_HUB7zwpakAAMwyj",
+      "reason": "主线程逐张确认同一游戏场景近重复，保留较大文件和较完整取景。"
+    },
+    "x_HUBwkc-aUAAXBE9": {
+      "keep": "x_HUGte2PaAAA3IhO",
+      "reason": "主线程逐张确认同一托腮插画的较早简化版本；保留带完整身体和更完整上色的版本。"
+    },
+    "x_HOb6aWiaIAA2mvo": {
+      "keep": "dan_11892903",
+      "reason": "与现有098原文件SHA256完全相同且发布帖一致，保留稳定编号098。"
+    }
+  },
+  "confirmedUserDefaults": [
+    13,
+    27,
+    43,
+    87
+  ],
+  "explicitKeep": 95,
+  "featuredRecovered": 104,
+  "aiSourcePolicy": "按画面精致度筛选，不按AI标记自动隐藏。",
+  "verification": "verification.json",
+  "browserResources": "browser-resources.json",
+  "scopeNote": "本地936张全部纳入本轮复筛；X为本轮三个关键词取得的图片范围，不代表全站。取得文件像素不等于原始创作像素。",
+  "malePairFilter": {
+    "reviewed": 557,
+    "excluded": 13,
+    "remaining": 544,
+    "policy": "只排确认的空以外男角色同框／男女CP，空为保留例外。",
+    "uncertain": 0,
+    "record": "male-pair-review.json",
+    "deliveryAssetsRemoved": true
+  },
+  "galleryLayout": {
+    "desktopColumns": 3,
+    "scopes": [
+      "selected",
+      "all",
+      "hidden"
+    ],
+    "thumbnail": "current default crop preview"
+  },
+  "customCandidates": {
+    "implemented": true,
+    "recordedAt": "2026-10-14T11:07:08.588Z",
+    "url": "http://127.0.0.1:58855/thumbnails.html",
+    "stateFile": "state/odette_mousepad_updated/custom-candidates.json",
+    "selectionScope": "artwork ID follows current default crop",
+    "qa": "custom-candidates-qa.json",
+    "works": 544,
+    "curated": 414,
+    "hidden": 130
+  },
+  "interactionAndDeletionMarks": {
+    "implemented": true,
+    "recordedAt": "2026-10-14T12:38:08.434Z",
+    "url": "http://127.0.0.1:58855/thumbnails.html",
+    "qa": "interaction-deletion-qa.json",
+    "stateFile": "state/odette_mousepad_updated/custom-candidates.json",
+    "deletionStateFile": "state/odette_mousepad_updated/deletion-marks.json",
+    "noAutomaticFiltering": true,
+    "markedIdsInitial": [],
+    "priorSelectionsPreserved": true,
+    "testsPassed": 74
+  }
+}

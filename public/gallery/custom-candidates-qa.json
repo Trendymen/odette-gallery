@@ -1,0 +1,220 @@
+{
+  "recordedAt": "2026-10-14T11:06:15.328Z",
+  "browser": "existing Chrome via chrome-devtools",
+  "testState": "Plan workspace/qa/test-state.json",
+  "productionStateUnselected": true,
+  "customDesktop": {
+    "url": "http://127.0.0.1:58855/thumbnails.html",
+    "status": "已保存",
+    "ready": "true",
+    "cards": 414,
+    "columns": "653.664px 653.664px 653.672px",
+    "cardWidth": 653.6640625,
+    "overflow": false,
+    "scopes": [
+      {
+        "scope": "selected",
+        "text": "精选（414）",
+        "disabled": false
+      },
+      {
+        "scope": "all",
+        "text": "全部（544）",
+        "disabled": false
+      },
+      {
+        "scope": "hidden",
+        "text": "已隐藏（130）",
+        "disabled": false
+      },
+      {
+        "scope": "custom",
+        "text": "定制候选（0）",
+        "disabled": false
+      }
+    ],
+    "samples": [
+      {
+        "id": "148673525",
+        "preview": "previews/001_148673525_7x4.jpg"
+      },
+      {
+        "id": "149154034",
+        "preview": "completeness_recrops/006_149154034_preview.jpg"
+      },
+      {
+        "id": "147886966",
+        "preview": "previews/023_147886966_7x4.jpg"
+      }
+    ]
+  },
+  "customOptimistic": {
+    "immediate": {
+      "url": "http://127.0.0.1:58855/thumbnails.html",
+      "checked": true,
+      "focused": true,
+      "status": "保存中…",
+      "count": "定制候选（1）"
+    },
+    "optimistic": {
+      "ids": [
+        "148673525"
+      ],
+      "count": "1 幅 · 按当前默认裁剪总分排序"
+    },
+    "saved": "已保存",
+    "server": {
+      "schemaVersion": 1,
+      "galleryKey": "odette_mousepad_updated",
+      "revision": 1,
+      "catalogRevision": "64677084c158496cd7b21c512c6719ceef207261f06cac2fdb64e837e2ffb461",
+      "updatedAt": "2026-10-14T11:02:26.149Z",
+      "selectedIds": [
+        "148673525"
+      ],
+      "allowedCount": 544
+    }
+  },
+  "customBroadcastFirst": {
+    "count": 1,
+    "custom": "1 幅",
+    "status": "已保存",
+    "check": true,
+    "preview": "previews/001_148673525_7x4.jpg",
+    "pick": "001 · 【奥黛塔】画一张原神大图オデット，至东我来啦！ · 93 分"
+  },
+  "customHiddenSingle": {
+    "url": "http://127.0.0.1:58855/index.html?scope=custom&id=148450678",
+    "pick": "271 · 奥黛塔 · 89 分",
+    "count": 2,
+    "preview": "expanded/271_148450678_preview.jpg",
+    "checked": true,
+    "returnURL": "thumbnails.html?scope=custom&id=148450678"
+  },
+  "customFocusReturn": {
+    "before": "index.html?scope=custom&id=148450678",
+    "after": "index.html?scope=custom&id=148450678",
+    "cards": [
+      {
+        "id": "148673525",
+        "checked": true
+      },
+      {
+        "id": "148450678",
+        "checked": true
+      }
+    ],
+    "status": "已保存"
+  },
+  "customReload": {
+    "ids": [
+      "148673525",
+      "148450678"
+    ],
+    "status": "已保存",
+    "single": "index.html?scope=custom&id=148450678"
+  },
+  "customRestart": {
+    "selected": [
+      "148450678",
+      "148673525"
+    ],
+    "revision": 2,
+    "ids": [
+      "148673525",
+      "148450678"
+    ],
+    "status": "已保存"
+  },
+  "customTablet": {
+    "width": 900,
+    "columns": "422px 422px",
+    "overflow": false
+  },
+  "customMobile": {
+    "width": 390,
+    "columns": "358px",
+    "cardWidth": 358,
+    "overflow": false
+  },
+  "customFailure": {
+    "before": "http://127.0.0.1:58855/index.html?scope=custom&id=148450678",
+    "after": "http://127.0.0.1:58855/index.html?scope=custom&id=148450678",
+    "status": "未保存：Failed to fetch",
+    "retryVisible": true,
+    "pick": "001 · 【奥黛塔】画一张原神大图オデット，至东我来啦！ · 93 分"
+  },
+  "customRetry": {
+    "status": "已保存",
+    "selected": [
+      "148673525"
+    ],
+    "revision": 3
+  },
+  "customEmpty": {
+    "count": 0,
+    "status": "已保存",
+    "empty": true
+  },
+  "customKeyboard": {
+    "focused": true,
+    "sameNode": true,
+    "checked": true,
+    "status": "已保存"
+  },
+  "customPreviews": {
+    "defaultPreviews": 544,
+    "failures": [],
+    "allLoaded": true
+  },
+  "customFormal": {
+    "url": "http://127.0.0.1:58855/thumbnails.html",
+    "status": "已保存",
+    "selected": [],
+    "revision": 0,
+    "allowed": 544,
+    "cards": 414,
+    "scopes": [
+      "精选（414）",
+      "全部（544）",
+      "已隐藏（130）",
+      "定制候选（0）"
+    ],
+    "checkboxEnabled": true
+  },
+  "customFileMode": {
+    "url": "file:///Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/outputs/odette_mousepad_updated/thumbnails.html?scope=selected",
+    "customDisabled": true,
+    "checkboxDisabled": true,
+    "status": "请启动本地服务后使用定制候选",
+    "cards": 414
+  },
+  "customActualBFCache": {
+    "url": "http://127.0.0.1:58855/thumbnails.html?scope=selected",
+    "lifecycle": null,
+    "navigation": [
+      {
+        "type": "back_forward",
+        "notRestoredReasons": {
+          "src": null,
+          "id": null,
+          "url": "http://127.0.0.1:58855/thumbnails.html?scope=selected",
+          "name": null,
+          "reasons": [
+            {
+              "reason": "masked"
+            },
+            {
+              "reason": "response-cache-control-no-store"
+            },
+            {
+              "reason": "response-cache-control-no-store-with-js-network-request"
+            }
+          ],
+          "children": []
+        }
+      }
+    ],
+    "status": "已保存"
+  }
+}

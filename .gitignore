@@ -1,0 +1,7 @@
+node_modules/
+archive/
+state/
+.superpowers/
+coverage/
+test-results/
+*.log

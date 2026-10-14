@@ -1,0 +1,139 @@
+{
+  "verifiedPublisher": {
+    "uid": "1015537",
+    "name": "Genshin Impact Official",
+    "certification": "Official Big Boss"
+  },
+  "calendarPost": "https://www.hoyolab.com/article/46147441",
+  "wallpaperPost": "https://www.hoyolab.com/article/46548830",
+  "officialDownloadLink": "https://hoyo.link/k4b2Cvwwm",
+  "archiveURL": "https://fastcdn.hoyoverse.com/static-resource-v2/2026/08/31/539220a59f4c326720b2b8dacf960031_1906381805646348363.zip",
+  "artworkFamilies": 2,
+  "sizeVariants": 18,
+  "maxLandscapePixels": "2560x1440",
+  "selected": [
+    {
+      "id": "official_calendar_1",
+      "title": "奥黛塔官方活动日历壁纸 2560×1440",
+      "source": "https://www.hoyolab.com/article/46147441",
+      "sourceKind": "official_illustration",
+      "w": 2560,
+      "h": 1440,
+      "crop": {
+        "left": 20,
+        "top": 0,
+        "width": 2520,
+        "height": 1440
+      },
+      "score": 83
+    },
+    {
+      "id": "official_wallpaper_stage",
+      "title": "奥黛塔官方舞台主视觉",
+      "source": "https://www.hoyolab.com/article/46548830",
+      "sourceKind": "official_illustration",
+      "w": 2560,
+      "h": 1440,
+      "crop": {
+        "left": 20,
+        "top": 0,
+        "width": 2520,
+        "height": 1440
+      },
+      "score": 81
+    },
+    {
+      "id": "official_announcement_1920",
+      "title": "奥黛塔官方角色介绍图",
+      "source": "https://x.com/genshinimpact/status/2070357635283427609",
+      "sourceKind": "official_illustration",
+      "w": 1920,
+      "h": 1080,
+      "crop": {
+        "left": 15,
+        "top": 0,
+        "width": 1890,
+        "height": 1080
+      },
+      "score": 75
+    },
+    {
+      "id": "official_pv_teaser_135",
+      "title": "奥黛塔官方 PV · 135 秒",
+      "source": "https://www.youtube.com/watch?v=zB1f2PRJedg",
+      "sourceKind": "official_video_frame",
+      "videoTime": 135,
+      "w": 1920,
+      "h": 1080,
+      "crop": {
+        "left": 15,
+        "top": 0,
+        "width": 1890,
+        "height": 1080
+      },
+      "score": 74
+    },
+    {
+      "id": "official_launcher_kv",
+      "title": "7.0 官方群像主视觉",
+      "source": "https://launcher-webstatic.mihoyo.com/launcher-public/2026/07/22/a36b618a05cc80cb87c2955351abd67b_2358889847008472507.webp",
+      "sourceKind": "official_illustration",
+      "w": 2560,
+      "h": 1440,
+      "crop": {
+        "left": 20,
+        "top": 0,
+        "width": 2520,
+        "height": 1440
+      },
+      "score": 73
+    },
+    {
+      "id": "official_pv_teaser_102",
+      "title": "奥黛塔官方 PV · 102 秒",
+      "source": "https://www.youtube.com/watch?v=zB1f2PRJedg",
+      "sourceKind": "official_video_frame",
+      "videoTime": 102,
+      "w": 1920,
+      "h": 1080,
+      "crop": {
+        "left": 15,
+        "top": 0,
+        "width": 1890,
+        "height": 1080
+      },
+      "score": 71
+    },
+    {
+      "id": "official_wiki_avatar",
+      "title": "奥黛塔官方透明原画",
+      "source": "https://wiki.hoyolab.com/pc/genshin/entry/11162?lang=zh-cn",
+      "sourceKind": "official_game_art",
+      "w": 2048,
+      "h": 1024,
+      "crop": {
+        "left": 128,
+        "top": 0,
+        "width": 1792,
+        "height": 1024
+      },
+      "score": 70
+    },
+    {
+      "id": "official_pv_trailer_085",
+      "title": "奥黛塔官方 PV · 85 秒",
+      "source": "https://www.youtube.com/watch?v=eMBXOgXC48M",
+      "sourceKind": "official_video_frame",
+      "videoTime": 85,
+      "w": 2560,
+      "h": 1080,
+      "crop": {
+        "left": 320,
+        "top": 0,
+        "width": 1890,
+        "height": 1080
+      },
+      "score": 70
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resources": 1142,
+  "decoded": 1142,
+  "failed": [],
+  "browser": "existing Chrome via chrome-devtools",
+  "page": "file:///Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/outputs/odette_mousepad_updated/thumbnails.html?scope=selected",
+  "customCandidatesHTTP": {
+    "recordedAt": "2026-10-14T11:06:15.328Z",
+    "defaultPreviews": 544,
+    "decoded": 544,
+    "failures": [],
+    "qa": "custom-candidates-qa.json"
+  },
+  "interactionAndDeletionMarks": {
+    "implemented": true,
+    "recordedAt": "2026-10-14T12:38:08.435Z",
+    "url": "http://127.0.0.1:58855/thumbnails.html",
+    "qa": "interaction-deletion-qa.json",
+    "stateFile": "state/odette_mousepad_updated/custom-candidates.json",
+    "deletionStateFile": "state/odette_mousepad_updated/deletion-marks.json",
+    "noAutomaticFiltering": true,
+    "markedIdsInitial": [],
+    "priorSelectionsPreserved": true,
+    "testsPassed": 74
+  }
+}

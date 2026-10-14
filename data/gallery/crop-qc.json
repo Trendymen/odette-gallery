@@ -1,0 +1,8706 @@
+[
+  {
+    "number": 1,
+    "id": "148673525",
+    "viewed": true,
+    "crop": {
+      "left": 69,
+      "top": 0,
+      "width": 8862,
+      "height": 5064
+    },
+    "scoreTotal": 93,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/001_148673525_7x4.png",
+    "note": "室内道具、服装和冷暖光细节充分，横向多层人物构图基本无需重裁。大脸容易识别，但高光和多个同角色形象使画面较密。"
+  },
+  {
+    "number": 2,
+    "id": "149080587",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 80,
+      "width": 6328,
+      "height": 3616
+    },
+    "scoreTotal": 91,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/002_149080587_7x4.png",
+    "note": "原图已接近 7:4，轻裁上下即可保留大脸、发丝和手部。雪花与背景有前后层次，脸部占幅足够且没有明显遮挡。"
+  },
+  {
+    "number": 3,
+    "id": "149105463",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 6391,
+      "height": 3652
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/003_149105463_7x4.png",
+    "note": "暖灯、红蝶与蓝色服装有清楚的层次，脸部和手势都完整。横裁只需减去少量上下区域，奥黛塔位于左侧，原生像素适合大幅印刷。"
+  },
+  {
+    "number": 4,
+    "id": "150100615",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 432,
+      "width": 7994,
+      "height": 4568
+    },
+    "scoreTotal": 87,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/004_150100615_7x4.png",
+    "note": "使用旧裁；保留左下双腿舞鞋和下沿签名。"
+  },
+  {
+    "number": 5,
+    "id": "149799901",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 5299,
+      "height": 3028
+    },
+    "scoreTotal": 91,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/005_149799901_7x4.png",
+    "note": "窗边自然光、沙发材质和双人互动细致，奥黛塔的脸清楚。横裁只需减去少量底部，能保留双脸、手机和手势，主脸位置接近中间。"
+  },
+  {
+    "number": 6,
+    "id": "149154034",
+    "viewed": true,
+    "crop": {
+      "left": 995,
+      "top": 0,
+      "width": 4599,
+      "height": 2628
+    },
+    "scoreTotal": 93,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "completeness_recrops/006_149154034_7x4.png",
+    "note": "按给定旧尺寸向右平移，已实际生成预览；胸腰完整，左侧文字残留不扣分。"
+  },
+  {
+    "number": 7,
+    "id": "148212025",
+    "viewed": true,
+    "crop": {
+      "left": 40,
+      "top": 1,
+      "width": 4879,
+      "height": 2788
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/007_148212025_7x4.png",
+    "note": "星空、冰面倒影和横向舞姿组成完整画面，少量裁左右就能适配。头部与双手均可保留，脸部比例略小但轮廓清楚。"
+  },
+  {
+    "number": 8,
+    "id": "146962938",
+    "viewed": true,
+    "crop": {
+      "left": 41,
+      "top": 1,
+      "width": 5061,
+      "height": 2892
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/008_146962938_7x4.png",
+    "note": "奥黛塔位于右侧，蓝色飘带、星光与展开舞姿形成自然横向构图；横裁几乎保留全部内容，脸部清楚，举起的手臂在原画上沿已有截断。"
+  },
+  {
+    "number": 10,
+    "id": "149030314",
+    "viewed": true,
+    "crop": {
+      "left": 405,
+      "top": 0,
+      "width": 5670,
+      "height": 3240
+    },
+    "scoreTotal": 87,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/010_149030314_7x4.png",
+    "note": "使用旧裁，保留完整脚尖和下沿文字。"
+  },
+  {
+    "number": 11,
+    "id": "149107842",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 5999,
+      "height": 3428
+    },
+    "scoreTotal": 87,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/011_149107842_7x4.png",
+    "note": "蓝白服装与紫眼的高光细节齐，人物在暗背景上清楚，原生像素较充足。顶部横裁可保留脸、头发和肩部，举手尖端及裙摆会丢失。"
+  },
+  {
+    "number": 12,
+    "id": "149811252",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 100,
+      "width": 5782,
+      "height": 3304
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/012_149811252_7x4.png",
+    "note": "雪景、人物和雪人组成完整场景，颜色柔和，奥黛塔在左侧且脸相对较小。横裁可保留两人的脸与互动，底部脚和扫帚会被裁去一部分。"
+  },
+  {
+    "number": 13,
+    "id": "149656002",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 1,
+      "width": 4431,
+      "height": 2532
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "recrop_013/013_left_full_height_7x4.png",
+    "note": "保留原裁剪4431×2532尺寸，向左平移569px，完整保留原取景高度，让人物和舞姿获得更多空间。允许保留右缘文字笔画。"
+  },
+  {
+    "number": 14,
+    "id": "149092830",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 0,
+      "width": 4508,
+      "height": 2576
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/014_149092830_7x4.png",
+    "note": "蓝色花田与人物光影协调，五官、发饰和胸前手势清楚；从顶部横裁可保留完整头脸和上半身，主要损失裙摆。"
+  },
+  {
+    "number": 15,
+    "id": "148798436",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 0,
+      "width": 4494,
+      "height": 2568
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/015_148798436_7x4.png",
+    "note": "双形态人物、飘带和舞台光线构成自然横图，主脸位于右侧。上下小幅裁剪就能保留主要动作，脸部相对整幅仍偏小。"
+  },
+  {
+    "number": 18,
+    "id": "148541211",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 0,
+      "width": 5117,
+      "height": 2924
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/018_148541211_7x4.png",
+    "note": "低视角舞姿、蓝色裙摆与粉色光圆有完整层次，横向构图自然；横裁保留头脸和举臂，但下方腿部会截短，脸部占比较小。"
+  },
+  {
+    "number": 19,
+    "id": "150441386",
+    "viewed": true,
+    "crop": {
+      "left": 298,
+      "top": 0,
+      "width": 6139,
+      "height": 3508
+    },
+    "scoreTotal": 73,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/019_150441386_7x4.png",
+    "note": "脸、抱腿手势和举起的脚尖完整，翅膀与花朵在两侧出框，主体动作仍完整。右下四字署名及下划线完整保留，末字贴右缘但没有半截字形。"
+  },
+  {
+    "number": 20,
+    "id": "148310747",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 200,
+      "width": 4326,
+      "height": 2472
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/020_148310747_7x4.png",
+    "note": "浅色人物与暗色羽片对比清楚，脸、伸臂和右侧腿部横向展开。横裁能保留主要动作和整头，下缘裙摆与地面会少量丢失。"
+  },
+  {
+    "number": 21,
+    "id": "149776691",
+    "viewed": true,
+    "crop": {
+      "left": 30,
+      "top": 0,
+      "width": 3780,
+      "height": 2160
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/021_149776691_7x4.png",
+    "note": "双人舞姿、音符和蓝色光带形成完整横幅，左侧奥黛塔脸部清楚；7:4 裁剪只损失极少侧边，腿部和右侧人物也能保留。"
+  },
+  {
+    "number": 22,
+    "id": "148494591",
+    "viewed": true,
+    "crop": {
+      "left": 30,
+      "top": 0,
+      "width": 3780,
+      "height": 2160
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/022_148494591_7x4.png",
+    "note": "舞台、羽毛、发光剪影和左侧人像构成完整横幅，几乎不用损失画面；主舞者脸部较小，细密噪点与光效会影响印刷后的局部清晰度。"
+  },
+  {
+    "number": 23,
+    "id": "147886966",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 100,
+      "width": 3997,
+      "height": 2284
+    },
+    "scoreTotal": 93,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/023_147886966_7x4.png",
+    "note": "蓝色花饰、金属器物与人物光影细致，脸位于右侧且可辨认。原横幅只需少量上下裁剪，能保留卧姿、手势与大部分装饰。"
+  },
+  {
+    "number": 24,
+    "id": "147674370",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 1150,
+      "width": 5782,
+      "height": 3304
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/024_147674370_7x4.png",
+    "note": "眼睛与脸部光影清楚，原生像素充足，可裁成大脸。头部纵向占幅很大，横裁会舍去长头饰和头上部分，前伸手势也无法同时保留。"
+  },
+  {
+    "number": 25,
+    "id": "official_calendar_1",
+    "viewed": true,
+    "crop": {
+      "left": 20,
+      "top": 0,
+      "width": 2520,
+      "height": 1440
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/025_official_calendar_1_7x4.png",
+    "note": "官方蓝色星光舞姿构图完整，脸部和手势清楚；原图接近7:4，轻裁两侧即可保留主体与版权标注，原生裁剪约91 ppi。"
+  },
+  {
+    "number": 26,
+    "id": "150108646",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 100,
+      "width": 3997,
+      "height": 2284
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/026_150108646_7x4.png",
+    "note": "水面光影和两人的脸部细节完整，横裁后能保留双人互动与主要头部。奥黛塔位于右侧，亮色背景与人物有清楚层次。"
+  },
+  {
+    "number": 27,
+    "id": "148779631",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 325,
+      "width": 3500,
+      "height": 2000
+    },
+    "scoreTotal": 88,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/027_148779631_7x4.png",
+    "note": "用户选择原裁剪：完整坐姿、手臂和腿部优先，保留底部文字。"
+  },
+  {
+    "number": 28,
+    "id": "148575693",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 580,
+      "width": 5467,
+      "height": 3124
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "completeness_recrops/028_148575693_7x4.png",
+    "note": "给定平移框已实裁，双手及手套边缘保留，不再下移。"
+  },
+  {
+    "number": 29,
+    "id": "149620137",
+    "viewed": true,
+    "crop": {
+      "left": 158,
+      "top": 0,
+      "width": 3780,
+      "height": 2160
+    },
+    "scoreTotal": 87,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/029_149620137_7x4.png",
+    "note": "大脸、紫眼与蓝发清楚，虚化羽毛没有遮住主要五官。横构图只需收掉少量左右边缘即可保留脸、头发和肩部，羽饰尖端原本已触边。"
+  },
+  {
+    "number": 30,
+    "id": "148861701",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 5999,
+      "height": 3428
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/030_148861701_7x4.png",
+    "note": "右上「Xelixy」署名已完整保留，两人头部、右侧盘发和左侧脸及下巴均完整。上移后上半身互动构图仍自然，未新增关键面部截断。"
+  },
+  {
+    "number": 31,
+    "id": "dan_11892900",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 23,
+      "width": 4095,
+      "height": 2340
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/031_dan_11892900_7x4.png",
+    "note": "舞姿、头部和手势完整，笔触和背景较柔；横向裁切损失少，原生裁剪约149 ppi。"
+  },
+  {
+    "number": 32,
+    "id": "150813637",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 500,
+      "width": 5999,
+      "height": 3428
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/032_150813637_7x4.png",
+    "note": "人物横卧姿势与沙发背景适合横向铺开，头部能完整保留。紫色暗部较多，脸偏小且位于左侧。"
+  },
+  {
+    "number": 33,
+    "id": "149528062",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 0,
+      "width": 4998,
+      "height": 2856
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/033_149528062_7x4.png",
+    "note": "双人表情清楚，奥黛塔在右侧，取画面上部能保留两张完整脸。下方漫画插框与文字可避开，但会丢失手部互动的一部分。"
+  },
+  {
+    "number": 34,
+    "id": "149225091",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 600,
+      "width": 3577,
+      "height": 2044
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/034_149225091_7x4.png",
+    "note": "面部光带、紫色眼睛和宝石细节完整，人物与深色背景分离清楚；横裁可留下完整脸部，头顶和下方握剑手会损失。"
+  },
+  {
+    "number": 35,
+    "id": "149074193",
+    "viewed": true,
+    "crop": {
+      "left": 24,
+      "top": 0,
+      "width": 2716,
+      "height": 1552
+    },
+    "scoreTotal": 87,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/035_149074193_7x4.png",
+    "note": "红色火蝶与蓝发、紫眼形成清楚对比，右侧大脸和左侧伸手适合横幅。原图接近 7:4，仅需收掉很窄的边缘，印刷精度是主要限制。"
+  },
+  {
+    "number": 36,
+    "id": "148011449",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 1300,
+      "width": 5782,
+      "height": 3304
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "recrops_subject/036_148011449_subject_7x4.png",
+    "note": "原预览大半高度用于头饰和窗帘，下沿切到嘴部；向下移动，在保留完整五官的同时纳入肩胸与更多上半身，允许顶部头饰出框。 "
+  },
+  {
+    "number": 37,
+    "id": "147136121",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 750,
+      "width": 4347,
+      "height": 2484
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/037_147136121_7x4.png",
+    "note": "双眼、鼻口和下颌完整，肩部在下缘截切自然，紧凑的正脸特写成立。头顶与羽饰上部出框，但没有切到关键面部；未见裁边署名或半截标题。"
+  },
+  {
+    "number": 38,
+    "id": "148472370",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 3507,
+      "height": 2004
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/038_148472370_7x4.png",
+    "note": "左侧脸部与右侧近景手套形成横向动态，蓝白配色和服饰细节清楚；横裁保留头脸及伸手，主要损失下方胸前衣饰，脸部高光稍亮。"
+  },
+  {
+    "number": 39,
+    "id": "149586796",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 800,
+      "width": 4795,
+      "height": 2740
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "completeness_recrops/039_149586796_7x4.png",
+    "note": "保留旧裁尺寸下移，已实际检查；下方手指完整，无需缩框。"
+  },
+  {
+    "number": 40,
+    "id": "148795896",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 800,
+      "width": 6335,
+      "height": 3620
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/040_148795896_7x4.png",
+    "note": "暖光与粉蓝色衣饰柔和，人物头脸位于右侧；整体明度接近，脸部对比偏弱，横裁保留头部和屈身动作会丢失鞋子与下方腿部。"
+  },
+  {
+    "number": 41,
+    "id": "148564218",
+    "viewed": true,
+    "crop": {
+      "left": 30,
+      "top": 0,
+      "width": 3780,
+      "height": 2160
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/041_148564218_7x4.png",
+    "note": "使用旧裁；保留腰部和更多裙装。"
+  },
+  {
+    "number": 42,
+    "id": "150354122",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 400,
+      "width": 4998,
+      "height": 2856
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/042_150354122_7x4.png",
+    "note": "脸和下颌完整，羽饰上端与「Lv90」文字全部保留，没有半截字。当前是头部特写，怀中小人物不进入画面，底部没有新增断脸或残余人物头部；未见裁边署名。"
+  },
+  {
+    "number": 43,
+    "id": "official_wallpaper_stage",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 330,
+      "width": 3080,
+      "height": 1760
+    },
+    "scoreTotal": 92,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "recrop_043/043_stage_right_balanced_7x4.png",
+    "note": "以前景舞者为主，收掉右侧部分柱廊与空隙，人物更靠右；保留双手、裙摆和鞋尖，上下留有余量。此文件是否原生4K未核实；"
+  },
+  {
+    "number": 44,
+    "id": "150471294",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 0,
+      "width": 2877,
+      "height": 1644
+    },
+    "scoreTotal": 88,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/044_150471294_7x4.png",
+    "note": "紫色眼睛和浅色头发在深色背景上很清楚，脸位于右侧。横裁能保留整张脸和肩部，顶部羽饰在原图中已贴边。"
+  },
+  {
+    "number": 45,
+    "id": "150016199",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 320,
+      "width": 4494,
+      "height": 2568
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/045_150016199_7x4.png",
+    "note": "两处「Island」署名均完整，双人的鞋尖、举手和脸部都保留。左侧鞋尖虽接近底边，仍有边距；当前舞姿横构图自然，未新增关键面部或动作截断。"
+  },
+  {
+    "number": 46,
+    "id": "148013820",
+    "viewed": true,
+    "crop": {
+      "left": 30,
+      "top": 0,
+      "width": 3780,
+      "height": 2160
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/046_148013820_7x4.png",
+    "note": "倾斜全身与几何蓝色背景能直接形成横幅，左侧脸部较大，服饰辨识清楚；渲染阴影较平，原图头顶与下方鞋子已贴近边缘。"
+  },
+  {
+    "number": 47,
+    "id": "149891734",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 800,
+      "width": 4249,
+      "height": 2428
+    },
+    "scoreTotal": 87,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/047_149891734_7x4.png",
+    "note": "夜景窗光和粉色绸带有层次，右侧脸部清楚。横裁可保留头、肩和左侧伸臂，举高手与腿部绸带会被截断。"
+  },
+  {
+    "number": 48,
+    "id": "148597052",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 2200,
+      "width": 5782,
+      "height": 3304
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/048_148597052_7x4.png",
+    "note": "右侧大脸、紫眼和蓝发辨识清楚，背景有更衣情节与表情插图；横裁可以保留完整五官，但会切掉部分头顶和换衣动作，裸身主题明显。"
+  },
+  {
+    "number": 49,
+    "id": "148829100",
+    "viewed": true,
+    "crop": {
+      "left": 30,
+      "top": 0,
+      "width": 3780,
+      "height": 2160
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/049_148829100_7x4.png",
+    "note": "横躺人物与冰蓝水纹的构图自然，脸和伸出的手都能完整留下。7:4 几乎无需改动，闭眼及略朝后的角度使五官辨识弱于正脸近景。"
+  },
+  {
+    "number": 50,
+    "id": "148074226",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 300,
+      "width": 5054,
+      "height": 2888
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/050_148074226_7x4.png",
+    "note": "脸部与蓝色衣饰有完整光影，近景腿部透视占据大半画面；横裁上方可留下头脸，抬腿动作会被截断，画面重心较挤。"
+  },
+  {
+    "number": 51,
+    "id": "148061205",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 0,
+      "width": 3423,
+      "height": 1956
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/051_148061205_7x4.png",
+    "note": "脸部大且清楚，横向头像构图只需少量裁下方。白底较简单，头顶在原图中已截断，服装边缘细节少于完整场景作品。"
+  },
+  {
+    "number": 52,
+    "id": "149962477",
+    "viewed": true,
+    "crop": {
+      "left": 30,
+      "top": 0,
+      "width": 3780,
+      "height": 2160
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/052_149962477_7x4.png",
+    "note": "双人舞台、话筒和表情清楚，原本横向构图只需轻裁左右。高亮肤色稍淡，奥黛塔头饰与举手在原图顶部已有截断。"
+  },
+  {
+    "number": 53,
+    "id": "148006701",
+    "viewed": true,
+    "crop": {
+      "left": 22,
+      "top": 0,
+      "width": 2835,
+      "height": 1620
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/053_148006701_7x4.png",
+    "note": "天鹅、光带与上下双重人像形成完整横幅，蓝黑配色和细节丰富；主舞者脸较小，上方大头像偏暗，横裁几乎保留全部构图。"
+  },
+  {
+    "number": 54,
+    "id": "147798350",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 900,
+      "width": 4739,
+      "height": 2708
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "recrops_subject/054_147798350_subject_7x4.png",
+    "note": "下移取景，减少发顶上方空白与长饰羽，补入更多背部、腰饰和伸展手臂。 "
+  },
+  {
+    "number": 55,
+    "id": "147298605",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 0,
+      "width": 5782,
+      "height": 3304
+    },
+    "scoreTotal": 71,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/055_147298605_7x4.png",
+    "note": "向两侧展开的双臂和脸部可在上部横裁中保留，原生像素较充足。背景与服装光影较简单，舞裙和抬腿动作会被截断。"
+  },
+  {
+    "number": 56,
+    "id": "147022440",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 1000,
+      "width": 3899,
+      "height": 2228
+    },
+    "scoreTotal": 91,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "recrops_subject/056_147022440_subject_7x4.png",
+    "note": "原裁切把脸压在下沿并留下大量月亮与剑；下移保留头部和胸腰，允许剑尖及举起的手局部出框。 "
+  },
+  {
+    "number": 57,
+    "id": "148928040",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 0,
+      "width": 3647,
+      "height": 2084
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/057_148928040_7x4.png",
+    "note": "双人侧脸、牵手与服饰清楚，黑背景形成强对比。横裁可保留两张脸和上方手势，底部腰部互动会少量丢失，奥黛塔接近中央。"
+  },
+  {
+    "number": 58,
+    "id": "149295996",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 200,
+      "width": 4578,
+      "height": 2616
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/058_149295996_7x4.png",
+    "note": "坐姿、白色芭蕾裙和暗蓝侧光绘制有层次，原生像素较充足。上部横裁可保留头和主要上身，但交叉手臂、舞鞋会丢失，脸的明度偏低。"
+  },
+  {
+    "number": 59,
+    "id": "149868549",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 0,
+      "width": 4088,
+      "height": 2336
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/059_149868549_7x4.png",
+    "note": "人物色块、服装和投影清楚，裁成上半身仍能保持舞姿。圆形背景横裁后会截断，头饰顶部在原图中已贴边。"
+  },
+  {
+    "number": 60,
+    "id": "149790276",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 1000,
+      "width": 3808,
+      "height": 2176
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "completeness_recrops/060_149790276_7x4.png",
+    "note": "按给定旧尺寸下移实裁，增加前臂和膝腿；横幅仍无法同时容纳脸与下方舞鞋，保留此限制。"
+  },
+  {
+    "number": 61,
+    "id": "149477123",
+    "viewed": true,
+    "crop": {
+      "left": 20,
+      "top": 0,
+      "width": 2520,
+      "height": 1440
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/061_149477123_7x4.png",
+    "note": "正脸特写清楚，暖色书架与蓝发形成对比。原图接近目标比例，少量裁掉左右边缘即可，头顶在原图中已贴边。"
+  },
+  {
+    "number": 62,
+    "id": "147636914",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 10,
+      "width": 4095,
+      "height": 2340
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/062_147636914_7x4.png",
+    "note": "练舞室、镜中背影与右侧人物的空间关系清楚，横幅能保留主要头部和场景。原图接近 7:4，仅收掉顶部少量边缘；奥黛塔的脸处于阴影，明度偏低。"
+  },
+  {
+    "number": 63,
+    "id": "149363228",
+    "viewed": true,
+    "crop": {
+      "left": 47,
+      "top": 1,
+      "width": 3416,
+      "height": 1952
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/063_149363228_7x4.png",
+    "note": "发丝、衣服和地面光影完整，横图轻裁左右即可适配。前景腿部占幅较大，遮挡了部分面部与人物轮廓。"
+  },
+  {
+    "number": 64,
+    "id": "148377839",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 600,
+      "width": 2996,
+      "height": 1712
+    },
+    "scoreTotal": 89,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "recrops_subject/064_148377839_subject_7x4.png",
+    "note": "向下取景，减少吊灯、雪花及头顶装饰占比，补入胸腰和服装主体。 "
+  },
+  {
+    "number": 65,
+    "id": "147880792",
+    "viewed": true,
+    "crop": {
+      "left": 30,
+      "top": 0,
+      "width": 3780,
+      "height": 2160
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/065_147880792_7x4.png",
+    "note": "正面大脸与头饰清楚，横向头像只需少量裁两边。白底和模型光影较简单，长头饰顶端在原图已出界。"
+  },
+  {
+    "number": 66,
+    "id": "150502130",
+    "viewed": true,
+    "crop": {
+      "left": 54,
+      "top": 0,
+      "width": 2891,
+      "height": 1652
+    },
+    "scoreTotal": 73,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/066_150502130_7x4.png",
+    "note": "冷暖两侧、中央人物与周围舞姿组成完整横幅，服饰光影丰富。原比例接近目标，主要脸和小人物都可保留，中央签名文字较醒目。"
+  },
+  {
+    "number": 67,
+    "id": "149584330",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 0,
+      "width": 4116,
+      "height": 2352
+    },
+    "scoreTotal": 87,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/067_149584330_7x4.png",
+    "note": "紫眼、发饰和金属衣饰细致，白底轮廓干净；横裁上方能留完整头脸与肩胸，但伸展双臂和腿部动作会被截断。"
+  },
+  {
+    "number": 68,
+    "id": "149664844",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 180,
+      "width": 5404,
+      "height": 3088
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/068_149664844_7x4.png",
+    "note": "使用旧裁，保留完整双手和前臂。"
+  },
+  {
+    "number": 69,
+    "id": "149028118",
+    "viewed": true,
+    "crop": {
+      "left": 30,
+      "top": 0,
+      "width": 3780,
+      "height": 2160
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/069_149028118_7x4.png",
+    "note": "双天鹅、羽毛和舞台反光构成自然横图，轻裁左右即可保留主要场景。人物仅露较小的仰视侧脸，暗部较多，识别度低于大脸作品。"
+  },
+  {
+    "number": 70,
+    "id": "149623802",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 0,
+      "width": 2793,
+      "height": 1596
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/070_149623802_7x4.png",
+    "note": "两张脸和手势都清楚，配色与校服线条统一。横裁可保留表情和上部手势，奥黛塔在左侧，原图顶部已切掉部分头发。"
+  },
+  {
+    "number": 71,
+    "id": "149111838",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 220,
+      "width": 2520,
+      "height": 1440
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/071_149111838_7x4.png",
+    "note": "中央署名已完整保留，下缘不再截断字形。脸、脸旁手势和发型主体仍完整，顶部发梢虽贴边但未被切断，修正裁框通过。"
+  },
+  {
+    "number": 72,
+    "id": "149041527",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 0,
+      "width": 2996,
+      "height": 1712
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/072_149041527_7x4.png",
+    "note": "脸部占幅大，眼睛和服装色块清楚，取上部可保留完整脸与右侧手套。横裁会丢失胸腰以下内容及少量发尾，主体偏左。"
+  },
+  {
+    "number": 73,
+    "id": "148949207",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 500,
+      "width": 3997,
+      "height": 2284
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/073_148949207_7x4.png",
+    "note": "暖色光与蓝色服饰搭配柔和，双人舞姿和衣料细节完整；横裁可保留头部与展开的手臂，但舞步和裙摆会丢失，脸部稍小。"
+  },
+  {
+    "number": 74,
+    "id": "148786399",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2520,
+      "height": 1440
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/074_148786399_7x4.png",
+    "note": "人物、摆件与室内灯光构成完整横幅，目标比例可直接保留全图。脸位于约右侧六成位置且清楚，印刷像素是主要限制。"
+  },
+  {
+    "number": 75,
+    "id": "148119902",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 1250,
+      "width": 3332,
+      "height": 1904
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/075_148119902_7x4.png",
+    "note": "亮色人物与暗色背影形成层次，服装和面部细节齐整。中上部横裁能留下完整脸、头饰和双臂的主要部分，裙摆与脚步会丢失。"
+  },
+  {
+    "number": 76,
+    "id": "150249744",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 1200,
+      "width": 5782,
+      "height": 3304
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/076_150249744_7x4.png",
+    "note": "温泉双人场景和水面有完整着色，奥黛塔侧脸位于左侧；横裁可保留两张脸，但会截掉举手动作，裸身主题和简化发饰降低角色辨识。"
+  },
+  {
+    "number": 77,
+    "id": "149365198",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 750,
+      "width": 5782,
+      "height": 3304
+    },
+    "scoreTotal": 87,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/077_149365198_7x4.png",
+    "note": "修正预览保留两人的完整五官和下巴，左侧人物下巴距下沿较近但未被切断。底部没有半截红字或红色残片，头肩特写成立；已看裁框原图，底部作者署名与日期位于裁框外。"
+  },
+  {
+    "number": 78,
+    "id": "149305154",
+    "viewed": true,
+    "crop": {
+      "left": 30,
+      "top": 0,
+      "width": 3780,
+      "height": 2160
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/078_149305154_7x4.png",
+    "note": "人物斜向姿态适合横图，脸与两只手能保留，背景虚化有层次。模型皮肤光泽较强，头饰在顶部已有截断，人物偏左。"
+  },
+  {
+    "number": 79,
+    "id": "147686053",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 1500,
+      "width": 3535,
+      "height": 2020
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/079_147686053_7x4.png",
+    "note": "大脸表情、紫眼和发丝线条清楚，画框与浅色背景有完整装饰；横裁能保留五官，但额饰、头顶与手势不能同时留下，适合紧凑脸部特写。"
+  },
+  {
+    "number": 80,
+    "id": "150362077",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 350,
+      "width": 3731,
+      "height": 2132
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/080_150362077_7x4.png",
+    "note": "跑车、碎镜与人物构成完整场景，蓝色反光细节丰富。横裁可保留人物脸和大部分舞姿，脸较小，上方吊灯与下方地面会被截去。"
+  },
+  {
+    "number": 81,
+    "id": "149969214",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 0,
+      "width": 4130,
+      "height": 2360
+    },
+    "scoreTotal": 70,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/081_149969214_7x4.png",
+    "note": "侧脸与金属、羽饰细节清楚，浅色背景让人物边缘容易辨认。取顶部横幅能保留脸和伸出的手臂，左侧头饰原本已触边。"
+  },
+  {
+    "number": 82,
+    "id": "149216860",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 60,
+      "width": 3066,
+      "height": 1752
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/082_149216860_7x4.png",
+    "note": "两人面部与服装轮廓清楚，取上部横裁能同时保留完整头部。背景和肤色整体偏暗，奥黛塔在左侧。"
+  },
+  {
+    "number": 83,
+    "id": "148995516",
+    "viewed": true,
+    "crop": {
+      "left": 350,
+      "top": 0,
+      "width": 2870,
+      "height": 1640
+    },
+    "scoreTotal": 63,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/083_148995516_7x4.png",
+    "note": "原画是彩色眼部特写，完整嘴和下巴本来不在画面内；裁剪保留双眼与额饰主要形态，作为眼部特写风格备选。"
+  },
+  {
+    "number": 84,
+    "id": "148680955",
+    "viewed": true,
+    "crop": {
+      "left": 20,
+      "top": 0,
+      "width": 2520,
+      "height": 1440
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/084_148680955_7x4.png",
+    "note": "海天背景和倾斜半身构图适合横幅，右侧脸部较大且五官清楚；3D 渲染的阴影较平，手指遮住部分额头，原生像素偏少。"
+  },
+  {
+    "number": 85,
+    "id": "148414928",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 1500,
+      "width": 4207,
+      "height": 2404
+    },
+    "scoreTotal": 73,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/085_148414928_7x4.png",
+    "note": "冷暖光与碎块笔触有层次，右侧大脸醒目，但细杆横穿面部。横裁可保留五官和下颌，头顶与背景小舞者会被截断。"
+  },
+  {
+    "number": 86,
+    "id": "148927103",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 350,
+      "width": 3997,
+      "height": 2284
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/086_148927103_7x4.png",
+    "note": "蓝色碎光和衣裙明暗衬出舞者，右侧头脸清楚；横裁可留下头部与横伸手臂，但上举手与大裙摆会截断，局部线条仍有草绘感。"
+  },
+  {
+    "number": 87,
+    "id": "148900925",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 755,
+      "width": 2702,
+      "height": 1544
+    },
+    "scoreTotal": 88,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "recrop_087/087_148900925_right_shoe_tight_top_7x4.png",
+    "note": "右侧较宽裁版收掉231px，人物更靠近右边缘；鞋尖完整露出，与顶边只留窄缝。保留脸与左下方的手。"
+  },
+  {
+    "number": 88,
+    "id": "148080705",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 250,
+      "width": 3598,
+      "height": 2056
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/088_148080705_7x4.png",
+    "note": "舞台暖光和深背景衬出白发与手臂，侧倾脸清楚。横裁可保留右侧头部和部分双臂，但顶部举手及下部裙装会被截断。"
+  },
+  {
+    "number": 89,
+    "id": "148752543",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 3780,
+      "height": 2160
+    },
+    "scoreTotal": 91,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "completeness_recrops/089_148752543_7x4.png",
+    "note": "按旧尺寸直接左移实裁，完整保留原图高度，右侧签名残留不扣分。"
+  },
+  {
+    "number": 90,
+    "id": "147553269",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 650,
+      "width": 3654,
+      "height": 2088
+    },
+    "scoreTotal": 87,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "recrops_subject/090_147553269_subject_7x4.png",
+    "note": "原裁框上方背景偏多，脸和肩膀压在下边缘；下移后保住整张脸并多留胸肩，允许裁掉顶部伸出的羽饰和右上签名。 "
+  },
+  {
+    "number": 91,
+    "id": "148557809",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 100,
+      "width": 3717,
+      "height": 2124
+    },
+    "scoreTotal": 73,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/091_148557809_7x4.png",
+    "note": "水彩质感、脸部表情与宝石衣饰完整，奥黛塔在右侧前景；横裁可保留头脸和后方人物的头部，但肩臂动作与下方装饰会截短。"
+  },
+  {
+    "number": 92,
+    "id": "official_announcement_1920",
+    "viewed": true,
+    "crop": {
+      "left": 15,
+      "top": 0,
+      "width": 1890,
+      "height": 1080
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/092_official_announcement_1920_7x4.png",
+    "note": "官方角色介绍大脸位于右侧，左侧名字和图案保留，7:4几乎不用重裁；原生裁剪约69 ppi，作偏右构图备选。"
+  },
+  {
+    "number": 93,
+    "id": "150498738",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 300,
+      "width": 3199,
+      "height": 1828
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/093_150498738_7x4.png",
+    "note": "回头的脸部、肩背和夜色光影绘制完整，暗背景能衬出人物。横裁可保留头饰与肩部，腿部和座椅会舍弃。"
+  },
+  {
+    "number": 94,
+    "id": "148993587",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 0,
+      "width": 2996,
+      "height": 1712
+    },
+    "scoreTotal": 89,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/094_148993587_7x4.png",
+    "note": "雪树与蓝天背景有层次，奥黛塔在右侧，脸部和回头动作清楚；横裁上方能留完整头脸与抬手，细剑和下方裙摆会丢失。"
+  },
+  {
+    "number": 95,
+    "id": "148393517",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 280,
+      "width": 3101,
+      "height": 1772
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/095_148393517_7x4.png",
+    "note": "右侧脸部和发饰细节丰富，彩色折射光与前景伸手形成动态；横裁可留完整头脸，但大手与身体会截短，红蓝错位使部分轮廓偏软。"
+  },
+  {
+    "number": 96,
+    "id": "official_pv_teaser_135",
+    "viewed": true,
+    "crop": {
+      "left": 15,
+      "top": 0,
+      "width": 1890,
+      "height": 1080
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/096_official_pv_teaser_135_7x4.png",
+    "note": "官方PV中的紫眼大脸清楚位于右侧，左边保留另一人物的前景；横裁几乎无损，原生裁剪约69 ppi。"
+  },
+  {
+    "number": 98,
+    "id": "dan_11892903",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 1,
+      "width": 1771,
+      "height": 1012
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/098_dan_11892903_7x4.png",
+    "note": "蓝粉配色、花朵与三处人物形态细致；7:4可保留主要脸部并让主脸偏右，原生裁剪约64 ppi。"
+  },
+  {
+    "number": 99,
+    "id": "official_pv_teaser_102",
+    "viewed": true,
+    "crop": {
+      "left": 15,
+      "top": 0,
+      "width": 1890,
+      "height": 1080
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/099_official_pv_teaser_102_7x4.png",
+    "note": "官方PV的镜面与大脸组合完整，横裁几乎无损；视频压缩使轮廓较软，原生裁剪约69 ppi。"
+  },
+  {
+    "number": 100,
+    "id": "150378023",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 30,
+      "width": 1596,
+      "height": 912
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "crops_7x4/100_150378023_7x4.png",
+    "note": "婚纱、蕾丝、雪城和发饰细节充分，横裁可保留大脸并让脸在右侧；竖幅会舍弃裙摆与花束，原生裁剪约58 ppi。"
+  },
+  {
+    "number": 101,
+    "id": "official_wiki_avatar",
+    "viewed": true,
+    "crop": {
+      "left": 128,
+      "top": 0,
+      "width": 1792,
+      "height": 1024
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/101_official_wiki_avatar_7x4.png",
+    "note": "官方原画的人物、服装和羽光细节完整；PNG包含透明背景，横裁保留脸和主要舞姿，原生裁剪约65 ppi，作为透明立绘素材备选。"
+  },
+  {
+    "number": 102,
+    "id": "official_pv_trailer_085",
+    "viewed": true,
+    "crop": {
+      "left": 320,
+      "top": 0,
+      "width": 1890,
+      "height": 1080
+    },
+    "scoreTotal": 71,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "crops_7x4/102_official_pv_trailer_085_7x4.png",
+    "note": "官方PV的单人伸手构图清楚，脸与手势可保留；画面偏暗，原生横裁约69 ppi，作3D舞台风格备选。"
+  },
+  {
+    "number": 103,
+    "id": "148473760",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 400,
+      "width": 1526,
+      "height": 872
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "recrops_subject/103_148473760_subject_7x4.png",
+    "note": "下移裁框，减少头顶头发占比，让眼睛、下巴、颈部和肩部一起进入画面；顶部发饰可部分舍去。 "
+  },
+  {
+    "number": 105,
+    "id": "150579545",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 850,
+      "width": 2394,
+      "height": 1368
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/105_150579545_7x4.png",
+    "note": "竖图已用最大宽度，保留面部近景；完整双手无法同时纳入。"
+  },
+  {
+    "number": 106,
+    "id": "150549872",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 1100,
+      "width": 2695,
+      "height": 1540
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/106_150549872_7x4.png",
+    "note": "保留最大宽度的脸与肩部近景。"
+  },
+  {
+    "number": 107,
+    "id": "150236926",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 80,
+      "width": 2891,
+      "height": 1652
+    },
+    "scoreTotal": 87,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/107_150236926_7x4.png",
+    "note": "保持2891×1652，上移至top=80，优先保留举手动作。"
+  },
+  {
+    "number": 108,
+    "id": "150218348",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 200,
+      "width": 2891,
+      "height": 1652
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/108_150218348_7x4.png",
+    "note": "原图为竖幅，保留当前脸与肩颈构图。"
+  },
+  {
+    "number": 109,
+    "id": "150194283",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 300,
+      "width": 2639,
+      "height": 1508
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/109_150194283_7x4.png",
+    "note": "竖幅双人图，当前最大宽度可完整保留两张脸。"
+  },
+  {
+    "number": 110,
+    "id": "150054005",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 650,
+      "width": 2499,
+      "height": 1428
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/110_150054005_7x4.png",
+    "note": "保持原图最大横裁宽度，两张脸完整。"
+  },
+  {
+    "number": 111,
+    "id": "149992811",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 820,
+      "width": 2506,
+      "height": 1432
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/111_149992811_7x4.png",
+    "note": "由1960×1120扩大为2506×1432，保留更多手势和肩部。"
+  },
+  {
+    "number": 112,
+    "id": "149735185",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 700,
+      "width": 2156,
+      "height": 1232
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/112_149735185_7x4.png",
+    "note": "原图竖幅且上下层元素较多，保留大脸近景。"
+  },
+  {
+    "number": 113,
+    "id": "149710633",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 700,
+      "width": 3535,
+      "height": 2020
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/113_149710633_7x4.png",
+    "note": "当前已用最大横裁宽度，保留完整五官与下巴。"
+  },
+  {
+    "number": 114,
+    "id": "149704126",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 400,
+      "width": 3080,
+      "height": 1760
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/114_149704126_7x4.png",
+    "note": "同尺寸下移到top=400以保住右侧两个人物脚部。"
+  },
+  {
+    "number": 115,
+    "id": "149672220",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 200,
+      "width": 2891,
+      "height": 1652
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/115_149672220_7x4.png",
+    "note": "保留最大宽度近景，完整脸优先。"
+  },
+  {
+    "number": 116,
+    "id": "149602376",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 400,
+      "width": 2513,
+      "height": 1436
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/116_149602376_7x4.png",
+    "note": "保持最大宽度，原图缺失的手部无法恢复。"
+  },
+  {
+    "number": 117,
+    "id": "149569137",
+    "viewed": true,
+    "crop": {
+      "left": 500,
+      "top": 0,
+      "width": 2100,
+      "height": 1200
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/117_149569137_7x4.png",
+    "note": "保留全高，当前框已容纳完整舞姿。"
+  },
+  {
+    "number": 118,
+    "id": "149564954",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 70,
+      "width": 2254,
+      "height": 1288
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/118_149564954_7x4.png",
+    "note": "同尺寸上移，保留更多上举手；全身高度超出7:4可用范围。"
+  },
+  {
+    "number": 119,
+    "id": "149427178",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 1050,
+      "width": 4319,
+      "height": 2468
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/119_149427178_7x4.png",
+    "note": "扩大到4319×2468并上移，保留双手，不为去文字收窄。"
+  },
+  {
+    "number": 120,
+    "id": "149284135",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 650,
+      "width": 2891,
+      "height": 1652
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/120_149284135_7x4.png",
+    "note": "保留最大宽度近景，竖图不能同时容纳完整坐姿。"
+  },
+  {
+    "number": 121,
+    "id": "149268218",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 200,
+      "width": 2296,
+      "height": 1312
+    },
+    "scoreTotal": 89,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/121_149268218_7x4.png",
+    "note": "最大宽度保留两张脸、双手及胸腰。"
+  },
+  {
+    "number": 122,
+    "id": "149265851",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 850,
+      "width": 2506,
+      "height": 1432
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/122_149265851_7x4.png",
+    "note": "保留现有半身取景，手部原图也在边缘之外。"
+  },
+  {
+    "number": 123,
+    "id": "149247628",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 450,
+      "width": 2926,
+      "height": 1672
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/123_149247628_7x4.png",
+    "note": "保留最大横裁宽度，优先完整脸与肩部。"
+  },
+  {
+    "number": 124,
+    "id": "149205582",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 1280,
+      "width": 2506,
+      "height": 1432
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/124_149205582_7x4.png",
+    "note": "由2100×1200扩大为2506×1432，保住双手并补入躯干。"
+  },
+  {
+    "number": 125,
+    "id": "149198794",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 700,
+      "width": 2499,
+      "height": 1428
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/125_149198794_7x4.png",
+    "note": "最大宽度下保留眼部、嘴和下巴，无法同时纳入整只上方手掌。"
+  },
+  {
+    "number": 126,
+    "id": "149068523",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 100,
+      "width": 3199,
+      "height": 1828
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/126_149068523_7x4.png",
+    "note": "保留最大横裁宽度及右手动作。"
+  },
+  {
+    "number": 127,
+    "id": "149059502",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 3500,
+      "width": 3794,
+      "height": 2168
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/127_149059502_7x4.png",
+    "note": "原图纵向跨度过大，当前近景保住脸，无法恢复完整抬腿动作。"
+  },
+  {
+    "number": 128,
+    "id": "149014264",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 400,
+      "width": 2478,
+      "height": 1416
+    },
+    "scoreTotal": 72,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/128_149014264_7x4.png",
+    "note": "保留最大宽度，当前可见脸、完整前伸手与上身。"
+  },
+  {
+    "number": 129,
+    "id": "148958806",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 150,
+      "width": 2723,
+      "height": 1556
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/129_148958806_7x4.png",
+    "note": "同尺寸上移至top=150，保留手势与完整下巴，签名允许入框。"
+  },
+  {
+    "number": 130,
+    "id": "148955351",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 250,
+      "width": 2996,
+      "height": 1712
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/130_148955351_7x4.png",
+    "note": "最大宽度下保留脸、上身及左手，无法同时容纳下方右手。"
+  },
+  {
+    "number": 132,
+    "id": "148878671",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 800,
+      "width": 4046,
+      "height": 2312
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/132_148878671_7x4.png",
+    "note": "扩大到4046×2312并上移，优先恢复两只手和弯臂动作。"
+  },
+  {
+    "number": 133,
+    "id": "148878485",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 200,
+      "width": 2996,
+      "height": 1712
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/133_148878485_7x4.png",
+    "note": "保持最大横裁宽度，保留双人脸与抬手。"
+  },
+  {
+    "number": 134,
+    "id": "148794514",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 900,
+      "width": 2688,
+      "height": 1536
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/134_148794514_7x4.png",
+    "note": "当前最大宽度保住完整脸，无法同时纳入下方两只手。"
+  },
+  {
+    "number": 135,
+    "id": "148777711",
+    "viewed": true,
+    "crop": {
+      "left": 20,
+      "top": 0,
+      "width": 2520,
+      "height": 1440
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/135_148777711_7x4.png",
+    "note": "保持原图全高，仅作7:4必要边裁。"
+  },
+  {
+    "number": 136,
+    "id": "148747652",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 200,
+      "width": 2499,
+      "height": 1428
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/136_148747652_7x4.png",
+    "note": "保持最大宽度头像近景，未为去签名进一步收窄。"
+  },
+  {
+    "number": 137,
+    "id": "148743802",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 800,
+      "width": 2597,
+      "height": 1484
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/137_148743802_7x4.png",
+    "note": "维持最大宽度脸与肩胸取景，原图脚部本就出框。"
+  },
+  {
+    "number": 138,
+    "id": "148670256",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 400,
+      "width": 2100,
+      "height": 1200
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/138_148670256_7x4.png",
+    "note": "保持最大宽度的脸与肩部近景。"
+  },
+  {
+    "number": 139,
+    "id": "148659926",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 300,
+      "width": 1995,
+      "height": 1140
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/139_148659926_7x4.png",
+    "note": "保留最大宽度，脸和左手主要手势均可见。"
+  },
+  {
+    "number": 140,
+    "id": "148658694",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 50,
+      "width": 2478,
+      "height": 1416
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/140_148658694_7x4.png",
+    "note": "原图纵向手臂跨度超过横裁高度，保留完整脸和上方手势。"
+  },
+  {
+    "number": 141,
+    "id": "148635444",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 200,
+      "width": 2730,
+      "height": 1560
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/141_148635444_7x4.png",
+    "note": "保留最大宽度的半身构图，无法恢复原图已出框的上举手。"
+  },
+  {
+    "number": 142,
+    "id": "148627276",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 650,
+      "width": 2618,
+      "height": 1496
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/142_148627276_7x4.png",
+    "note": "保持最大宽度，完整脸与主要胸肩均可见。"
+  },
+  {
+    "number": 143,
+    "id": "148526268",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 300,
+      "width": 3507,
+      "height": 2004
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/143_148526268_7x4.png",
+    "note": "扩大到3507×2004，恢复完整前伸手，允许文字和水印保留。"
+  },
+  {
+    "number": 144,
+    "id": "148480157",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 1000,
+      "width": 2303,
+      "height": 1316
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/144_148480157_7x4.png",
+    "note": "保持最大宽度的面部近景。"
+  },
+  {
+    "number": 145,
+    "id": "148435665",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 700,
+      "width": 2996,
+      "height": 1712
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/145_148435665_7x4.png",
+    "note": "扩大到2996×1712，保留更多肩背，不为右侧签名收窄。"
+  },
+  {
+    "number": 146,
+    "id": "148406886",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 100,
+      "width": 2499,
+      "height": 1428
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/146_148406886_7x4.png",
+    "note": "保持最大宽度，双手和剑的主要部分完整。"
+  },
+  {
+    "number": 147,
+    "id": "148393737",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 1000,
+      "width": 2296,
+      "height": 1312
+    },
+    "scoreTotal": 87,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/147_148393737_7x4.png",
+    "note": "保持最大宽度，完整五官和主要手势均可见。"
+  },
+  {
+    "number": 148,
+    "id": "148393007",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 650,
+      "width": 2198,
+      "height": 1256
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/148_148393007_7x4.png",
+    "note": "保持最大宽度的脸与抬手近景。"
+  },
+  {
+    "number": 149,
+    "id": "148373095",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 0,
+      "width": 2086,
+      "height": 1192
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/149_148373095_7x4.png",
+    "note": "同尺寸上移至top=0，优先恢复头顶手势。"
+  },
+  {
+    "number": 150,
+    "id": "148350857",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 100,
+      "width": 3087,
+      "height": 1764
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/150_148350857_7x4.png",
+    "note": "同尺寸上移至top=100，保住头顶手指。"
+  },
+  {
+    "number": 151,
+    "id": "148341492",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 120,
+      "width": 2394,
+      "height": 1368
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/151_148341492_7x4.png",
+    "note": "扩大到2394×1368，保留更多双手、膝部及裙摆。"
+  },
+  {
+    "number": 152,
+    "id": "148340120",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 600,
+      "width": 2303,
+      "height": 1316
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/152_148340120_7x4.png",
+    "note": "最大宽度近景保留完整五官与下巴。"
+  },
+  {
+    "number": 153,
+    "id": "148331097",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 0,
+      "width": 3759,
+      "height": 2148
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/153_148331097_7x4.png",
+    "note": "同尺寸上移至top=0，恢复原图能保留的举手动作。"
+  },
+  {
+    "number": 154,
+    "id": "148326612",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 500,
+      "width": 2996,
+      "height": 1712
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/154_148326612_7x4.png",
+    "note": "保留最大宽度近景，脸与主要肩背完整。"
+  },
+  {
+    "number": 155,
+    "id": "148286000",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 260,
+      "width": 3570,
+      "height": 2040
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/155_148286000_7x4.png",
+    "note": "扩大到3570×2040并上移，优先保留上举手与肩背动作。"
+  },
+  {
+    "number": 156,
+    "id": "147987581",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 150,
+      "width": 2359,
+      "height": 1348
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/156_147987581_7x4.png",
+    "note": "最大宽度的脸与肩胸近景。"
+  },
+  {
+    "number": 157,
+    "id": "147970862",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 3024,
+      "height": 1728
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/157_147970862_7x4.png",
+    "note": "同尺寸上移至top=0，恢复完整上举手。"
+  },
+  {
+    "number": 158,
+    "id": "147855440",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 350,
+      "width": 2597,
+      "height": 1484
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/158_147855440_7x4.png",
+    "note": "保持最大宽度面部近景。"
+  },
+  {
+    "number": 159,
+    "id": "147487109",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 400,
+      "width": 1995,
+      "height": 1140
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/159_147487109_7x4.png",
+    "note": "最大宽度近景，原图手部本身已出框。"
+  },
+  {
+    "number": 160,
+    "id": "147426106",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 550,
+      "width": 3094,
+      "height": 1768
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/160_147426106_7x4.png",
+    "note": "保持最大宽度，保留完整脸和持物手势。"
+  },
+  {
+    "number": 161,
+    "id": "147223295",
+    "viewed": true,
+    "crop": {
+      "left": 80,
+      "top": 0,
+      "width": 2037,
+      "height": 1164
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/161_147223295_7x4.png",
+    "note": "保留原图全高与完整坐姿，仅裁必要侧边。"
+  },
+  {
+    "number": 162,
+    "id": "147178617",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 1100,
+      "width": 2835,
+      "height": 1620
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/162_147178617_7x4.png",
+    "note": "最大宽度下保留完整脸与上半身，无法同时容纳全部双手。"
+  },
+  {
+    "number": 163,
+    "id": "146979468",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 550,
+      "width": 4053,
+      "height": 2316
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/163_146979468_7x4.png",
+    "note": "保留最大宽度半身近景。"
+  },
+  {
+    "number": 164,
+    "id": "146933398",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 1150,
+      "width": 2156,
+      "height": 1232
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/164_146933398_7x4.png",
+    "note": "最大宽度保留完整脸，交叠手势无法全部纳入。"
+  },
+  {
+    "number": 165,
+    "id": "146868188",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 1450,
+      "width": 3549,
+      "height": 2028
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/165_146868188_7x4.png",
+    "note": "原图竖向跨度很大，当前已用最大宽度，保留半身取景。"
+  },
+  {
+    "number": 166,
+    "id": "146794583",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 100,
+      "width": 2058,
+      "height": 1176
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/166_146794583_7x4.png",
+    "note": "同尺寸上移200像素，补回头上手指；修正版已查看。"
+  },
+  {
+    "number": 167,
+    "id": "150790112",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 250,
+      "width": 2184,
+      "height": 1248
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/167_150790112_7x4.png",
+    "note": "保留最大宽度；竖向身体和举臂无法全纳入。"
+  },
+  {
+    "number": 168,
+    "id": "150674327",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 300,
+      "width": 2478,
+      "height": 1416
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/168_150674327_7x4.png",
+    "note": "原图竖幅，最大宽度下无法同时保住脸与下方双手；保留现框。"
+  },
+  {
+    "number": 170,
+    "id": "150545892",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 30,
+      "width": 2289,
+      "height": 1308
+    },
+    "scoreTotal": 87,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/170_150545892_7x4.png",
+    "note": "保留现框，主要互动没有裁断。"
+  },
+  {
+    "number": 171,
+    "id": "150541751",
+    "viewed": true,
+    "crop": {
+      "left": 22,
+      "top": 1500,
+      "width": 3150,
+      "height": 1800
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/171_150541751_7x4.png",
+    "note": "竖图已接近最大宽度，完整高抬腿无法纳入横幅。"
+  },
+  {
+    "number": 172,
+    "id": "150520212",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 200,
+      "width": 2506,
+      "height": 1432
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/172_150520212_7x4.png",
+    "note": "保留现框，长头饰局部出框不影响动作。"
+  },
+  {
+    "number": 173,
+    "id": "150321329",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 650,
+      "width": 2401,
+      "height": 1372
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/173_150321329_7x4.png",
+    "note": "手掌至胸腰的竖向跨度超出当前最大宽度可用高度，保留脸与上身。"
+  },
+  {
+    "number": 174,
+    "id": "150314882",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 250,
+      "width": 3507,
+      "height": 2004
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/174_150314882_7x4.png",
+    "note": "扩为原图最大7:4宽度，补回左侧肖像和更多腿部；修正版已查看。"
+  },
+  {
+    "number": 175,
+    "id": "149860642",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 450,
+      "width": 2156,
+      "height": 1232
+    },
+    "scoreTotal": 73,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/175_149860642_7x4.png",
+    "note": "同尺寸下移150像素，保留五官并多纳入持杯动作；修正版已查看。"
+  },
+  {
+    "number": 176,
+    "id": "149852547",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 50,
+      "width": 2800,
+      "height": 1600
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/176_149852547_7x4.png",
+    "note": "保持原框，交叠手指完整。"
+  },
+  {
+    "number": 177,
+    "id": "149847584",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 1000,
+      "width": 2996,
+      "height": 1712
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/177_149847584_7x4.png",
+    "note": "原图竖幅，当前保住主要上身舞姿。"
+  },
+  {
+    "number": 179,
+    "id": "149335848",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 850,
+      "width": 2891,
+      "height": 1652
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/179_149335848_7x4.png",
+    "note": "试过同尺寸下移，但会让眉眼过于贴顶；最终保留原框。"
+  },
+  {
+    "number": 180,
+    "id": "149314309",
+    "viewed": true,
+    "crop": {
+      "left": 4,
+      "top": 650,
+      "width": 2555,
+      "height": 1460
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/180_149314309_7x4.png",
+    "note": "保留最大宽度附近裁框，原图全身跨度过大。"
+  },
+  {
+    "number": 181,
+    "id": "149225300",
+    "viewed": true,
+    "crop": {
+      "left": 70,
+      "top": 150,
+      "width": 3430,
+      "height": 1960
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/181_149225300_7x4.png",
+    "note": "以原图上方两个人物为完整小构图，未留下第三张半脸。"
+  },
+  {
+    "number": 182,
+    "id": "149218945",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 150,
+      "width": 2394,
+      "height": 1368
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/182_149218945_7x4.png",
+    "note": "同尺寸上移350像素补回高举手势；修正版已查看。"
+  },
+  {
+    "number": 183,
+    "id": "149132980",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 100,
+      "width": 2422,
+      "height": 1384
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/183_149132980_7x4.png",
+    "note": "保留现框，已有最大宽度；默认作为备选。"
+  },
+  {
+    "number": 184,
+    "id": "149128727",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 300,
+      "width": 2499,
+      "height": 1428
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/184_149128727_7x4.png",
+    "note": "扩大至原图最大7:4宽度，补回腰部和更多手持道具；修正版已查看。"
+  },
+  {
+    "number": 185,
+    "id": "149108149",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 450,
+      "width": 2506,
+      "height": 1432
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/185_149108149_7x4.png",
+    "note": "原图手势离脸较远，最大宽度下保留完整脸部。"
+  },
+  {
+    "number": 186,
+    "id": "149034914",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 1500,
+      "width": 2912,
+      "height": 1664
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/186_149034914_7x4.png",
+    "note": "竖图双手至腰部跨度过大，当前优先保脸与肩背。"
+  },
+  {
+    "number": 187,
+    "id": "149003065",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 1000,
+      "width": 2996,
+      "height": 1712
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/187_149003065_7x4.png",
+    "note": "同尺寸下移450像素，保住五官并补肩胸和手势；修正版已查看。"
+  },
+  {
+    "number": 188,
+    "id": "148998541",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 300,
+      "width": 2506,
+      "height": 1432
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/188_148998541_7x4.png",
+    "note": "原图已是紧近景，保持现框。"
+  },
+  {
+    "number": 189,
+    "id": "148985827",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 600,
+      "width": 2478,
+      "height": 1416
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/189_148985827_7x4.png",
+    "note": "同尺寸下移300像素，补回左手与胸腰；修正版已查看。"
+  },
+  {
+    "number": 190,
+    "id": "148978305",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 100,
+      "width": 2002,
+      "height": 1144
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/190_148978305_7x4.png",
+    "note": "保留现框，主要动作完整。"
+  },
+  {
+    "number": 191,
+    "id": "148910799",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 100,
+      "width": 2996,
+      "height": 1712
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/191_148910799_7x4.png",
+    "note": "保留最大宽度裁框，脸与上身优先。"
+  },
+  {
+    "number": 192,
+    "id": "148909695",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 500,
+      "width": 2891,
+      "height": 1652
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/192_148909695_7x4.png",
+    "note": "原图高举手与下方动作无法同时进入横幅，保留半身。"
+  },
+  {
+    "number": 193,
+    "id": "148883208",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 850,
+      "width": 3612,
+      "height": 2064
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/193_148883208_7x4.png",
+    "note": "扩大至原图最大7:4宽度并微调下移，增加手势展示；修正版已查看。"
+  },
+  {
+    "number": 194,
+    "id": "148882042",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 1650,
+      "width": 2891,
+      "height": 1652
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/194_148882042_7x4.png",
+    "note": "竖向手掌至脸跨度过大，保留原框。"
+  },
+  {
+    "number": 195,
+    "id": "148872357",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 600,
+      "width": 2156,
+      "height": 1232
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/195_148872357_7x4.png",
+    "note": "脸至杯底距离超出最大7:4高度，保留完整面部和持勺手势。"
+  },
+  {
+    "number": 196,
+    "id": "148824911",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 850,
+      "width": 3374,
+      "height": 1928
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/196_148824911_7x4.png",
+    "note": "保留现框，原图动作竖向跨度较大。"
+  },
+  {
+    "number": 197,
+    "id": "148789890",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 100,
+      "width": 2905,
+      "height": 1660
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/197_148789890_7x4.png",
+    "note": "原图左手本已出框，现框未进一步损伤右侧动作。"
+  },
+  {
+    "number": 198,
+    "id": "148770482",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 200,
+      "width": 2996,
+      "height": 1712
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/198_148770482_7x4.png",
+    "note": "脸至前景手掌跨度超过原图最大7:4高度，保留面部上身取景。"
+  },
+  {
+    "number": 199,
+    "id": "148767371",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 3626,
+      "height": 2072
+    },
+    "scoreTotal": 87,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/199_148767371_7x4.png",
+    "note": "同尺寸上移至原图顶部，补回完整手势；修正版已查看。"
+  },
+  {
+    "number": 200,
+    "id": "148741076",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 150,
+      "width": 2394,
+      "height": 1368
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/200_148741076_7x4.png",
+    "note": "保持现框，双手均完整。"
+  },
+  {
+    "number": 201,
+    "id": "148670924",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 200,
+      "width": 2478,
+      "height": 1416
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/201_148670924_7x4.png",
+    "note": "原图上方手本已局部出框，现框保留面部上身。"
+  },
+  {
+    "number": 202,
+    "id": "148638479",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 700,
+      "width": 2996,
+      "height": 1712
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/202_148638479_7x4.png",
+    "note": "同尺寸下移350像素补入坐姿膝部；修正版已查看。"
+  },
+  {
+    "number": 203,
+    "id": "148634170",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 500,
+      "width": 2156,
+      "height": 1232
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/203_148634170_7x4.png",
+    "note": "保留现框，完整呈现主要面部互动。"
+  },
+  {
+    "number": 204,
+    "id": "148632546",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 1900,
+      "width": 4081,
+      "height": 2332
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/204_148632546_7x4.png",
+    "note": "同尺寸下移500像素，补入完整手指和更多上身；修正版已查看。"
+  },
+  {
+    "number": 205,
+    "id": "148625877",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 250,
+      "width": 2576,
+      "height": 1472
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/205_148625877_7x4.png",
+    "note": "同尺寸上移400像素补回高举手势；修正版已查看。"
+  },
+  {
+    "number": 206,
+    "id": "148533254",
+    "viewed": true,
+    "crop": {
+      "left": 450,
+      "top": 0,
+      "width": 2800,
+      "height": 1600
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/206_148533254_7x4.png",
+    "note": "扩大至2800×1600补回头饰及腰部，透明处沿用原预览底色；修正版已查看。"
+  },
+  {
+    "number": 207,
+    "id": "148341035",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 80,
+      "width": 3150,
+      "height": 1800
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/207_148341035_7x4.png",
+    "note": "同尺寸上移370像素补回左手，优先保双臂动作；修正版已查看。"
+  },
+  {
+    "number": 208,
+    "id": "148325572",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 0,
+      "width": 1995,
+      "height": 1140
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/208_148325572_7x4.png",
+    "note": "同尺寸上移至顶部补回双手，保留署名；修正版已查看。"
+  },
+  {
+    "number": 209,
+    "id": "148309449",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 450,
+      "width": 2751,
+      "height": 1572
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/209_148309449_7x4.png",
+    "note": "扩大至最大7:4宽度，补回前景手和上身，保留右侧文字；修正版已查看。"
+  },
+  {
+    "number": 210,
+    "id": "148240873",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 650,
+      "width": 3066,
+      "height": 1752
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/210_148240873_7x4.png",
+    "note": "原框保留脸与肩背，不再缩框。"
+  },
+  {
+    "number": 211,
+    "id": "148094542",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 650,
+      "width": 2128,
+      "height": 1216
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/211_148094542_7x4.png",
+    "note": "同尺寸下移250像素，补回右手和胸腰。"
+  },
+  {
+    "number": 212,
+    "id": "148041547",
+    "viewed": true,
+    "crop": {
+      "left": 30,
+      "top": 0,
+      "width": 3780,
+      "height": 2160
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/212_148041547_7x4.png",
+    "note": "扩大至原高，补回叉腰手与裙装。"
+  },
+  {
+    "number": 213,
+    "id": "148041528",
+    "viewed": true,
+    "crop": {
+      "left": 300,
+      "top": 50,
+      "width": 3150,
+      "height": 1800
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/213_148041528_7x4.png",
+    "note": "原框已保住演奏动作。"
+  },
+  {
+    "number": 214,
+    "id": "148005615",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 550,
+      "width": 2583,
+      "height": 1476
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/214_148005615_7x4.png",
+    "note": "原框保住脸和双手，竖幅下身无法同时纳入。"
+  },
+  {
+    "number": 215,
+    "id": "147357558",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 1000,
+      "width": 2835,
+      "height": 1620
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/215_147357558_7x4.png",
+    "note": "同尺寸上移300像素补头部；原幅过窄，无法同时保住脸和高举手脚。"
+  },
+  {
+    "number": 216,
+    "id": "147316713",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 900,
+      "width": 2968,
+      "height": 1696
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/216_147316713_7x4.png",
+    "note": "保留原框；竖幅无法在保脸时同时纳入下方支撑手。"
+  },
+  {
+    "number": 217,
+    "id": "147064500",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 250,
+      "width": 2450,
+      "height": 1400
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/217_147064500_7x4.png",
+    "note": "原框已保住脸和主要手势。"
+  },
+  {
+    "number": 218,
+    "id": "146980620",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 350,
+      "width": 2296,
+      "height": 1312
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/218_146980620_7x4.png",
+    "note": "同尺寸上移350像素补完整左手与发顶；右手与完整脸无法同时纳入。"
+  },
+  {
+    "number": 219,
+    "id": "146912348",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 575,
+      "width": 2436,
+      "height": 1392
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/219_146912348_7x4.png",
+    "note": "同尺寸下移75像素补回右手指尖；高举左手无法兼顾。"
+  },
+  {
+    "number": 220,
+    "id": "146901694",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 310,
+      "width": 2632,
+      "height": 1504
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/220_146901694_7x4.png",
+    "note": "同尺寸下移230像素，补回坐姿腿脚，保完整五官。"
+  },
+  {
+    "number": 221,
+    "id": "146775736",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 700,
+      "width": 2156,
+      "height": 1232
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/221_146775736_7x4.png",
+    "note": "保留原框作近景；竖幅无法同时纳入完整头部和下方手势。"
+  },
+  {
+    "number": 223,
+    "id": "150504502",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 1350,
+      "width": 2891,
+      "height": 1652
+    },
+    "scoreTotal": 72,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/223_150504502_7x4.png",
+    "note": "试过下移，但头部损失更大，最终保留原框。"
+  },
+  {
+    "number": 224,
+    "id": "150418678",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 230,
+      "width": 2100,
+      "height": 1200
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/224_150418678_7x4.png",
+    "note": "原框保留脸和双手主要动作。"
+  },
+  {
+    "number": 437,
+    "id": "147891239",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 100,
+      "width": 3052,
+      "height": 1744
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/437_147891239_7x4.png",
+    "note": "同尺寸上移到top=100，保住抬手与完整脸；竖图下身无法同时保留。"
+  },
+  {
+    "number": 438,
+    "id": "147421891",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 400,
+      "width": 2219,
+      "height": 1268
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/438_147421891_7x4.png",
+    "note": "同尺寸上移100px，保留更多头发；高头饰与下身舍去，五官完整。"
+  },
+  {
+    "number": 439,
+    "id": "147396612",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 560,
+      "width": 2751,
+      "height": 1572
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/439_147396612_7x4.png",
+    "note": "同尺寸上移140px，保留更多头发和握羽毛动作；下身舍去。"
+  },
+  {
+    "number": 440,
+    "id": "147375963",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 0,
+      "width": 4494,
+      "height": 2568
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/440_147375963_7x4.png",
+    "note": "同尺寸上移到原图顶边，优先保抬臂与鞋尖；左下手部仍切边，签名保留。"
+  },
+  {
+    "number": 225,
+    "id": "150407547",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 900,
+      "width": 2156,
+      "height": 1232
+    },
+    "scoreTotal": 67,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/225_150407547_7x4.png",
+    "note": "沿用宽裁，三张脸完整；前景角色头饰与下身舍去。"
+  },
+  {
+    "number": 226,
+    "id": "150299891",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 300,
+      "width": 2499,
+      "height": 1428
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/226_150299891_7x4.png",
+    "note": "同尺寸上移350px，保留更多头发；脸与扶耳机手完整，下身舍去。"
+  },
+  {
+    "number": 227,
+    "id": "150289062",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 1250,
+      "width": 2156,
+      "height": 1232
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/227_150289062_7x4.png",
+    "note": "沿用双脸宽裁；近脸V形手完整，向下指的手被裁去，竖图宽度限制下难兼顾。"
+  },
+  {
+    "number": 228,
+    "id": "150264275",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 450,
+      "width": 2303,
+      "height": 1316
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/228_150264275_7x4.png",
+    "note": "沿用裁框以保双手与右肘；少量头顶头发和下身舍去。"
+  },
+  {
+    "number": 229,
+    "id": "150217915",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 1250,
+      "width": 2156,
+      "height": 1232
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/229_150217915_7x4.png",
+    "note": "沿用宽裁，保住两张脸与整组比心双手；竖图下身及高头饰舍去。"
+  },
+  {
+    "number": 230,
+    "id": "150178024",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 3780,
+      "height": 2160
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/230_150178024_7x4.png",
+    "note": "恢复原高度的最大7:4宽裁，保留更多头发与肩部；右侧画质标识文字保留。"
+  },
+  {
+    "number": 231,
+    "id": "150134583",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 600,
+      "width": 2156,
+      "height": 1232
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/231_150134583_7x4.png",
+    "note": "沿用宽裁，保住主脸与胸前交叠手；高头饰与下身舍去。"
+  },
+  {
+    "number": 232,
+    "id": "150127663",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 500,
+      "width": 2331,
+      "height": 1332
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/232_150127663_7x4.png",
+    "note": "恢复原宽附近的最大7:4框，保留侧边文字和更多肩臂；下身舍去。"
+  },
+  {
+    "number": 233,
+    "id": "150092392",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 1300,
+      "width": 2156,
+      "height": 1232
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/233_150092392_7x4.png",
+    "note": "沿用宽裁，保近脸指尖动作；头顶头发及高头饰舍去。"
+  },
+  {
+    "number": 234,
+    "id": "150055718",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 800,
+      "width": 2156,
+      "height": 1232
+    },
+    "scoreTotal": 72,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/234_150055718_7x4.png",
+    "note": "下移试裁对手部改善有限且更伤头部，保留原框；记录下方手势损失。"
+  },
+  {
+    "number": 235,
+    "id": "150027870",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 150,
+      "width": 4130,
+      "height": 2360
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/235_150027870_7x4.png",
+    "note": "同尺寸上移200px，保住更多头发与弯肘动作；左侧伸臂在原图已出边。"
+  },
+  {
+    "number": 236,
+    "id": "149838675",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 300,
+      "width": 2996,
+      "height": 1712
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/236_149838675_7x4.png",
+    "note": "保留原框。脸与右手在竖向跨度过大，下移会裁掉眼睛。"
+  },
+  {
+    "number": 237,
+    "id": "149835467",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 1250,
+      "width": 2394,
+      "height": 1368
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/237_149835467_7x4.png",
+    "note": "同尺寸上移650px，保住后方人物脸与牵手；竖图舍去下方腿部。"
+  },
+  {
+    "number": 239,
+    "id": "149365983",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 750,
+      "width": 3535,
+      "height": 2020
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/239_149365983_7x4.png",
+    "note": "保留完整脸与抬臂方向；头顶发梢轻切，两手在原图已出边。"
+  },
+  {
+    "number": 240,
+    "id": "149312227",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 600,
+      "width": 2751,
+      "height": 1572
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/240_149312227_7x4.png",
+    "note": "保留完整脸与扶下巴动作；竖图横裁舍去头顶及下身。"
+  },
+  {
+    "number": 241,
+    "id": "149251202",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 50,
+      "width": 2569,
+      "height": 1468
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/241_149251202_7x4.png",
+    "note": "同尺寸上移600px，保住握持右手；下缘靠近下巴，舍去胸腰。"
+  },
+  {
+    "number": 242,
+    "id": "149040115",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 1050,
+      "width": 2800,
+      "height": 1600
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/242_149040115_7x4.png",
+    "note": "保留原框，优先脸和胸前手势；头顶与下方手腕不能同时完整保留。"
+  },
+  {
+    "number": 243,
+    "id": "148938227",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 300,
+      "width": 2912,
+      "height": 1664
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/243_148938227_7x4.png",
+    "note": "原宽横裁无法兼顾脸与低处手脚；下移会切眼睛，保留原框。"
+  },
+  {
+    "number": 244,
+    "id": "148899766",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 250,
+      "width": 2996,
+      "height": 1712
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/244_148899766_7x4.png",
+    "note": "同尺寸上移700px，保住抬臂手指与左上脚尖，舍去下方支撑腿。"
+  },
+  {
+    "number": 245,
+    "id": "148884293",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 500,
+      "width": 2590,
+      "height": 1480
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/245_148884293_7x4.png",
+    "note": "保留完整脸与手指；高头饰及头顶轻切，文字保留。"
+  },
+  {
+    "number": 246,
+    "id": "148795751",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 220,
+      "width": 3304,
+      "height": 1888
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/246_148795751_7x4.png",
+    "note": "保留上方人物原框；头顶及肘部轻切，避开下方分格。"
+  },
+  {
+    "number": 248,
+    "id": "148755139",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 100,
+      "width": 2898,
+      "height": 1656
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/248_148755139_7x4.png",
+    "note": "同尺寸上移550px，优先保住奥黛塔双手比心；背景头像和下身舍去。"
+  },
+  {
+    "number": 249,
+    "id": "148617126",
+    "viewed": true,
+    "crop": {
+      "left": 20,
+      "top": 0,
+      "width": 2520,
+      "height": 1440
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/249_148617126_7x4.png",
+    "note": "接近全图，保留双手与上半身；高头饰在原图已切边。"
+  },
+  {
+    "number": 250,
+    "id": "148587747",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 650,
+      "width": 2226,
+      "height": 1272
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/250_148587747_7x4.png",
+    "note": "保留脸和靠近面部的手；抬高另一手在原图已出边，头顶轻切。"
+  },
+  {
+    "number": 251,
+    "id": "148523976",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 0,
+      "width": 2891,
+      "height": 1652
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/251_148523976_7x4.png",
+    "note": "同尺寸上移400px，保住手掌和更多头发；指尖在原图顶部已出边。"
+  },
+  {
+    "number": 252,
+    "id": "148515955",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 350,
+      "width": 2037,
+      "height": 1164
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/252_148515955_7x4.png",
+    "note": "保留原框；脸和靠近面部的手完整，两侧肘端在原图已出边。"
+  },
+  {
+    "number": 253,
+    "id": "148466566",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 232,
+      "width": 2394,
+      "height": 1368
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/253_148466566_7x4.png",
+    "note": "同尺寸下移232px，补回下方左手及更多腿部；头顶切边但五官完整。"
+  },
+  {
+    "number": 254,
+    "id": "148404575",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 50,
+      "width": 2345,
+      "height": 1340
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/254_148404575_7x4.png",
+    "note": "扩大至原宽并上移，保住抬高手指、另一手及抬起的脚；舍去下方支撑腿，保留签名。"
+  },
+  {
+    "number": 255,
+    "id": "148389882",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 150,
+      "width": 2282,
+      "height": 1304
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/255_148389882_7x4.png",
+    "note": "同尺寸上移250px，保住握腿手；高鞋尖在原图已出边，下身舍去。"
+  },
+  {
+    "number": 256,
+    "id": "148364880",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 1,
+      "width": 2394,
+      "height": 1368
+    },
+    "scoreTotal": 87,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/256_148364880_7x4.png",
+    "note": "接近原图全幅，保留完整坐姿与手脚，背景多幅人像保持原构图。"
+  },
+  {
+    "number": 257,
+    "id": "148321294",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 300,
+      "width": 2065,
+      "height": 1180
+    },
+    "scoreTotal": 72,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/257_148321294_7x4.png",
+    "note": "保留原框保证完整脸与右手；左手与脸的竖向跨度超出原宽7:4。"
+  },
+  {
+    "number": 258,
+    "id": "148311453",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 1250,
+      "width": 2233,
+      "height": 1276
+    },
+    "scoreTotal": 72,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/258_148311453_7x4.png",
+    "note": "保留原框；下移补手会压住眼睛，上移补抬臂会失去下巴。"
+  },
+  {
+    "number": 259,
+    "id": "148295947",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 350,
+      "width": 2891,
+      "height": 1652
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/259_148295947_7x4.png",
+    "note": "保留完整脸和肩胸；两手在原图已出边，高头饰及头顶轻切。"
+  },
+  {
+    "number": 260,
+    "id": "148183113",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 550,
+      "width": 2394,
+      "height": 1368
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/260_148183113_7x4.png",
+    "note": "同尺寸上移300px，补回更多头发并保留双手；仅高头饰尖端切边。"
+  },
+  {
+    "number": 261,
+    "id": "147977996",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 700,
+      "width": 2359,
+      "height": 1348
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/261_147977996_7x4.png",
+    "note": "保留完整脸和扶下巴动作；高头饰和头顶轻切，未为装饰缩框。"
+  },
+  {
+    "number": 262,
+    "id": "146724728",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 300,
+      "width": 1995,
+      "height": 1140
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/262_146724728_7x4.png",
+    "note": "保留原框兼顾脸与左下手；右上指尖轻切，舍去下方腿部。"
+  },
+  {
+    "number": 263,
+    "id": "150379463",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 0,
+      "width": 3297,
+      "height": 1884
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/263_150379463_7x4.png",
+    "note": "同尺寸上移100px，补回右手指尖；左手在原图已出边，裙摆下缘舍去。"
+  },
+  {
+    "number": 264,
+    "id": "149801757",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 850,
+      "width": 2219,
+      "height": 1268
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/264_149801757_7x4.png",
+    "note": "保留完整脸与肩胸；两手在原图已出边，高头饰和头顶轻切。"
+  },
+  {
+    "number": 265,
+    "id": "149611272",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 1200,
+      "width": 2478,
+      "height": 1416
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/265_149611272_7x4.png",
+    "note": "保留完整脸和肩部；竖向大头像横裁舍去头顶与部分胸衣。"
+  },
+  {
+    "number": 266,
+    "id": "149132367",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 650,
+      "width": 1995,
+      "height": 1140
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/266_149132367_7x4.png",
+    "note": "扩大至原宽并上移，保留更多头发和肩部，右侧文字保留；脸完整。"
+  },
+  {
+    "number": 267,
+    "id": "149106925",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 300,
+      "width": 2205,
+      "height": 1260
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/267_149106925_7x4.png",
+    "note": "同尺寸上移100px，左手和抬起的脚保住；抬高手与左手跨度过大，无法同时完整。"
+  },
+  {
+    "number": 268,
+    "id": "148844404",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 3283,
+      "height": 1876
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/268_148844404_7x4.png",
+    "note": "同尺寸左移200px，保留更多腿部且右手仍完整；脚在原图已出左边。"
+  },
+  {
+    "number": 269,
+    "id": "148770185",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 1850,
+      "width": 2891,
+      "height": 1652
+    },
+    "scoreTotal": 90,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/269_148770185_7x4.png",
+    "note": "同尺寸下移200px，补回拇指和手腕；头顶舍去，完整五官保留。"
+  },
+  {
+    "number": 270,
+    "id": "148670487",
+    "viewed": true,
+    "crop": {
+      "left": 100,
+      "top": 1700,
+      "width": 2800,
+      "height": 1600
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/270_148670487_7x4.png",
+    "note": "保留脸、双臂和躯干；竖图原宽无法同时保脚，舍去下方腿部。"
+  },
+  {
+    "number": 271,
+    "id": "148450678",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 20,
+      "width": 3598,
+      "height": 2056
+    },
+    "scoreTotal": 89,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/271_148450678_7x4.png",
+    "note": "接近全图，保留可见动作与身体；远端脚在原图已出边。"
+  },
+  {
+    "number": 272,
+    "id": "148446401",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 400,
+      "width": 2478,
+      "height": 1416
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/272_148446401_7x4.png",
+    "note": "保留原框兼顾完整脸与右手；左下手和脸跨度超出原宽7:4，头顶轻切。"
+  },
+  {
+    "number": 273,
+    "id": "150781070",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 0,
+      "width": 1316,
+      "height": 752
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/273_150781070_7x4.png",
+    "note": "同尺寸上移250px，补回握腿手与更多头发；脚尖和手部外侧在原图已出边。"
+  },
+  {
+    "number": 274,
+    "id": "150738026",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 500,
+      "width": 1197,
+      "height": 684
+    },
+    "scoreTotal": 69,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/274_150738026_7x4.png",
+    "note": "保留完整脸；竖向头像横裁舍去头顶及下方握手动作。"
+  },
+  {
+    "number": 275,
+    "id": "150659908",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1750,
+      "height": 1000
+    },
+    "scoreTotal": 87,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/275_150659908_7x4.png",
+    "note": "扩大至原高1000px，保留更多纱裙和身体；保留左侧署名及右侧部分标题。"
+  },
+  {
+    "number": 276,
+    "id": "150079888",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 400,
+      "width": 3164,
+      "height": 1808
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/276_150079888_7x4.png",
+    "note": "同尺寸上移150px，补回戴兔耳的手指；优先上方互动，下方胸前手势舍去。"
+  },
+  {
+    "number": 278,
+    "id": "149939765",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 500,
+      "width": 1477,
+      "height": 844
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/278_149939765_7x4.png",
+    "note": "保留完整脸和肩部；横裁舍去头顶及部分胸衣，原图没有手部动作。"
+  },
+  {
+    "number": 279,
+    "id": "149875083",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 600,
+      "width": 1827,
+      "height": 1044
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/279_149875083_7x4.png",
+    "note": "保留完整脸与肩部；高头饰和头顶切边，原图双手已出边。"
+  },
+  {
+    "number": 441,
+    "id": "149773788",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 300,
+      "width": 1771,
+      "height": 1012
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/441_149773788_7x4.png",
+    "note": "保留完整脸和近脸手；下移补胸前另一手会压住眼睛，保留原框。"
+  },
+  {
+    "number": 451,
+    "id": "149276254",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 350,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/451_149276254_7x4.png",
+    "note": "保留原框，优先完整脸与肩背。"
+  },
+  {
+    "number": 452,
+    "id": "149232793",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 700,
+      "width": 1729,
+      "height": 988
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/452_149232793_7x4.png",
+    "note": "原图本身为近景，保留当前面部裁框。"
+  },
+  {
+    "number": 453,
+    "id": "149099920",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 100,
+      "width": 1442,
+      "height": 824
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/453_149099920_7x4.png",
+    "note": "保留双人脸部与上身互动，不为左侧文字缩框。"
+  },
+  {
+    "number": 454,
+    "id": "148989786",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 430,
+      "width": 1106,
+      "height": 632
+    },
+    "scoreTotal": 72,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/454_148989786_7x4.png",
+    "note": "保留原框；作为较柔和笔触备选默认隐藏。"
+  },
+  {
+    "number": 455,
+    "id": "148982073",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 500,
+      "width": 1799,
+      "height": 1028
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/455_148982073_7x4.png",
+    "note": "保持尺寸下移至top=500，试裁后保住脸和更多胸前手势。"
+  },
+  {
+    "number": 456,
+    "id": "148943944",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 700,
+      "width": 1372,
+      "height": 784
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/456_148943944_7x4.png",
+    "note": "保留原框，记录手部出框限制。"
+  },
+  {
+    "number": 457,
+    "id": "148864742",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 150,
+      "width": 1316,
+      "height": 752
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/457_148864742_7x4.png",
+    "note": "原图纵向坐姿无法在7:4内同时保住脸和脚，保留上身。"
+  },
+  {
+    "number": 458,
+    "id": "148802444",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 180,
+      "width": 1617,
+      "height": 924
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/458_148802444_7x4.png",
+    "note": "扩大至1617×924并下移，补回右侧人物与更多下方手部，水印允许保留。"
+  },
+  {
+    "number": 459,
+    "id": "148792856",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 430,
+      "width": 1617,
+      "height": 924
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/459_148792856_7x4.png",
+    "note": "同尺寸上移至top=430，优先保留举手动作，面部仍可辨。"
+  },
+  {
+    "number": 460,
+    "id": "148782823",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 180,
+      "width": 1295,
+      "height": 740
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/460_148782823_7x4.png",
+    "note": "扩大到接近全宽1295×740，增加腰腹，不缩框去背景。"
+  },
+  {
+    "number": 461,
+    "id": "148703206",
+    "viewed": true,
+    "crop": {
+      "left": 25,
+      "top": 0,
+      "width": 1750,
+      "height": 1000
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/461_148703206_7x4.png",
+    "note": "保留横图；作为精细度较低备选默认隐藏。"
+  },
+  {
+    "number": 462,
+    "id": "148596207",
+    "viewed": true,
+    "crop": {
+      "left": 137,
+      "top": 70,
+      "width": 1645,
+      "height": 940
+    },
+    "scoreTotal": 72,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/462_148596207_7x4.png",
+    "note": "扩大裁框补回更多腿部，保留边框装饰。"
+  },
+  {
+    "number": 463,
+    "id": "148589702",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 400,
+      "width": 1540,
+      "height": 880
+    },
+    "scoreTotal": 66,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/463_148589702_7x4.png",
+    "note": "保留面部与胸腰，无法同时容纳高举手和完整躯干。"
+  },
+  {
+    "number": 464,
+    "id": "148570837",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 300,
+      "width": 1498,
+      "height": 856
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/464_148570837_7x4.png",
+    "note": "保留侧脸与颈部特写。"
+  },
+  {
+    "number": 465,
+    "id": "148513384",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 300,
+      "width": 1288,
+      "height": 736
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/465_148513384_7x4.png",
+    "note": "同尺寸上移，补回两只高举的手。"
+  },
+  {
+    "number": 467,
+    "id": "148478294",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 450,
+      "width": 1925,
+      "height": 1100
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/467_148478294_7x4.png",
+    "note": "当前框保住双手与上身，无需继续收紧。"
+  },
+  {
+    "number": 468,
+    "id": "148439006",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 150,
+      "width": 1673,
+      "height": 956
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/468_148439006_7x4.png",
+    "note": "保留当前横向动作范围。"
+  },
+  {
+    "number": 469,
+    "id": "148339652",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 600,
+      "width": 1498,
+      "height": 856
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/469_148339652_7x4.png",
+    "note": "原图手到下巴跨度超出可用横裁高度，优先完整脸部。"
+  },
+  {
+    "number": 470,
+    "id": "148338414",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 450,
+      "width": 1764,
+      "height": 1008
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/470_148338414_7x4.png",
+    "note": "保留脸与颈肩，不把竖向抱膝强塞入横幅。"
+  },
+  {
+    "number": 471,
+    "id": "148338112",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 20,
+      "width": 1344,
+      "height": 768
+    },
+    "scoreTotal": 69,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/471_148338112_7x4.png",
+    "note": "同尺寸上移保住完整举手，脸仍完整。"
+  },
+  {
+    "number": 472,
+    "id": "148321673",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1400,
+      "height": 800
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/472_148321673_7x4.png",
+    "note": "同尺寸上移补回手势；原图顶部已截去部分指尖。"
+  },
+  {
+    "number": 473,
+    "id": "148307686",
+    "viewed": true,
+    "crop": {
+      "left": 15,
+      "top": 0,
+      "width": 1890,
+      "height": 1080
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/473_148307686_7x4.png",
+    "note": "保留完整横图范围和标题文字。"
+  },
+  {
+    "number": 474,
+    "id": "148290009",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 180,
+      "width": 1785,
+      "height": 1020
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/474_148290009_7x4.png",
+    "note": "同尺寸上移补回双手，优先举臂动作。"
+  },
+  {
+    "number": 475,
+    "id": "148286959",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 20,
+      "width": 1400,
+      "height": 800
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/475_148286959_7x4.png",
+    "note": "同尺寸上移，保留双手及大部分上身。"
+  },
+  {
+    "number": 476,
+    "id": "148253843",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 300,
+      "width": 1498,
+      "height": 856
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/476_148253843_7x4.png",
+    "note": "保留面部与右手，不额外缩框。"
+  },
+  {
+    "number": 477,
+    "id": "148213887",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 500,
+      "width": 1176,
+      "height": 672
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/477_148213887_7x4.png",
+    "note": "保留脸与肩臂，暗光作为画面特征记录。"
+  },
+  {
+    "number": 280,
+    "id": "148182219",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 180,
+      "width": 1330,
+      "height": 760
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/280_148182219_7x4.png",
+    "note": "保留双人互动，左侧背影不强行裁除。"
+  },
+  {
+    "number": 281,
+    "id": "148104225",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 560,
+      "width": 1008,
+      "height": 576
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/281_148104225_7x4.png",
+    "note": "原图双手与脸纵向跨度过长，优先完整脸。"
+  },
+  {
+    "number": 282,
+    "id": "148080561",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 280,
+      "width": 1498,
+      "height": 856
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/282_148080561_7x4.png",
+    "note": "保留当前近景，允许头饰和手臂末端出框。"
+  },
+  {
+    "number": 283,
+    "id": "148019820",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 350,
+      "width": 1638,
+      "height": 936
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/283_148019820_7x4.png",
+    "note": "保留面部特写，竖图无法同时容纳肩部完整手掌。"
+  },
+  {
+    "number": 284,
+    "id": "147971572",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 90,
+      "width": 1330,
+      "height": 760
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/284_147971572_7x4.png",
+    "note": "保留面部与完整手势。"
+  },
+  {
+    "number": 285,
+    "id": "147889116",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 300,
+      "width": 1974,
+      "height": 1128
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/285_147889116_7x4.png",
+    "note": "当前横框优先脸与上身，不缩框追求偏右。"
+  },
+  {
+    "number": 286,
+    "id": "147855762",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 450,
+      "width": 1288,
+      "height": 736
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/286_147855762_7x4.png",
+    "note": "原图面部到完整手掌的跨度较大，保留脸和指尖动作。"
+  },
+  {
+    "number": 287,
+    "id": "147811599",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 210,
+      "width": 1043,
+      "height": 596
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/287_147811599_7x4.png",
+    "note": "保留完整脸和托腮动作。"
+  },
+  {
+    "number": 288,
+    "id": "147347161",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 520,
+      "width": 1393,
+      "height": 796
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/288_147347161_7x4.png",
+    "note": "保留完整脸部，不为补高举手切掉下巴。"
+  },
+  {
+    "number": 289,
+    "id": "146997088",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 410,
+      "width": 1862,
+      "height": 1064
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/289_146997088_7x4.png",
+    "note": "原图两手跨度过长，保留脸和主要上身。"
+  },
+  {
+    "number": 290,
+    "id": "146965254",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 650,
+      "width": 1575,
+      "height": 900
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/290_146965254_7x4.png",
+    "note": "同尺寸下移补回握剑手，脸仍完整。"
+  },
+  {
+    "number": 291,
+    "id": "146924294",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 600,
+      "width": 1498,
+      "height": 856
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/291_146924294_7x4.png",
+    "note": "同尺寸下移，补回更多手指与戒饰。"
+  },
+  {
+    "number": 292,
+    "id": "146870946",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 70,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/292_146870946_7x4.png",
+    "note": "保留当前脸部与手势框。"
+  },
+  {
+    "number": 293,
+    "id": "146841216",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 800,
+      "width": 1918,
+      "height": 1096
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/293_146841216_7x4.png",
+    "note": "同尺寸下移，增加颈肩衣领。"
+  },
+  {
+    "number": 294,
+    "id": "146764392",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 600,
+      "width": 1617,
+      "height": 924
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/294_146764392_7x4.png",
+    "note": "同尺寸下移增加肩胸，保住完整脸部。"
+  },
+  {
+    "number": 295,
+    "id": "146527588",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 500,
+      "width": 1533,
+      "height": 876
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/295_146527588_7x4.png",
+    "note": "保留现有近景框。"
+  },
+  {
+    "number": 296,
+    "id": "150471595",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 430,
+      "width": 1484,
+      "height": 848
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/296_150471595_7x4.png",
+    "note": "同尺寸下移，增加前臂和胸部，舍去帽顶装饰。"
+  },
+  {
+    "number": 297,
+    "id": "150364970",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 440,
+      "width": 1666,
+      "height": 952
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/297_150364970_7x4.png",
+    "note": "同尺寸下移增加颈肩，完整保留叉子与手。"
+  },
+  {
+    "number": 298,
+    "id": "150317258",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 170,
+      "width": 1526,
+      "height": 872
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/298_150317258_7x4.png",
+    "note": "同尺寸下移补回右侧肘部与更多腰部。"
+  },
+  {
+    "number": 299,
+    "id": "150144265",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 200,
+      "width": 1750,
+      "height": 1000
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/299_150144265_7x4.png",
+    "note": "同尺寸下移保住更多手掌和肩部。"
+  },
+  {
+    "number": 300,
+    "id": "150139103",
+    "viewed": true,
+    "crop": {
+      "left": 15,
+      "top": 0,
+      "width": 1890,
+      "height": 1080
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/300_150139103_7x4.png",
+    "note": "保留现有全身横幅，不缩框放大脸。"
+  },
+  {
+    "number": 301,
+    "id": "149842411",
+    "viewed": true,
+    "crop": {
+      "left": 15,
+      "top": 0,
+      "width": 1890,
+      "height": 1080
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/301_149842411_7x4.png",
+    "note": "保留全身横向姿态。"
+  },
+  {
+    "number": 302,
+    "id": "149472845",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 470,
+      "width": 1253,
+      "height": 716
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/302_149472845_7x4.png",
+    "note": "保留脸与托腮手势，文字水印不扣分。"
+  },
+  {
+    "number": 303,
+    "id": "149126698",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 160,
+      "width": 1022,
+      "height": 584
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/303_149126698_7x4.png",
+    "note": "保留上身框；不为纳入膝手裁掉面部。"
+  },
+  {
+    "number": 304,
+    "id": "149114348",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 350,
+      "width": 1155,
+      "height": 660
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/304_149114348_7x4.png",
+    "note": "保留两人面部与主要互动；下移会损失右侧人物面部。"
+  },
+  {
+    "number": 305,
+    "id": "149033984",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 100,
+      "width": 1484,
+      "height": 848
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/305_149033984_7x4.png",
+    "note": "保留脸、上身及扶颈动作，竖图难兼顾全身。"
+  },
+  {
+    "number": 306,
+    "id": "149030057",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 220,
+      "width": 1337,
+      "height": 764
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/306_149030057_7x4.png",
+    "note": "保留当前框，前景手无法靠平移完整恢复。"
+  },
+  {
+    "number": 308,
+    "id": "148942625",
+    "viewed": true,
+    "crop": {
+      "left": 12,
+      "top": 0,
+      "width": 1575,
+      "height": 900
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/308_148942625_7x4.png",
+    "note": "接近保留完整横图，不进一步收窄。"
+  },
+  {
+    "number": 309,
+    "id": "148872549",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 820,
+      "width": 1302,
+      "height": 744
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/309_148872549_7x4.png",
+    "note": "保留脸和上身框；竖幅无法兼收高举手。"
+  },
+  {
+    "number": 310,
+    "id": "148840636",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 350,
+      "width": 1743,
+      "height": 996
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/310_148840636_7x4.png",
+    "note": "同尺寸下移170像素，舍部分头顶，补左手与更多腰身。"
+  },
+  {
+    "number": 311,
+    "id": "148820614",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 520,
+      "width": 1274,
+      "height": 728
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/311_148820614_7x4.png",
+    "note": "同尺寸下移90像素，补下巴余量和更多捏脸手掌。"
+  },
+  {
+    "number": 312,
+    "id": "148817430",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 400,
+      "width": 1197,
+      "height": 684
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/312_148817430_7x4.png",
+    "note": "保留当前近景，面部及抬手动作完整。"
+  },
+  {
+    "number": 313,
+    "id": "148807988",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 600,
+      "width": 1533,
+      "height": 876
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/313_148807988_7x4.png",
+    "note": "保留现框；竖图宽度限制下五官完整。"
+  },
+  {
+    "number": 314,
+    "id": "148804790",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 470,
+      "width": 1729,
+      "height": 988
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/314_148804790_7x4.png",
+    "note": "保留现框；原竖幅无法在7:4内同时容纳双手与躯干。"
+  },
+  {
+    "number": 315,
+    "id": "148804278",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 160,
+      "width": 1771,
+      "height": 1012
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/315_148804278_7x4.png",
+    "note": "现框保住五官及托腮手势。"
+  },
+  {
+    "number": 316,
+    "id": "148799913",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 190,
+      "width": 1498,
+      "height": 856
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/316_148799913_7x4.png",
+    "note": "保留现框，优先完整表情与手势。"
+  },
+  {
+    "number": 317,
+    "id": "148753828",
+    "viewed": true,
+    "crop": {
+      "left": 800,
+      "top": 0,
+      "width": 1120,
+      "height": 640
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/317_148753828_7x4.png",
+    "note": "缩窄并右移去掉左侧残脸，完整保留两位主体的脸及持牌手。"
+  },
+  {
+    "number": 318,
+    "id": "148748386",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 250,
+      "width": 1498,
+      "height": 856
+    },
+    "scoreTotal": 71,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/318_148748386_7x4.png",
+    "note": "保留现框；原竖幅无法同时保脸与完整前伸手。"
+  },
+  {
+    "number": 319,
+    "id": "148672296",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 240,
+      "width": 1197,
+      "height": 684
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/319_148672296_7x4.png",
+    "note": "保留现框，原图双手已接近边缘。"
+  },
+  {
+    "number": 320,
+    "id": "148637939",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 390,
+      "width": 1288,
+      "height": 736
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/320_148637939_7x4.png",
+    "note": "现框保住脸和托腮动作。"
+  },
+  {
+    "number": 321,
+    "id": "148609797",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 500,
+      "width": 1785,
+      "height": 1020
+    },
+    "scoreTotal": 71,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/321_148609797_7x4.png",
+    "note": "保留现框，五官完整。"
+  },
+  {
+    "number": 322,
+    "id": "148499487",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 700,
+      "width": 1470,
+      "height": 840
+    },
+    "scoreTotal": 70,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/322_148499487_7x4.png",
+    "note": "保留现框，五官完整；横幅无法容纳更多身体。"
+  },
+  {
+    "number": 323,
+    "id": "148432843",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 50,
+      "width": 1197,
+      "height": 684
+    },
+    "scoreTotal": 72,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/323_148432843_7x4.png",
+    "note": "同尺寸上移270px，恢复双手与剑，保住完整五官。"
+  },
+  {
+    "number": 478,
+    "id": "148339526",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 250,
+      "width": 1057,
+      "height": 604
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/478_148339526_7x4.png",
+    "note": "现框保住五官和肩颈，保留原水印。"
+  },
+  {
+    "number": 479,
+    "id": "148335409",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 340,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/479_148335409_7x4.png",
+    "note": "保留现框；竖幅横裁优先脸与侧身躯干。"
+  },
+  {
+    "number": 480,
+    "id": "148303270",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 120,
+      "width": 1218,
+      "height": 696
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/480_148303270_7x4.png",
+    "note": "保留现框，不因彩边与文字改变裁剪。"
+  },
+  {
+    "number": 481,
+    "id": "148269166",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 650,
+      "width": 1589,
+      "height": 908
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/481_148269166_7x4.png",
+    "note": "同尺寸下移160px，保住更多持刀手与刀柄。"
+  },
+  {
+    "number": 482,
+    "id": "148258709",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 330,
+      "width": 1638,
+      "height": 936
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/482_148258709_7x4.png",
+    "note": "保留现框，面部完整。"
+  },
+  {
+    "number": 483,
+    "id": "148142530",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 240,
+      "width": 1988,
+      "height": 1136
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/483_148142530_7x4.png",
+    "note": "保留现框；原竖幅无法同时保脸与腰间双手。"
+  },
+  {
+    "number": 484,
+    "id": "147598558",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 300,
+      "width": 1694,
+      "height": 968
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/484_147598558_7x4.png",
+    "note": "保留现框，五官完整。"
+  },
+  {
+    "number": 485,
+    "id": "147593280",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1064,
+      "height": 608
+    },
+    "scoreTotal": 68,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/485_147593280_7x4.png",
+    "note": "现框已贴原图上沿，保住五官与上身。"
+  },
+  {
+    "number": 486,
+    "id": "147210744",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 1120,
+      "width": 1022,
+      "height": 584
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/486_147210744_7x4.png",
+    "note": "保留原方向与现框，未旋转或改图。"
+  },
+  {
+    "number": 487,
+    "id": "147107384",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 50,
+      "width": 1624,
+      "height": 928
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/487_147107384_7x4.png",
+    "note": "保留现框，主要抬手动作完整。"
+  },
+  {
+    "number": 488,
+    "id": "146979348",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 70,
+      "width": 1120,
+      "height": 640
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/488_146979348_7x4.png",
+    "note": "保留现框与原水印。"
+  },
+  {
+    "number": 489,
+    "id": "146491344",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 240,
+      "width": 1449,
+      "height": 828
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/489_146491344_7x4.png",
+    "note": "保留现框，五官完整但额头较紧。"
+  },
+  {
+    "number": 491,
+    "id": "149785696",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 260,
+      "width": 1204,
+      "height": 688
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/491_149785696_7x4.png",
+    "note": "保留现框，未为背景收窄。"
+  },
+  {
+    "number": 492,
+    "id": "149777408",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 310,
+      "width": 1176,
+      "height": 672
+    },
+    "scoreTotal": 73,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/492_149777408_7x4.png",
+    "note": "保留现框，完整五官与主要折腿姿势仍可辨。"
+  },
+  {
+    "number": 493,
+    "id": "149449879",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 220,
+      "width": 1358,
+      "height": 776
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/493_149449879_7x4.png",
+    "note": "保留现框，主手势与面部均完整。"
+  },
+  {
+    "number": 494,
+    "id": "149380948",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 300,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/494_149380948_7x4.png",
+    "note": "保留现框，优先表情与双手。"
+  },
+  {
+    "number": 495,
+    "id": "149361725",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 540,
+      "width": 1204,
+      "height": 688
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/495_149361725_7x4.png",
+    "note": "同尺寸下移120px，去掉上沿半截小头像并保住五官与手。"
+  },
+  {
+    "number": 496,
+    "id": "149228737",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 150,
+      "width": 1330,
+      "height": 760
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/496_149228737_7x4.png",
+    "note": "现框保完整五官；原竖幅无法同时包含远伸手与脸。"
+  },
+  {
+    "number": 497,
+    "id": "149124461",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 200,
+      "width": 1750,
+      "height": 1000
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/497_149124461_7x4.png",
+    "note": "保留现框，五官完整。"
+  },
+  {
+    "number": 498,
+    "id": "149114588",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 180,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 70,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/498_149114588_7x4.png",
+    "note": "保留现框；原竖图宽度不足以保脸与腰前双手。"
+  },
+  {
+    "number": 325,
+    "id": "149013179",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 260,
+      "width": 1197,
+      "height": 684
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/325_149013179_7x4.png",
+    "note": "现框保脸和近脸手势，上举手无法一并容纳。"
+  },
+  {
+    "number": 326,
+    "id": "149000973",
+    "viewed": true,
+    "crop": {
+      "left": 15,
+      "top": 0,
+      "width": 1890,
+      "height": 1080
+    },
+    "scoreTotal": 73,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/326_149000973_7x4.png",
+    "note": "保留接近全幅的裁框，已尽量保住人体。"
+  },
+  {
+    "number": 327,
+    "id": "148968963",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 520,
+      "width": 1638,
+      "height": 936
+    },
+    "scoreTotal": 70,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/327_148968963_7x4.png",
+    "note": "保留现框；上举手在原图之外，横裁无法补全。"
+  },
+  {
+    "number": 328,
+    "id": "148910988",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1190,
+      "height": 680
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/328_148910988_7x4.png",
+    "note": "同尺寸上移至顶部，恢复双手与双肘；肩部留在底边。"
+  },
+  {
+    "number": 329,
+    "id": "148907340",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 480,
+      "width": 1372,
+      "height": 784
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/329_148907340_7x4.png",
+    "note": "保留现框；脸与肩完整，竖幅横裁舍去发顶。"
+  },
+  {
+    "number": 330,
+    "id": "148892462",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 400,
+      "width": 1848,
+      "height": 1056
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/330_148892462_7x4.png",
+    "note": "保留现框；双手、脸与弯腰动作已兼顾，背景文字可以保留。"
+  },
+  {
+    "number": 331,
+    "id": "148830779",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 840,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 71,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/331_148830779_7x4.png",
+    "note": "保留现框；横幅无法同时装下原竖图双手与整脸，当前优先保脸。"
+  },
+  {
+    "number": 332,
+    "id": "148790234",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 800,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 70,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/332_148790234_7x4.png",
+    "note": "保留现框；再下移会挤压眼睛，再上移会多切手部，竖幅限制明显。"
+  },
+  {
+    "number": 334,
+    "id": "148759759",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 140,
+      "width": 1393,
+      "height": 796
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/334_148759759_7x4.png",
+    "note": "保留现框；五官与双手完整，发顶与肘部受竖图横裁限制。"
+  },
+  {
+    "number": 335,
+    "id": "148754532",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 650,
+      "width": 1799,
+      "height": 1028
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/335_148754532_7x4.png",
+    "note": "同尺寸下移200像素，恢复右手手指与更多躯干，脸仍完整。"
+  },
+  {
+    "number": 336,
+    "id": "148745543",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 700,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 72,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/336_148745543_7x4.png",
+    "note": "保留现框；原竖图手势与脸跨度超过可用横框高度，优先整脸。"
+  },
+  {
+    "number": 337,
+    "id": "148699322",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 1000,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 71,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/337_148699322_7x4.png",
+    "note": "保留现框；五官完整，原竖图横裁以脸为主。"
+  },
+  {
+    "number": 338,
+    "id": "148660413",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 840,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 68,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/338_148660413_7x4.png",
+    "note": "保留现框；脸与远伸手无法在当前原宽的横框内兼得。"
+  },
+  {
+    "number": 339,
+    "id": "148585108",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 820,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 70,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/339_148585108_7x4.png",
+    "note": "保留现框；完整表情与肩颈都在，顶部头发因横裁舍去。"
+  },
+  {
+    "number": 340,
+    "id": "148548140",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 400,
+      "width": 1274,
+      "height": 728
+    },
+    "scoreTotal": 72,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/340_148548140_7x4.png",
+    "note": "保留现框；脸和肩颈完整，竖向头饰不强求保全。"
+  },
+  {
+    "number": 341,
+    "id": "148463250",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 80,
+      "width": 1218,
+      "height": 696
+    },
+    "scoreTotal": 68,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/341_148463250_7x4.png",
+    "note": "保留现框；原竖幅中脸与系鞋带的双手相距太远，横裁优先保脸和弯腰姿态。"
+  },
+  {
+    "number": 342,
+    "id": "148432298",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 280,
+      "width": 1596,
+      "height": 912
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/342_148432298_7x4.png",
+    "note": "对照上移试裁后保留原框；上移虽补手，却使主角下颌与身体过贴底。"
+  },
+  {
+    "number": 343,
+    "id": "148357900",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 450,
+      "width": 1239,
+      "height": 708
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/343_148357900_7x4.png",
+    "note": "保留现框；继续下移补手会使眼眉挤近上边，当前脸与肩背更协调。"
+  },
+  {
+    "number": 344,
+    "id": "148291675",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 80,
+      "width": 1176,
+      "height": 672
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/344_148291675_7x4.png",
+    "note": "同尺寸上移220像素，恢复双手，整脸仍在框内；躯干因横幅高度舍去。"
+  },
+  {
+    "number": 345,
+    "id": "147981438",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 500,
+      "width": 1638,
+      "height": 936
+    },
+    "scoreTotal": 72,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/345_147981438_7x4.png",
+    "note": "保留现框；五官与肩颈完整，未为背景空白另缩框。"
+  },
+  {
+    "number": 346,
+    "id": "147970959",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 480,
+      "width": 1519,
+      "height": 868
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/346_147970959_7x4.png",
+    "note": "同尺寸下移80像素，给下巴留出余量，五官保持完整。"
+  },
+  {
+    "number": 347,
+    "id": "147970527",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 490,
+      "width": 1295,
+      "height": 740
+    },
+    "scoreTotal": 70,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/347_147970527_7x4.png",
+    "note": "保留现框；近脸手势与五官在框内，下方另一只手无法同时兼顾。"
+  },
+  {
+    "number": 348,
+    "id": "147897667",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 180,
+      "width": 1085,
+      "height": 620
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/348_147897667_7x4.png",
+    "note": "同尺寸上移100像素，恢复上举手，保住另一手和上身；舍去部分裙摆。"
+  },
+  {
+    "number": 349,
+    "id": "147385454",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 180,
+      "width": 1498,
+      "height": 856
+    },
+    "scoreTotal": 73,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/349_147385454_7x4.png",
+    "note": "保留现框；脸与系鞋带双手的竖向跨度超过横框高度，当前优先保脸与膝部姿态。"
+  },
+  {
+    "number": 350,
+    "id": "147167823",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 450,
+      "width": 1071,
+      "height": 612
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/350_147167823_7x4.png",
+    "note": "保留现框；脸与肩颈完整，不为去除边框文字继续缩框。"
+  },
+  {
+    "number": 351,
+    "id": "150698884",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 3400,
+      "width": 3486,
+      "height": 1992
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/351_150698884_7x4.png",
+    "note": "保留现框；原图太窄长，完整举手与整脸无法同进横框，优先表情和上身。"
+  },
+  {
+    "number": 352,
+    "id": "150650987",
+    "viewed": true,
+    "crop": {
+      "left": 15,
+      "top": 0,
+      "width": 1890,
+      "height": 1080
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/352_150650987_7x4.png",
+    "note": "接近全图，保留脸与完整双手；高头饰和肘端在原图已切边。"
+  },
+  {
+    "number": 353,
+    "id": "149921539",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 55,
+      "width": 1267,
+      "height": 724
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/353_149921539_7x4.png",
+    "note": "保留三张脸与手势，仅高头饰和下方衣裙切边。"
+  },
+  {
+    "number": 355,
+    "id": "149204407",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 1030,
+      "width": 1505,
+      "height": 860
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/355_149204407_7x4.png",
+    "note": "保留奥黛塔完整脸与捏脸动作；后方人物脸在竖向距离外舍去。"
+  },
+  {
+    "number": 356,
+    "id": "148841449",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 100,
+      "width": 1127,
+      "height": 644
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/356_148841449_7x4.png",
+    "note": "同尺寸上移200px，保住头顶交叠双手；舍去胸腰及腿部。"
+  },
+  {
+    "number": 357,
+    "id": "148706652",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 350,
+      "width": 1274,
+      "height": 728
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/357_148706652_7x4.png",
+    "note": "保留完整脸和肩部，头顶舍去；原图手部已出边。"
+  },
+  {
+    "number": 358,
+    "id": "148522056",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 650,
+      "width": 1659,
+      "height": 948
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/358_148522056_7x4.png",
+    "note": "保留脸与扶吸管手；竖图横裁舍去下方持杯手与杯身。"
+  },
+  {
+    "number": 359,
+    "id": "x_HQAiFrZbQAAervS",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 400,
+      "width": 2170,
+      "height": 1240
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/359_x_HQAiFrZbQAAervS_7x4.png",
+    "note": "保留原框保证完整脸；下移补胸前双手会压住眼睛，签名保留。"
+  },
+  {
+    "number": 360,
+    "id": "x_HO4AFVCWIAAmjDu",
+    "viewed": true,
+    "crop": {
+      "left": 20,
+      "top": 0,
+      "width": 2520,
+      "height": 1440
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/360_x_HO4AFVCWIAAmjDu_7x4.png",
+    "note": "接近全图，保留脸和主要舞姿；抬高手及腿在原图已切边。"
+  },
+  {
+    "number": 361,
+    "id": "x_HOoUz5ubQAAjnfj",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 45,
+      "width": 1155,
+      "height": 660
+    },
+    "scoreTotal": 73,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/361_x_HOoUz5ubQAAjnfj_7x4.png",
+    "note": "保留完整脸和右臂；另一手在竖向距离外舍去，右指尖在原图已出边。"
+  },
+  {
+    "number": 362,
+    "id": "x_HMn8tq3agAEQqT4",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 830,
+      "width": 1330,
+      "height": 760
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/362_x_HMn8tq3agAEQqT4_7x4.png",
+    "note": "保留倒置面部原构图；上方交叠双手距离过远，横裁舍去。"
+  },
+  {
+    "number": 363,
+    "id": "x_HQpjrUIagAAB15X",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 280,
+      "width": 2891,
+      "height": 1652
+    },
+    "scoreTotal": 88,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/363_x_HQpjrUIagAAB15X_7x4.png",
+    "note": "保留完整脸与双手；仅高头饰与少量头顶切边，下方腿部舍去。"
+  },
+  {
+    "number": 364,
+    "id": "x_HPhsOe-bMAAtT2_",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 100,
+      "width": 1337,
+      "height": 764
+    },
+    "scoreTotal": 71,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/364_x_HPhsOe-bMAAtT2__7x4.png",
+    "note": "保留完整脸；双手外缘在原图已切边，原框再切少量抬高手。"
+  },
+  {
+    "number": 365,
+    "id": "x_HUeOQNLWYAARFgK",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 50,
+      "width": 2478,
+      "height": 1416
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/365_x_HUeOQNLWYAARFgK_7x4.png",
+    "note": "同尺寸下移50px，补回左肘边缘，脸与比心双手完整；高头饰源已切边。"
+  },
+  {
+    "number": 366,
+    "id": "x_HPjuarCbgAAXJsL",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 950,
+      "width": 2681,
+      "height": 1532
+    },
+    "scoreTotal": 89,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/366_x_HPjuarCbgAAXJsL_7x4.png",
+    "note": "同尺寸下移400px，补回前景手掌与更多手指，完整五官保留；左指尖在原图已出边。"
+  },
+  {
+    "number": 367,
+    "id": "x_HT_0VmRaMAAkhG7",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 400,
+      "width": 1274,
+      "height": 728
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/367_x_HT_0VmRaMAAkhG7_7x4.png",
+    "note": "保留完整脸与肩部；俯身竖图横裁舍去下方双手与胸腰。"
+  },
+  {
+    "number": 369,
+    "id": "x_HPG-dBhakAA7HWN",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 650,
+      "width": 2744,
+      "height": 1568
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/369_x_HPG-dBhakAA7HWN_7x4.png",
+    "note": "保留脸、双手与腰裙上部；竖图舍去下方腿部，装饰顶部切边。"
+  },
+  {
+    "number": 370,
+    "id": "x_HTY53NHa8AERnIf",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 1650,
+      "width": 2758,
+      "height": 1576
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/370_x_HTY53NHa8AERnIf_7x4.png",
+    "note": "保留倒置面部与肩部；双手远在上方，原宽横裁无法同时完整保留。"
+  },
+  {
+    "number": 371,
+    "id": "x_HPoN8l3bkAAzNH4",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 400,
+      "width": 1736,
+      "height": 992
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/371_x_HPoN8l3bkAAzNH4_7x4.png",
+    "note": "保留完整脸与肩部；头顶与下方胸衣舍去，手在原图已出边。"
+  },
+  {
+    "number": 372,
+    "id": "x_HQPhb6AagAA1x-w",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 500,
+      "width": 2149,
+      "height": 1228
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/372_x_HQPhb6AagAA1x-w_7x4.png",
+    "note": "保留脸、肩部与左侧手指；高头饰舍去，右手在原图已出边。"
+  },
+  {
+    "number": 373,
+    "id": "x_HUE7OPAXMAAvX0o",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 40,
+      "width": 1022,
+      "height": 584
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/373_x_HUE7OPAXMAAvX0o_7x4.png",
+    "note": "同尺寸上移190px，保住抬高手；高脚尖在源图已出边，下方另一手距离过远舍去。"
+  },
+  {
+    "number": 374,
+    "id": "x_HUE4RVdXcAAOkDe",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 0,
+      "width": 1022,
+      "height": 584
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/374_x_HUE4RVdXcAAOkDe_7x4.png",
+    "note": "同尺寸上移310px，保住握脚双手和鞋；下方躯干及支撑腿舍去。"
+  },
+  {
+    "number": 375,
+    "id": "x_HQ5MrG0asAAXo2V",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 470,
+      "width": 2555,
+      "height": 1460
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/375_x_HQ5MrG0asAAXo2V_7x4.png",
+    "note": "保留脸和上半身原框；手部被原图姿态遮住，竖图横裁舍去下方腿部。"
+  },
+  {
+    "number": 376,
+    "id": "x_HTnyN8sbUAAlefF",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 100,
+      "width": 1680,
+      "height": 960
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/376_x_HTnyN8sbUAAlefF_7x4.png",
+    "note": "保留两个人物的面部和持物动作；右侧口罩为原图造型，下方Q版装饰舍去。"
+  },
+  {
+    "number": 378,
+    "id": "x_HPaoGiJaMAA6KWq",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 160,
+      "width": 1176,
+      "height": 672
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/378_x_HPaoGiJaMAA6KWq_7x4.png",
+    "note": "同尺寸上移240px，补回握腿双手和弯臂；高脚尖在原图已出边，舍去胸腰。"
+  },
+  {
+    "number": 379,
+    "id": "x_HUXXlGfbEAAm6TA",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 0,
+      "width": 2044,
+      "height": 1168
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/379_x_HUXXlGfbEAAm6TA_7x4.png",
+    "note": "保留脸与上半身原框；头顶及抬高手在原图已出边，未继续缩框。"
+  },
+  {
+    "number": 380,
+    "id": "x_HUcWwsFbMAAmxxX",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 350,
+      "width": 2583,
+      "height": 1476
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/380_x_HUcWwsFbMAAmxxX_7x4.png",
+    "note": "保留完整脸和肩部；下移补手会切眼睛，原宽横裁无法兼顾。"
+  },
+  {
+    "number": 381,
+    "id": "x_HUOSyXmasAAZj2y",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 30,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/381_x_HUOSyXmasAAZj2y_7x4.png",
+    "note": "同尺寸上移120px，补回更多抬掌手指；脸完整，指尖与头顶在原图已有切边。"
+  },
+  {
+    "number": 382,
+    "id": "x_HURxMF1awAA9glb",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 650,
+      "width": 2499,
+      "height": 1428
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/382_x_HURxMF1awAA9glb_7x4.png",
+    "note": "保留完整可见五官与近嘴手势；头顶和手掌外端在原图已出边。"
+  },
+  {
+    "number": 383,
+    "id": "x_HPJCsQKakAA7Vyu",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 300,
+      "width": 1414,
+      "height": 808
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/383_x_HPJCsQKakAA7Vyu_7x4.png",
+    "note": "同尺寸上移270px，补回抬高手；火光顶部与下方腿部舍去，签名不作扣分依据。"
+  },
+  {
+    "number": 384,
+    "id": "x_HUGMQlXaMAASD1m",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 40,
+      "width": 1120,
+      "height": 640
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/384_x_HUGMQlXaMAASD1m_7x4.png",
+    "note": "保留完整脸与比心动作；头顶轻切，下方腰裙舍去。"
+  },
+  {
+    "number": 385,
+    "id": "x_HMdmV5hb0AAEfuH",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 150,
+      "width": 2044,
+      "height": 1168
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/385_x_HMdmV5hb0AAEfuH_7x4.png",
+    "note": "同尺寸下移150px，补回双手与更多鞋部；头顶舍去，完整五官保留。"
+  },
+  {
+    "number": 386,
+    "id": "x_HNpd0IFaQAAbRNx",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 220,
+      "width": 1316,
+      "height": 752
+    },
+    "scoreTotal": 71,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/386_x_HNpd0IFaQAAbRNx_7x4.png",
+    "note": "保留脸与左手；两手在竖向距离接近原宽7:4上限，完整保留会压住另一手。"
+  },
+  {
+    "number": 387,
+    "id": "x_HTyYZSwbcAAZGHv",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 100,
+      "width": 2044,
+      "height": 1168
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/387_x_HTyYZSwbcAAZGHv_7x4.png",
+    "note": "保留侧倒面部原构图与火蝶；头发外缘轻切，人体在原图已出边。"
+  },
+  {
+    "number": 388,
+    "id": "x_HUGJsYsXMAAqeHU",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 148,
+      "width": 1533,
+      "height": 876
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/388_x_HUGJsYsXMAAqeHU_7x4.png",
+    "note": "同尺寸下移58px，补回前景手指；原宽横裁无法兼顾最上方右鞋与最下方手指。"
+  },
+  {
+    "number": 390,
+    "id": "x_HM8iPi0aYAAP523",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 110,
+      "width": 1134,
+      "height": 648
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/390_x_HM8iPi0aYAAP523_7x4.png",
+    "note": "同尺寸上移40px，补回背景手指；前景大手与脸跨度过大，横裁无法兼顾。"
+  },
+  {
+    "number": 391,
+    "id": "x_HUHkUc8acAAaEOB",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 90,
+      "width": 1323,
+      "height": 756
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/391_x_HUHkUc8acAAaEOB_7x4.png",
+    "note": "保留完整脸与肩部；高头饰轻切，下方远端手与腿在竖向距离外舍去。"
+  },
+  {
+    "number": 392,
+    "id": "x_HUepbmUakAA6jPh",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 80,
+      "width": 1022,
+      "height": 584
+    },
+    "scoreTotal": 69,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/392_x_HUepbmUakAA6jPh_7x4.png",
+    "note": "保留完整脸；双手与面部跨度过大，下移会切眼睛，未用更小框去除内容。"
+  },
+  {
+    "number": 393,
+    "id": "x_HQFRKQWbkAEDnWc",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 210,
+      "width": 1540,
+      "height": 880
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/393_x_HQFRKQWbkAEDnWc_7x4.png",
+    "note": "保留完整脸与肩部；头顶轻切，双手在原图已出边。"
+  },
+  {
+    "number": 394,
+    "id": "x_HSah3ObagAAJMaZ",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 350,
+      "width": 1533,
+      "height": 876
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/394_x_HSah3ObagAAJMaZ_7x4.png",
+    "note": "扩大至原宽并上移，保留更多近耳手与肩部；左侧小头像完整保留。"
+  },
+  {
+    "number": 396,
+    "id": "x_HUHlKRga0AA5r0L",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 470,
+      "width": 2359,
+      "height": 1348
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/396_x_HUHlKRga0AA5r0L_7x4.png",
+    "note": "保留完整脸和肩胸；竖图中远端双手与脸跨度过大，横裁舍去下方手及腿。"
+  },
+  {
+    "number": 397,
+    "id": "x_HUgyfhiWoAAiyQt",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 250,
+      "width": 2079,
+      "height": 1188
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/397_x_HUgyfhiWoAAiyQt_7x4.png",
+    "note": "保留完整脸与弯臂；双手在原图被头部遮住，高头饰轻切。"
+  },
+  {
+    "number": 398,
+    "id": "x_HMTTNB6agAE9dpr",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 130,
+      "width": 1435,
+      "height": 820
+    },
+    "scoreTotal": 72,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/398_x_HMTTNB6agAE9dpr_7x4.png",
+    "note": "保留脸与肩胸原框；下方握臂手与面部距离过大，横裁舍去。"
+  },
+  {
+    "number": 399,
+    "id": "x_HSaGxAFb0AAj6oa",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 30,
+      "width": 1197,
+      "height": 684
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/399_x_HSaGxAFb0AAj6oa_7x4.png",
+    "note": "同尺寸上移150px，保住头上手指；另一手在原图已出左边，下身舍去。"
+  },
+  {
+    "number": 400,
+    "id": "x_HRIeglDboAAC0He",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 380,
+      "width": 2121,
+      "height": 1212
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/400_x_HRIeglDboAAC0He_7x4.png",
+    "note": "保留完整脸与肩部；高头饰和头顶舍去，双手在原图已出边。"
+  },
+  {
+    "number": 401,
+    "id": "x_HUY_hzNbAAAcqLC",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 70,
+      "width": 1029,
+      "height": 588
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/401_x_HUY_hzNbAAAcqLC_7x4.png",
+    "note": "同尺寸上移50px，补回左肘上缘；双手在原图被头部遮住，高头饰舍去。"
+  },
+  {
+    "number": 402,
+    "id": "x_HS82vbBaUAAczTp",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 900,
+      "width": 1827,
+      "height": 1044
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/402_x_HS82vbBaUAAczTp_7x4.png",
+    "note": "同尺寸下移400px，补回完整近脸手掌和更多肩部，五官完整；头顶舍去。"
+  },
+  {
+    "number": 403,
+    "id": "x_HUaFbZvasAABbti",
+    "viewed": true,
+    "crop": {
+      "left": 30,
+      "top": 0,
+      "width": 3780,
+      "height": 2160
+    },
+    "scoreTotal": 87,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/403_x_HUaFbZvasAABbti_7x4.png",
+    "note": "接近全图，保留脸和伸臂原构图；左指尖、头顶与另一手在源图已出边，署名保留。"
+  },
+  {
+    "number": 404,
+    "id": "x_HSvF3lbaQAAyck3",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 430,
+      "width": 1540,
+      "height": 880
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/404_x_HSvF3lbaQAAyck3_7x4.png",
+    "note": "保留完整脸与肩部；头顶舍去，手在原图已出边。"
+  },
+  {
+    "number": 405,
+    "id": "x_HUV6kBCaoAAu0bS",
+    "viewed": true,
+    "crop": {
+      "left": 170,
+      "top": 120,
+      "width": 3752,
+      "height": 2144
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/405_x_HUV6kBCaoAAu0bS_7x4.png",
+    "note": "保留完整脸、双臂和裙摆可见部分；下方裙边轻切，虚化来自原图。"
+  },
+  {
+    "number": 406,
+    "id": "x_HUQgTrBagAA-Q0n",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 0,
+      "width": 2044,
+      "height": 1168
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/406_x_HUQgTrBagAA-Q0n_7x4.png",
+    "note": "保留完整脸、双手与左肘；右肘、高头饰在源图已出边，署名位于下方裁外。"
+  },
+  {
+    "number": 407,
+    "id": "x_HRQskJSaEAA4bvO",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 500,
+      "width": 1533,
+      "height": 876
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/407_x_HRQskJSaEAA4bvO_7x4.png",
+    "note": "同尺寸下移220px，补回手掌和更多手腕；可见五官完整，头顶与高头饰舍去。"
+  },
+  {
+    "number": 408,
+    "id": "x_HPcNv_aacAATEET",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 120,
+      "width": 1176,
+      "height": 672
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/408_x_HPcNv_aacAATEET_7x4.png",
+    "note": "保留完整脸与肩胸；双手及抬腿外端在原图已出边，高头饰轻切。"
+  },
+  {
+    "number": 411,
+    "id": "x_HUHCSqwaQAAhfJu",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 350,
+      "width": 1533,
+      "height": 876
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/411_x_HUHCSqwaQAAhfJu_7x4.png",
+    "note": "保留完整脸与肩部；兔耳和高头饰在原图已切边，双手在原图已出边。"
+  },
+  {
+    "number": 412,
+    "id": "x_HUZhVUGbcAEUmRe",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 350,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 71,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/412_x_HUZhVUGbcAEUmRe_7x4.png",
+    "note": "保留完整双脸与手势；奥黛塔头顶和高头饰轻切，竖图下身舍去。"
+  },
+  {
+    "number": 413,
+    "id": "x_HUbkUrma4AA8ZwV",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 600,
+      "width": 1533,
+      "height": 876
+    },
+    "scoreTotal": 70,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/413_x_HUbkUrma4AA8ZwV_7x4.png",
+    "note": "保留全宽头像裁框，竖图无法同时容纳完整脸和胸前手势。"
+  },
+  {
+    "number": 414,
+    "id": "x_HUQp6e5bUAAWj61",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 650,
+      "width": 2359,
+      "height": 1348
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/414_x_HUQp6e5bUAAWj61_7x4.png",
+    "note": "保留全宽脸部近景，兼顾嘴边手指与左侧手势。"
+  },
+  {
+    "number": 415,
+    "id": "x_HUL9EsSbYAA1EZI",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 300,
+      "width": 1498,
+      "height": 856
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/415_x_HUL9EsSbYAA1EZI_7x4.png",
+    "note": "保留最大宽度，优先两张完整脸。"
+  },
+  {
+    "number": 416,
+    "id": "x_HL-o3OmbIAAxjci",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 650,
+      "width": 1568,
+      "height": 896
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/416_x_HL-o3OmbIAAxjci_7x4.png",
+    "note": "同尺寸下移260像素，补回持剪刀的手；未为去签名缩框。"
+  },
+  {
+    "number": 417,
+    "id": "x_HUBY9QoaIAACSGR",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 330,
+      "width": 1491,
+      "height": 852
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/417_x_HUBY9QoaIAACSGR_7x4.png",
+    "note": "保留全宽近景，竖图不强求全身。"
+  },
+  {
+    "number": 418,
+    "id": "x_HUPn9EkaAAAnL2H",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 115,
+      "width": 1582,
+      "height": 904
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/418_x_HUPn9EkaAAAnL2H_7x4.png",
+    "note": "同尺寸上移285像素，恢复双手与抬臂动作，优先保完整五官。"
+  },
+  {
+    "number": 419,
+    "id": "x_HUYZQD4bYAA_F12",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 292,
+      "width": 2359,
+      "height": 1348
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/419_x_HUYZQD4bYAA_F12_7x4.png",
+    "note": "扩大为2359×1348，补回原裁丢失的腿部及环境，保留角落文字。"
+  },
+  {
+    "number": 420,
+    "id": "x_HLvCT74acAAbMCQ",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 180,
+      "width": 2044,
+      "height": 1168
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/420_x_HLvCT74acAAbMCQ_7x4.png",
+    "note": "保留现有头像裁框和签名，不额外缩小。"
+  },
+  {
+    "number": 421,
+    "id": "x_HUB7zwpakAAMwyj",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 400,
+      "width": 4095,
+      "height": 2340
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/421_x_HUB7zwpakAAMwyj_7x4.png",
+    "note": "扩大至全宽4095×2340，补回躯干衣裙，不为单独放大脸丢身体。"
+  },
+  {
+    "number": 422,
+    "id": "x_HT_1mrDagAAnv1A",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 230,
+      "width": 1673,
+      "height": 956
+    },
+    "scoreTotal": 71,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/422_x_HT_1mrDagAAnv1A_7x4.png",
+    "note": "扩大至全宽1673×956，保留两人的脸和横向手臂，不再只截单人头像。"
+  },
+  {
+    "number": 423,
+    "id": "x_HUb0acNW0AAzcWc",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 400,
+      "width": 1512,
+      "height": 864
+    },
+    "scoreTotal": 64,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/423_x_HUb0acNW0AAzcWc_7x4.png",
+    "note": "保留全宽裁框，竖图舞姿无法在7:4内完整容纳。"
+  },
+  {
+    "number": 424,
+    "id": "x_HUELXw_bEAA6rCt",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 80,
+      "width": 3206,
+      "height": 1832
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/424_x_HUELXw_bEAA6rCt_7x4.png",
+    "note": "扩大到3206×1832，补回双人动作与奥黛塔躯干。"
+  },
+  {
+    "number": 425,
+    "id": "x_HUQ1rNjb0AA1YSC",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 650,
+      "width": 1148,
+      "height": 656
+    },
+    "scoreTotal": 68,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/425_x_HUQ1rNjb0AA1YSC_7x4.png",
+    "note": "已是原图最大横裁宽度，无法扩大到完整头部。"
+  },
+  {
+    "number": 426,
+    "id": "x_HUGATgibEAAhctu",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 600,
+      "width": 2366,
+      "height": 1352
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/426_x_HUGATgibEAAhctu_7x4.png",
+    "note": "保留最大宽度，现框优先脸、躯干及横向抬腿，竖向全身无法兼顾。"
+  },
+  {
+    "number": 427,
+    "id": "x_HS0H9H-bMAApYRm",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 900,
+      "width": 2625,
+      "height": 1500
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/427_x_HS0H9H-bMAApYRm_7x4.png",
+    "note": "保留全宽近景；下移到收全手势会损失双眼，优先完整脸。"
+  },
+  {
+    "number": 428,
+    "id": "x_HLtXLdjXMAAUZcD",
+    "viewed": true,
+    "crop": {
+      "left": 30,
+      "top": 0,
+      "width": 1890,
+      "height": 1080
+    },
+    "scoreTotal": 85,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/428_x_HLtXLdjXMAAUZcD_7x4.png",
+    "note": "扩大至1890×1080，恢复原图几乎全部人体与左侧文字。"
+  },
+  {
+    "number": 429,
+    "id": "x_HR2NUkCawAA7-7a",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 380,
+      "width": 1008,
+      "height": 576
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/429_x_HR2NUkCawAA7-7a_7x4.png",
+    "note": "保留全宽裁框，优先脸及两侧手势。"
+  },
+  {
+    "number": 430,
+    "id": "x_HUGte2PaAAA3IhO",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 500,
+      "width": 1526,
+      "height": 872
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/430_x_HUGte2PaAAA3IhO_7x4.png",
+    "note": "保留最大宽度的头像近景及右侧签名。"
+  },
+  {
+    "number": 432,
+    "id": "x_HUGTY-caIAA-qhC",
+    "viewed": true,
+    "crop": {
+      "left": 350,
+      "top": 0,
+      "width": 1645,
+      "height": 940
+    },
+    "scoreTotal": 73,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/432_x_HUGTY-caIAA-qhC_7x4.png",
+    "note": "扩大至1645×940，补回裙摆和手部边距，保留标志。"
+  },
+  {
+    "number": 433,
+    "id": "x_HUROpFZb0AA59qf",
+    "viewed": true,
+    "crop": {
+      "left": 15,
+      "top": 0,
+      "width": 1890,
+      "height": 1080
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/433_x_HUROpFZb0AA59qf_7x4.png",
+    "note": "原框几乎保留全图，维持不改。"
+  },
+  {
+    "number": 434,
+    "id": "x_HUXa1YIbQAASiSu",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 0,
+      "width": 2261,
+      "height": 1292
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/434_x_HUXa1YIbQAASiSu_7x4.png",
+    "note": "维持全宽，保留双人脸部及主要动作。"
+  },
+  {
+    "number": 436,
+    "id": "x_HQZ48XnaIAAg86z",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 650,
+      "width": 1526,
+      "height": 872
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/436_x_HQZ48XnaIAAg86z_7x4.png",
+    "note": "保留全宽近景和签名，优先表情手势。"
+  },
+  {
+    "number": 499,
+    "id": "x_HUYmo0gbYAA9CjN",
+    "viewed": true,
+    "crop": {
+      "left": 30,
+      "top": 0,
+      "width": 3780,
+      "height": 2160
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/499_x_HUYmo0gbYAA9CjN_7x4.png",
+    "note": "接近原图全幅，无需收窄或平移。"
+  },
+  {
+    "number": 500,
+    "id": "x_HUaps3fbIAAeN_-",
+    "viewed": true,
+    "crop": {
+      "left": 128,
+      "top": 0,
+      "width": 1792,
+      "height": 1024
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/500_x_HUaps3fbIAAeN_-_7x4.png",
+    "note": "维持原高裁框，没有可补回的完整手部。"
+  },
+  {
+    "number": 501,
+    "id": "x_HUbuOeHagAAmIQw",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 320,
+      "width": 1442,
+      "height": 824
+    },
+    "scoreTotal": 72,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/501_x_HUbuOeHagAAmIQw_7x4.png",
+    "note": "保留最大宽度，优先完整双人脸。"
+  },
+  {
+    "number": 505,
+    "id": "x_HUae2LeaEAASEYw",
+    "viewed": true,
+    "crop": {
+      "left": 250,
+      "top": 0,
+      "width": 2107,
+      "height": 1204
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/505_x_HUae2LeaEAASEYw_7x4.png",
+    "note": "扩大至2107×1204，保留躯干手势与裙摆，接受画面内字幕。"
+  },
+  {
+    "number": 506,
+    "id": "x_HUaTsagaAAAWj_V",
+    "viewed": true,
+    "crop": {
+      "left": 180,
+      "top": 0,
+      "width": 1610,
+      "height": 920
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/506_x_HUaTsagaAAAWj_V_7x4.png",
+    "note": "保留现框，主要坐姿和脸部已收入。"
+  },
+  {
+    "number": 507,
+    "id": "x_HQI4MufaQAALJbn",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 420,
+      "width": 1043,
+      "height": 596
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/507_x_HQI4MufaQAALJbn_7x4.png",
+    "note": "保留原图最大宽度，双臂原图即出界。"
+  },
+  {
+    "number": 508,
+    "id": "x_HSTgDxoaQAAKOqA",
+    "viewed": true,
+    "crop": {
+      "left": 32,
+      "top": 0,
+      "width": 4032,
+      "height": 2304
+    },
+    "scoreTotal": 89,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/508_x_HSTgDxoaQAAKOqA_7x4.png",
+    "note": "保留接近原幅的裁框和签名，动作无需重裁。"
+  },
+  {
+    "number": 509,
+    "id": "x_HP1EABSbAAA9M4p",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 450,
+      "width": 2478,
+      "height": 1416
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/509_x_HP1EABSbAAA9M4p_7x4.png",
+    "note": "保留最大宽度的回眸近景，不为去签名再缩框。"
+  },
+  {
+    "number": 510,
+    "id": "x_HUfYHHxbIAAmoiB",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 240,
+      "width": 2303,
+      "height": 1316
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/510_x_HUfYHHxbIAAmoiB_7x4.png",
+    "note": "同尺寸上移460像素，恢复两只手及抬臂姿态。"
+  },
+  {
+    "number": 511,
+    "id": "x_HOSTBtJb0AAmsxq",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 1250,
+      "width": 3073,
+      "height": 1756
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/511_x_HOSTBtJb0AAmsxq_7x4.png",
+    "note": "保留全宽近景，脸与手的关系已完整。"
+  },
+  {
+    "number": 512,
+    "id": "x_HQ97dr5agAAQMuz",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 500,
+      "width": 2352,
+      "height": 1344
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/512_x_HQ97dr5agAAQMuz_7x4.png",
+    "note": "同尺寸上移200像素，补回前侧手指，保完整脸。"
+  },
+  {
+    "number": 513,
+    "id": "x_HP8BhAbbQAAPxxi",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 480,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/513_x_HP8BhAbbQAAPxxi_7x4.png",
+    "note": "保留最大宽度的侧脸近景。"
+  },
+  {
+    "number": 514,
+    "id": "x_HPEkDhCWcAAiH9D",
+    "viewed": true,
+    "crop": {
+      "left": 365,
+      "top": 1,
+      "width": 3731,
+      "height": 2132
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/514_x_HPEkDhCWcAAiH9D_7x4.png",
+    "note": "同尺寸右移185像素，恢复右侧完整脸，左侧仅牺牲部分外缘发丝。"
+  },
+  {
+    "number": 515,
+    "id": "x_HQO0SlFbYAAqVpD",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 450,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/515_x_HQO0SlFbYAAqVpD_7x4.png",
+    "note": "保留全宽头像近景，不为标志改框。"
+  },
+  {
+    "number": 516,
+    "id": "x_HTxZ7LuaAAEQBxb",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 350,
+      "width": 4095,
+      "height": 2340
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/516_x_HTxZ7LuaAAEQBxb_7x4.png",
+    "note": "同尺寸下移150像素，补回双脚下缘，仍保留完整五官。"
+  },
+  {
+    "number": 517,
+    "id": "x_HOsHWnlboAAtT5R",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 650,
+      "width": 2394,
+      "height": 1368
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/517_x_HOsHWnlboAAtT5R_7x4.png",
+    "note": "保留全宽近景，优先完整脸和持花动作。"
+  },
+  {
+    "number": 518,
+    "id": "x_HToXc4-bsAAjhDC",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 290,
+      "width": 1008,
+      "height": 576
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/518_x_HToXc4-bsAAjhDC_7x4.png",
+    "note": "保留最大宽度的面肩近景。"
+  },
+  {
+    "number": 519,
+    "id": "x_HMeZ7B8WcAAQ3aR",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 220,
+      "width": 1274,
+      "height": 728
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/519_x_HMeZ7B8WcAAQ3aR_7x4.png",
+    "note": "保留全宽头像裁框。"
+  },
+  {
+    "number": 520,
+    "id": "x_HNvq0xfaQAEU56t",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 650,
+      "width": 2345,
+      "height": 1340
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/520_x_HNvq0xfaQAEU56t_7x4.png",
+    "note": "保留全宽近景，完整五官与主要手指均可见。"
+  },
+  {
+    "number": 521,
+    "id": "x_HQYL7B5aoAAboVN",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 300,
+      "width": 1617,
+      "height": 924
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/521_x_HQYL7B5aoAAboVN_7x4.png",
+    "note": "保留全宽近景，兼顾完整脸与颈前手势。"
+  },
+  {
+    "number": 522,
+    "id": "x_HPhHNxqbgAAQeQc",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 250,
+      "width": 1526,
+      "height": 872
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/522_x_HPhHNxqbgAAQeQc_7x4.png",
+    "note": "同尺寸下移70像素，恢复膝上双手，不缩框去背景。"
+  },
+  {
+    "number": 523,
+    "id": "x_HP8LoDPbYAAPjOj",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 480,
+      "width": 1379,
+      "height": 788
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/523_x_HP8LoDPbYAAPjOj_7x4.png",
+    "note": "保留全宽头像裁框，手势远在下方无法与完整脸兼顾。"
+  },
+  {
+    "number": 524,
+    "id": "x_HPsOkOTaoAEgxHV",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 450,
+      "width": 1365,
+      "height": 780
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/524_x_HPsOkOTaoAEgxHV_7x4.png",
+    "note": "保留最大宽度的回眸近景。"
+  },
+  {
+    "number": 525,
+    "id": "x_HS0yi8fbIAAIwyJ",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 1100,
+      "width": 2548,
+      "height": 1456
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/525_x_HS0yi8fbIAAIwyJ_7x4.png",
+    "note": "同尺寸下移180像素，补回部分持物手势，保留完整五官。"
+  },
+  {
+    "number": 526,
+    "id": "x_HS-w3NLXgAAqVoB",
+    "viewed": true,
+    "crop": {
+      "left": 14,
+      "top": 0,
+      "width": 1904,
+      "height": 1088
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/526_x_HS-w3NLXgAAqVoB_7x4.png",
+    "note": "保留近全幅裁框，动作没有新增损失。"
+  },
+  {
+    "number": 527,
+    "id": "x_HPHjNeBXIAADt0J",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 1200,
+      "width": 3171,
+      "height": 1812
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/527_x_HPHjNeBXIAADt0J_7x4.png",
+    "note": "保留最大宽度脸部近景。"
+  },
+  {
+    "number": 528,
+    "id": "x_HQWMb-AWAAAEAcw",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 100,
+      "width": 3066,
+      "height": 1752
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/528_x_HQWMb-AWAAAEAcw_7x4.png",
+    "note": "同尺寸上移320像素，补回上举手指，优先动作。"
+  },
+  {
+    "number": 529,
+    "id": "x_HUcb1fvaEAAQEaS",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 800,
+      "width": 1792,
+      "height": 1024
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/529_x_HUcb1fvaEAAQEaS_7x4.png",
+    "note": "保留最大宽度，优先双人完整脸和主要手势。"
+  },
+  {
+    "number": 530,
+    "id": "x_HQjo0RAaUAA6g7S",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 600,
+      "width": 1274,
+      "height": 728
+    },
+    "scoreTotal": 71,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/530_x_HQjo0RAaUAA6g7S_7x4.png",
+    "note": "保留全宽近景，继续缩框不会增加实际细节。"
+  },
+  {
+    "number": 531,
+    "id": "x_HRZZVqgW0AAc4nu",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 650,
+      "width": 4095,
+      "height": 2340
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/531_x_HRZZVqgW0AAc4nu_7x4.png",
+    "note": "同尺寸下移500像素，补回坐姿与部分双腿；原幅无法同时容纳头部和足端。"
+  },
+  {
+    "number": 532,
+    "id": "x_HPo7j5MaIAA5mlL",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 580,
+      "width": 2044,
+      "height": 1168
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/532_x_HPo7j5MaIAA5mlL_7x4.png",
+    "note": "保留最大宽度的脸部近景。"
+  },
+  {
+    "number": 533,
+    "id": "x_HRCL9upb0AAnAHE",
+    "viewed": true,
+    "crop": {
+      "left": 225,
+      "top": 0,
+      "width": 1890,
+      "height": 1080
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/533_x_HRCL9upb0AAnAHE_7x4.png",
+    "note": "扩大至1890×1080恢复原图下方人体，保留界面文字。"
+  },
+  {
+    "number": 534,
+    "id": "x_HNifMnuWwAACkn8",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 240,
+      "width": 1596,
+      "height": 912
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/534_x_HNifMnuWwAACkn8_7x4.png",
+    "note": "保留最大宽度近景，竖图中完整坐姿与脸不可兼顾。 发布账号主页注明AI+ART；每幅制作过程未单独核实。"
+  },
+  {
+    "number": 535,
+    "id": "x_HNW6Rv7bcAA7yfM",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 520,
+      "width": 2590,
+      "height": 1480
+    },
+    "scoreTotal": 82,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/535_x_HNW6Rv7bcAA7yfM_7x4.png",
+    "note": "同尺寸上移130像素，恢复伸出的手指，优先动作完整。"
+  },
+  {
+    "number": 544,
+    "id": "x_HQ8vgktakAAvK3t",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 610,
+      "width": 1344,
+      "height": 768
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/544_x_HQ8vgktakAAvK3t_7x4.png",
+    "note": "保留当前肖像框，竖图无法兼收高举手。"
+  },
+  {
+    "number": 545,
+    "id": "x_HTObx6-a4AIbcLb",
+    "viewed": true,
+    "crop": {
+      "left": 20,
+      "top": 0,
+      "width": 1904,
+      "height": 1088
+    },
+    "scoreTotal": 88,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/545_x_HTObx6-a4AIbcLb_7x4.png",
+    "note": "原横幅几乎完整保留。"
+  },
+  {
+    "number": 546,
+    "id": "x_HUHigUTaQAAF9lh",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 180,
+      "width": 1918,
+      "height": 1096
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/546_x_HUHigUTaQAAF9lh_7x4.png",
+    "note": "同尺寸下移160像素，补回右下手掌。"
+  },
+  {
+    "number": 547,
+    "id": "x_HQz1GogWMAAUwyt",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 4095,
+      "height": 2340
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/547_x_HQz1GogWMAAUwyt_7x4.png",
+    "note": "扩大至全宽，保留更多腿部及原有文字界面。"
+  },
+  {
+    "number": 548,
+    "id": "x_HMIz4zrXUAAwuVC",
+    "viewed": true,
+    "crop": {
+      "left": 30,
+      "top": 420,
+      "width": 1400,
+      "height": 800
+    },
+    "scoreTotal": 73,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/548_x_HMIz4zrXUAAwuVC_7x4.png",
+    "note": "同尺寸下移140像素，补双手；保留完整面部。"
+  },
+  {
+    "number": 550,
+    "id": "x_HRoexfIXMAAO2Ko",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2128,
+      "height": 1216
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/550_x_HRoexfIXMAAO2Ko_7x4.png",
+    "note": "保留当前全宽框；继续下移会逼近双人面部。"
+  },
+  {
+    "number": 551,
+    "id": "x_HUQ_sQ6awAAKxv4",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 290,
+      "width": 1176,
+      "height": 672
+    },
+    "scoreTotal": 72,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/551_x_HUQ_sQ6awAAKxv4_7x4.png",
+    "note": "保留面部与上身，横框无法同时保双手与头部。"
+  },
+  {
+    "number": 552,
+    "id": "x_HT8dcLzaMAAdYz0",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 590,
+      "width": 1442,
+      "height": 824
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/552_x_HT8dcLzaMAAdYz0_7x4.png",
+    "note": "保留当前框，主要手势与面部均完整。"
+  },
+  {
+    "number": 553,
+    "id": "x_HOIsfxoaEAEJG9E",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 240,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 73,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/553_x_HOIsfxoaEAEJG9E_7x4.png",
+    "note": "保留横伸动作，不为右侧适配损失人物。"
+  },
+  {
+    "number": 554,
+    "id": "x_HPlYACUbYAA5TQH",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 680,
+      "width": 2891,
+      "height": 1652
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/554_x_HPlYACUbYAA5TQH_7x4.png",
+    "note": "保留脸与肩胸，上举手在原图已出边。"
+  },
+  {
+    "number": 555,
+    "id": "x_HOLbAHeaoAAYuPH",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 4095,
+      "height": 2340
+    },
+    "scoreTotal": 86,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/555_x_HOLbAHeaoAAYuPH_7x4.png",
+    "note": "接近完整横幅，保留裙摆和文字。"
+  },
+  {
+    "number": 556,
+    "id": "x_HP5fIT6acAEkAc3",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 850,
+      "width": 2989,
+      "height": 1708
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/556_x_HP5fIT6acAEkAc3_7x4.png",
+    "note": "保留横伸手、脸和躯干，竖图无法同时兼顾上下伸展。"
+  },
+  {
+    "number": 557,
+    "id": "x_HQnv--aawAEUWtj",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 500,
+      "width": 1239,
+      "height": 708
+    },
+    "scoreTotal": 73,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/557_x_HQnv--aawAEUWtj_7x4.png",
+    "note": "保留脸与上身；向上平移无法同时纳入双手和完整面部。"
+  },
+  {
+    "number": 558,
+    "id": "x_HRqNhckXgAEA6Ty",
+    "viewed": true,
+    "crop": {
+      "left": 9,
+      "top": 1300,
+      "width": 2142,
+      "height": 1224
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/558_x_HRqNhckXgAEA6Ty_7x4.png",
+    "note": "保留中间单格，不纳入上下其他镜头。"
+  },
+  {
+    "number": 559,
+    "id": "x_HUaZ8wFXgAA29i5",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 1340,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/559_x_HUaZ8wFXgAA29i5_7x4.png",
+    "note": "保留当前近景，托腮动作完整。"
+  },
+  {
+    "number": 560,
+    "id": "x_HTObqaVaQAAuM1l",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 370,
+      "width": 1260,
+      "height": 720
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/560_x_HTObqaVaQAAuM1l_7x4.png",
+    "note": "保留当前脸肩近景。"
+  },
+  {
+    "number": 561,
+    "id": "x_HN62Uy4aYAAljlA",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 430,
+      "width": 1372,
+      "height": 784
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/561_x_HN62Uy4aYAAljlA_7x4.png",
+    "note": "保留脸与持光带手，竖幅无法兼收下方另一只手。"
+  },
+  {
+    "number": 562,
+    "id": "x_HNSi-fObEAEDKWl",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 410,
+      "width": 1323,
+      "height": 756
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/562_x_HNSi-fObEAEDKWl_7x4.png",
+    "note": "保留当前脸肩构图，文字本身不扣分。"
+  },
+  {
+    "number": 563,
+    "id": "x_HPaQTqlWQAAdEe3",
+    "viewed": true,
+    "crop": {
+      "left": 12,
+      "top": 1,
+      "width": 1176,
+      "height": 672
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/563_x_HPaQTqlWQAAdEe3_7x4.png",
+    "note": "接近完整保留原横幅及标志。"
+  },
+  {
+    "number": 564,
+    "id": "x_HUJXJsJWEAAkJBI",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 490,
+      "width": 1778,
+      "height": 1016
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/564_x_HUJXJsJWEAAkJBI_7x4.png",
+    "note": "保留横伸手和面部；无法兼收最上方手指而保持完整面部。"
+  },
+  {
+    "number": 565,
+    "id": "x_HSYy5xjagAAtDsY",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 240,
+      "width": 1120,
+      "height": 640
+    },
+    "scoreTotal": 72,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/565_x_HSYy5xjagAAtDsY_7x4.png",
+    "note": "同尺寸下移140像素补下方手指，保留面部，部分头顶舍去。"
+  },
+  {
+    "number": 566,
+    "id": "x_HOxjDjnboAAiKhp",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 300,
+      "width": 1295,
+      "height": 740
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/566_x_HOxjDjnboAAiKhp_7x4.png",
+    "note": "独立取左上单格，保留当前脸肩框。"
+  },
+  {
+    "number": 567,
+    "id": "x_HMhX8rdbEAA06jB",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 370,
+      "width": 1141,
+      "height": 652
+    },
+    "scoreTotal": 79,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/567_x_HMhX8rdbEAA06jB_7x4.png",
+    "note": "保留当前近景，手臂在原图即出边。"
+  },
+  {
+    "number": 569,
+    "id": "x_HUWOmNpbwAAtLF4",
+    "viewed": true,
+    "crop": {
+      "left": 5,
+      "top": 0,
+      "width": 2037,
+      "height": 1164
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/569_x_HUWOmNpbwAAtLF4_7x4.png",
+    "note": "基本保留完整横幅，不为偏右压缩人物与互动。"
+  },
+  {
+    "number": 570,
+    "id": "x_HOHnTgTXgAAnRpV",
+    "viewed": true,
+    "crop": {
+      "left": 3,
+      "top": 490,
+      "width": 1757,
+      "height": 1004
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/570_x_HOHnTgTXgAAnRpV_7x4.png",
+    "note": "保留面部与握剑关系，不缩框。"
+  },
+  {
+    "number": 571,
+    "id": "x_HPAhu3CWkAAwJb4",
+    "viewed": true,
+    "crop": {
+      "left": 12,
+      "top": 1,
+      "width": 1176,
+      "height": 672
+    },
+    "scoreTotal": 84,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/571_x_HPAhu3CWkAAwJb4_7x4.png",
+    "note": "基本保留完整横幅及标志。"
+  },
+  {
+    "number": 572,
+    "id": "x_HMApUy-WYAAtQNe",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 130,
+      "width": 1155,
+      "height": 660
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/572_x_HMApUy-WYAAtQNe_7x4.png",
+    "note": "独立保留左侧单格近景。"
+  },
+  {
+    "number": 442,
+    "id": "149747924",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 280,
+      "width": 1414,
+      "height": 808
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/442_149747924_7x4.png",
+    "note": "保留原图全宽，增加可用高度以补入右手、腰部和裙装，不为签名缩框。"
+  },
+  {
+    "number": 443,
+    "id": "149719877",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 180,
+      "width": 1498,
+      "height": 856
+    },
+    "scoreTotal": 74,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/443_149719877_7x4.png",
+    "note": "使用接近原图全宽的裁框，增加高度保留双手与裙装，允许左上品牌文字出现。"
+  },
+  {
+    "number": 445,
+    "id": "149711953",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 150,
+      "width": 1428,
+      "height": 816
+    },
+    "scoreTotal": 71,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/445_149711953_7x4.png",
+    "note": "使用原图全宽以保留伸腿和下方手势，舍去上举手和长头饰。"
+  },
+  {
+    "number": 446,
+    "id": "149711548",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 400,
+      "width": 1687,
+      "height": 964
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/446_149711548_7x4.png",
+    "note": "保持裁框尺寸下移100px，增加身体占比，保留脸和嘴旁手势。"
+  },
+  {
+    "number": 447,
+    "id": "149682347",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 500,
+      "width": 1498,
+      "height": 856
+    },
+    "scoreTotal": 83,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/447_149682347_7x4.png",
+    "note": "保留原裁框大小略上移，让额前与双眼更舒展；左上署名和小头像保留。"
+  },
+  {
+    "number": 448,
+    "id": "149518062",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 400,
+      "width": 1141,
+      "height": 652
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/448_149518062_7x4.png",
+    "note": "保持接近原图全宽的脸与肩胸取景，不为漫画符号收窄画面。"
+  },
+  {
+    "number": 449,
+    "id": "149491685",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 1050,
+      "width": 1645,
+      "height": 940
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/449_149491685_7x4.png",
+    "note": "保留最大可用横裁宽度，重点留住脸和上半身，不为飘带缩小裁框。"
+  },
+  {
+    "number": 450,
+    "id": "149401530",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 450,
+      "width": 1645,
+      "height": 940
+    },
+    "scoreTotal": 78,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/450_149401530_7x4.png",
+    "note": "保留接近原图全宽的脸与上身取景，不为外围羽毛收窄画面。"
+  },
+  {
+    "number": 536,
+    "id": "x_HPvDtMObwAAE1Ef",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 320,
+      "width": 1638,
+      "height": 936
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/536_x_HPvDtMObwAAE1Ef_7x4.png",
+    "note": "保持最大原生宽度，只向上平移100px，减少主要发型的切边。"
+  },
+  {
+    "number": 537,
+    "id": "x_HMAP5dWW0AAnxYH",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 200,
+      "width": 1596,
+      "height": 912
+    },
+    "scoreTotal": 72,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/537_x_HMAP5dWW0AAnxYH_7x4.png",
+    "note": "保留原候选的最大宽度取景，优先保住脸与持剑手部；不为去水印缩框。 发布账号主页注明AI+ART；每幅制作过程未单独核实。"
+  },
+  {
+    "number": 538,
+    "id": "x_HPft5siWYAAncdt",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 260,
+      "width": 1596,
+      "height": 912
+    },
+    "scoreTotal": 73,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/538_x_HPft5siWYAAncdt_7x4.png",
+    "note": "保留最大原生宽度与原候选取景，保留较多躯干和持剑动作。 发布账号主页注明AI+ART；每幅制作过程未单独核实。"
+  },
+  {
+    "number": 539,
+    "id": "x_HUdIfM-bcAE-_P3",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 0,
+      "width": 1533,
+      "height": 876
+    },
+    "scoreTotal": 71,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/539_x_HUdIfM-bcAE-_P3_7x4.png",
+    "note": "保持原裁尺寸，上移100px补回上举手指；允许保留左上宣传文字。"
+  },
+  {
+    "number": 540,
+    "id": "x_HSaXcq9bQAAGI5S",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 100,
+      "width": 1092,
+      "height": 624
+    },
+    "scoreTotal": 76,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/540_x_HSaXcq9bQAAGI5S_7x4.png",
+    "note": "同尺寸向上平移140px，保住主要发型和弯臂轮廓，竖幅无法同时保全下身。"
+  },
+  {
+    "number": 541,
+    "id": "x_HQZ2ixfbgAALa8l",
+    "viewed": true,
+    "crop": {
+      "left": 1,
+      "top": 210,
+      "width": 1078,
+      "height": 616
+    },
+    "scoreTotal": 75,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/541_x_HQZ2ixfbgAALa8l_7x4.png",
+    "note": "保持最大原生宽度，只上移150px，让主要发型、脸和颈部留在框内。"
+  },
+  {
+    "number": 542,
+    "id": "x_HPn6f7EXsAAG3H8",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 46,
+      "width": 2044,
+      "height": 1168
+    },
+    "scoreTotal": 77,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/542_x_HPn6f7EXsAAG3H8_7x4.png",
+    "note": "沿用接近全图的原候选框，保留互动、衣饰与装饰，不为去边框继续缩小。"
+  },
+  {
+    "number": 543,
+    "id": "x_HPvEHUaakAAul1O",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 60,
+      "width": 2044,
+      "height": 1168
+    },
+    "scoreTotal": 73,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/543_x_HPvEHUaakAAul1O_7x4.png",
+    "note": "保持最大原生宽度，只向上平移80px补回上举手，保留双人互动。"
+  },
+  {
+    "number": 573,
+    "id": "149248244",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 260,
+      "width": 2100,
+      "height": 1200
+    },
+    "scoreTotal": 81,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/573_149248244_7x4.png",
+    "note": "最大原生宽度，同尺寸上移190px保住头型。作品标签包含AIイラスト，用户确认按画面精致度评估。"
+  },
+  {
+    "number": 574,
+    "id": "148655542",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 260,
+      "width": 1316,
+      "height": 752
+    },
+    "scoreTotal": 72,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/574_148655542_7x4.png",
+    "note": "最大原生宽度横裁脸、肩胸与挥手动作；PNG保留原透明通道。源图底部标注AI-generated content。"
+  },
+  {
+    "number": 575,
+    "id": "x_HPF8XIoWAAAmB18",
+    "viewed": true,
+    "crop": {
+      "left": 2,
+      "top": 200,
+      "width": 2044,
+      "height": 1168
+    },
+    "scoreTotal": 80,
+    "rubricVersion": "crop-v2",
+    "rightFocus": false,
+    "cropped": "expanded/575_x_HPF8XIoWAAAmB18_7x4.png",
+    "note": "保持最大原生宽度，围绕脸、屈臂与肩胸取景；原图已经截去上方长羽饰尖端。图内署名为Ales AI，按用户确认的精致度标准保留。"
+  },
+  {
+    "number": 104,
+    "id": "x_HPgnXpyaQAAVYyj",
+    "viewed": true,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 3150,
+      "height": 1800
+    },
+    "scoreTotal": 93,
+    "rubricVersion": "crop-v2",
+    "rightFocus": true,
+    "cropped": "expanded/104_x_HPgnXpyaQAAVYyj_7x4.png",
+    "note": "保留主角头脸、坐姿与腿部，主体偏右，底部大标题退出画面。"
+  }
+]

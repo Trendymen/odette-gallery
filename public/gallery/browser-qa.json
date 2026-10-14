@@ -1,0 +1,135 @@
+{
+  "recordedAt": "2026-10-14T09:41:59.584Z",
+  "browser": "existing Chrome via chrome-devtools",
+  "gallery": "thumbnails.html",
+  "works": 544,
+  "curated": 414,
+  "hidden": 130,
+  "masonry": {
+    "views": {
+      "selected": {
+        "scope": "selected",
+        "cards": 414,
+        "counts": [
+          "精选（414）",
+          "全部（544）",
+          "已隐藏（130）"
+        ]
+      },
+      "all": {
+        "scope": "all",
+        "cards": 544,
+        "counts": [
+          "精选（414）",
+          "全部（544）",
+          "已隐藏（130）"
+        ]
+      },
+      "hidden": {
+        "scope": "hidden",
+        "cards": 130,
+        "counts": [
+          "精选（414）",
+          "全部（544）",
+          "已隐藏（130）"
+        ]
+      }
+    },
+    "width": 2048,
+    "columns": "653.664px 653.664px 653.672px",
+    "cardWidth": 653.6640625,
+    "overflow": false,
+    "samples": [
+      {
+        "id": "official_wallpaper_stage",
+        "preview": "recrop_043/043_stage_right_balanced_preview.jpg",
+        "href": "index.html?id=official_wallpaper_stage&scope=selected"
+      },
+      {
+        "id": "148779631",
+        "preview": "previews/027_148779631_7x4.jpg",
+        "href": "index.html?id=148779631&scope=selected"
+      },
+      {
+        "id": "148900925",
+        "preview": "recrop_087/087_right_shoe_tight_top_preview.jpg",
+        "href": "index.html?id=148900925&scope=selected"
+      },
+      {
+        "id": "149656002",
+        "preview": "recrop_013/013_left_full_height_preview.jpg",
+        "href": "index.html?id=149656002&scope=selected"
+      },
+      {
+        "id": "148393517",
+        "preview": "previews/095_148393517_7x4.jpg",
+        "href": "index.html?id=148393517&scope=selected"
+      }
+    ],
+    "firstSixDecoded": true
+  },
+  "single": {
+    "url": "file:///Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/outputs/odette_mousepad_updated/index.html?id=149656002&scope=selected",
+    "pick": "013 · 原神同人绘画奥黛塔--冰与火的诀别 · 86 分",
+    "preview": {
+      "file": "recrop_013/013_left_full_height_preview.jpg",
+      "loaded": true
+    },
+    "returnURL": "thumbnails.html?scope=selected",
+    "original": {
+      "file": "originals/013_149656002_original.jpg",
+      "loaded": true
+    },
+    "frame": {
+      "file": "recrop_013/013_left_full_height_frame.jpg",
+      "loaded": true
+    },
+    "versions": 3,
+    "visibleImages": 1,
+    "otherVersion": "recrops_subject/013_149656002_subject_preview.jpg"
+  },
+  "hiddenNavigation": {
+    "url": "file:///Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/outputs/odette_mousepad_updated/all-candidates.html?id=148450678&scope=hidden",
+    "pick": "271 · 奥黛塔 · 89 分",
+    "loaded": true,
+    "returnURL": "thumbnails.html?scope=hidden",
+    "hiddenReason": "默认隐藏：五官、衣饰和身体透视完成，脸完整但前景腿部占比很大，作为备选。"
+  },
+  "mobile": {
+    "width": 390,
+    "columns": 1,
+    "cardWidth": 358,
+    "overflow": false,
+    "overlap": false
+  },
+  "keyboard": {
+    "actualPressKey": true,
+    "from": 13,
+    "to": 15
+  },
+  "serverRequired": false,
+  "customCandidates": {
+    "implemented": true,
+    "recordedAt": "2026-10-14T11:07:08.588Z",
+    "url": "http://127.0.0.1:58855/thumbnails.html",
+    "stateFile": "state/odette_mousepad_updated/custom-candidates.json",
+    "selectionScope": "artwork ID follows current default crop",
+    "qa": "custom-candidates-qa.json",
+    "works": 544,
+    "curated": 414,
+    "hidden": 130,
+    "serverRequiredForPersistence": true
+  },
+  "interactionAndDeletionMarks": {
+    "implemented": true,
+    "recordedAt": "2026-10-14T12:38:08.434Z",
+    "url": "http://127.0.0.1:58855/thumbnails.html",
+    "qa": "interaction-deletion-qa.json",
+    "stateFile": "state/odette_mousepad_updated/custom-candidates.json",
+    "deletionStateFile": "state/odette_mousepad_updated/deletion-marks.json",
+    "noAutomaticFiltering": true,
+    "markedIdsInitial": [],
+    "priorSelectionsPreserved": true,
+    "testsPassed": 74
+  }
+}

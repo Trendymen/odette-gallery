@@ -1,0 +1,18 @@
+{
+  "id": "x_HUGTY-caIAA-qhC",
+  "sourceHash": "b5273df0fbd18f7afa97923802e71936ab45162851e6f502a3a598958798964c",
+  "crop": {
+    "left": 350,
+    "top": 0,
+    "width": 1645,
+    "height": 940
+  },
+  "pixelExact": true,
+  "strict7x4": true,
+  "pixelHash": "71a019e7042d5a5ee72a996c1eafdfa425b49f66ddc6fc0f66cf4b3bdf09d0a2",
+  "fileHashes": {
+    "cropped": "9356dde1014842dc3e8ab851c3c048b443eb81d53dcd4a1947dc4a4345e75e19",
+    "preview": "13f72d8f837c0959a7c2661f38d47fd2b6bf4c4b891ee4ecccb3ef2b32d1f9cb",
+    "frame": "c36ec861ab7a6b1ce40cd385a9e8e444849c98204e4afb58d8e8e0a5df3d39b9"
+  }
+}

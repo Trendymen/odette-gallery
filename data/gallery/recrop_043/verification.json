@@ -1,0 +1,16 @@
+{
+  "candidate": 43,
+  "source": "supplement_4k/odette_stage_miyoushe_3840x2160_original.png",
+  "sourceSHA256": "549feea2ee7333c4690eda920c05e06120de09bb5c116cde212238017f61958d",
+  "crop": {
+    "left": 0,
+    "top": 330,
+    "width": 3080,
+    "height": 1760
+  },
+  "strict7x4": true,
+  "pixelExact": true,
+  "pixelSHA256": "942a7a1c7a8a6ed3cf4217e22ec985e89dd4d450398c237f017b2ae350b9121e",
+  "ppiAt700mm": 111.76,
+  "visualQC": "前景人物位于右侧，双手、裙摆与鞋尖完整，上下保留余量，右侧保留少量舞台背景。"
+}

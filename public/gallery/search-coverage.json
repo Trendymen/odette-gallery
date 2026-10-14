@@ -1,0 +1,56 @@
+{
+  "previousPixivCoverage": {
+    "pixivScope": 774,
+    "pixivProcessed": 774,
+    "pixivViewed": 769,
+    "pixivIdentityOrSourceExcluded": 83,
+    "pixivPending": 0,
+    "retrievedPixivWorks": 936,
+    "belowPixelThreshold": 162,
+    "externalReviewed": 9,
+    "officialReviewed": 16,
+    "selected": 103,
+    "rightSelected": 35,
+    "officialSelected": 8,
+    "officialStaticSelected": 5,
+    "officialVideoFramesSelected": 3,
+    "cropPairsVerified": 103,
+    "visualCropQC": 103,
+    "sourceRecords": 961,
+    "adjustedCropPositions": 12
+  },
+  "current": {
+    "images": 936,
+    "reusedCurrentPixiv": 93,
+    "additionalImagesViewed": 843,
+    "candidates": 318,
+    "nativeOriginalsReady": 318
+  },
+  "x": {
+    "keywords": [
+      "オデット filter:images",
+      "奥黛塔 filter:images",
+      "Odette Genshin filter:images"
+    ],
+    "distinctMediaDownloaded": 681,
+    "initialDuplicates": 76,
+    "belowNativeWidthThreshold": 93,
+    "novelImagesViewed": 512,
+    "candidates": 154
+  },
+  "finalGallery": {
+    "works": 544,
+    "defaultVisible": 414,
+    "defaultHidden": 130,
+    "rightDefaultVisible": 137,
+    "officialDefaultVisible": 7,
+    "nativeWidth4000DefaultVisible": 40,
+    "currentAndHistoricalVersions": 576
+  },
+  "malePairFilter": {
+    "reviewed": 557,
+    "excluded": 13,
+    "emptyPending": true,
+    "AetherException": true
+  }
+}

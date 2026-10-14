@@ -1,0 +1,167 @@
+{
+  "recordedAt": "2026-10-14T12:38:08.432Z",
+  "latestSourceFingerprints": {
+    "work/crop-rescore/render-thumbnail-gallery.mjs": "f12413da1c60234da8f466d392a8bcf9ef13d920667eb87315745d9a6aae5ed4",
+    "work/crop-rescore/custom-selection-client.mjs": "7c8046b942288ade3f8785b7c4dc65f0991c48fb09562fc418586c9f72b7574a",
+    "work/crop-rescore/render-scored-gallery.mjs": "7440b74c94a70a2f49942e6014a4456ef0f725c83e977cbbdbdd02c9bc564a42",
+    "work/gallery-server/tests/gallery-browser.test.mjs": "d7761e0ee9c9e2ac85c96bac81d6574f9fe4eb223fcb6c512647895d9f8d167f",
+    "work/gallery-server/src/server.mjs": "cfb7a27b694980b4f0a1f0c671f2ecefab8acc9a5224a2999c9c197d19955e97",
+    "work/gallery-server/src/selection-store.mjs": "f7199ae7107bbb6e441751ef082d483786379a15333fc988bbfcbc38ba4c4857",
+    "work/gallery-server/src/start.mjs": "c0e62eb68001425706d36c8ac52207f938fcfeab97794d7f65f24ae66219a7e2",
+    "work/gallery-server/tests/catalog-store.test.mjs": "696c03fdd7db8ca08822b9afc9f9d630b54c1d2d0a5f4116880780962c75a7cc",
+    "work/gallery-server/tests/server.test.mjs": "127575c36f57bdb6af119ed54b9404c8d5360899d9716d8f817624ae5f64cf00",
+    "work/gallery-server/README.md": "9635b80e05b6275b3d523954c152725854ccc2e3a0f3acf9aed664c3cb1d8cd8"
+  },
+  "isolatedQA": {
+    "browser": "isolated Playwright Chromium",
+    "works": 544,
+    "apiDelayMs": 3000,
+    "redGeometry": {
+      "card": {
+        "x": 20,
+        "y": 186.5,
+        "width": 456,
+        "height": 416.0625,
+        "right": 476,
+        "bottom": 602.5625
+      },
+      "left": {
+        "x": 34,
+        "y": 568.0625,
+        "width": 111,
+        "height": 21,
+        "right": 145,
+        "bottom": 589.0625
+      },
+      "right": {
+        "x": 359,
+        "y": 566.5625,
+        "width": 103,
+        "height": 24,
+        "right": 462,
+        "bottom": 590.5625
+      },
+      "role": "switch",
+      "checked": true,
+      "background": "rgb(215, 45, 77)",
+      "labelColor": "rgb(255, 156, 175)",
+      "overflow": false
+    },
+    "redMobile": {
+      "width": 390,
+      "cardWidth": 358,
+      "leftY": 671.5625,
+      "rightY": 670.0625,
+      "rightInset": 14,
+      "overflow": false
+    },
+    "custom": {
+      "beforeY": 6624,
+      "initialCards": 90,
+      "immediate": {
+        "y": 6624,
+        "cards": 90,
+        "present": true,
+        "chosen": false
+      },
+      "confirmed": {
+        "y": 6624,
+        "cards": 90,
+        "present": true,
+        "chosen": false
+      },
+      "reentry": {
+        "cards": 89,
+        "removed": true
+      }
+    },
+    "single": {
+      "beforeTitle": "奥黛塔官方舞台主视觉",
+      "immediate": {
+        "title": "奥黛塔官方舞台主视觉",
+        "chosen": false,
+        "marked": true
+      }
+    },
+    "persisted": {
+      "selectedCount": 88,
+      "markedIds": [
+        "147136121",
+        "148673525",
+        "149105463",
+        "official_wallpaper_stage"
+      ],
+      "independentFiles": true
+    }
+  },
+  "formalRestore": {
+    "recordedAt": "2026-10-14T12:35:11.235Z",
+    "customStatus": 200,
+    "markStatus": 200,
+    "existingStateByteIdentical": true,
+    "selectedIds": [
+      "148393517",
+      "148673525",
+      "148779631",
+      "148900925",
+      "149154034",
+      "149656002",
+      "official_wallpaper_stage",
+      "x_HPgnXpyaQAAVYyj",
+      "x_HPjuarCbgAAXJsL"
+    ],
+    "markedIds": [],
+    "customRevision": 15,
+    "markRevision": 0,
+    "serverPID": 74850
+  },
+  "productionUI": {
+    "url": "http://127.0.0.1:58855/thumbnails.html",
+    "cards": 414,
+    "custom": "定制候选（9）",
+    "customStatus": "已保存",
+    "deleteStatus": "删除标记已保存",
+    "role": "switch",
+    "switchBackground": "rgb(50, 29, 44)",
+    "labelColor": "rgb(255, 156, 175)",
+    "footer": [
+      {
+        "text": "加入定制候选",
+        "y": 681.015625,
+        "right": 145
+      },
+      {
+        "text": "标记删除",
+        "y": 679.515625,
+        "right": 659.6640625
+      }
+    ],
+    "overflow": false,
+    "firstThreeDecoded": true
+  },
+  "contentInvariants": {
+    "recordedAt": "2026-10-14T12:36:02.055Z",
+    "metadata": [
+      {
+        "file": "manifest.json",
+        "unchanged": true
+      },
+      {
+        "file": "manifest-curated.json",
+        "unchanged": true
+      },
+      {
+        "file": "crop-scores.json",
+        "unchanged": true
+      },
+      {
+        "file": "verification.json",
+        "unchanged": true
+      }
+    ],
+    "imageFiles": 2258,
+    "unchanged": true,
+    "failures": []
+  },
+  "testDataExcludedFromProduction": true
+}

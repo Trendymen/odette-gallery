@@ -1,0 +1,496 @@
+{
+  "audit": "aether-exclusion-audit",
+  "generatedAt": "2026-10-14T09:49:53.649Z",
+  "scope": "exclusions.json 当前13条排除项",
+  "policy": {
+    "aetherAllowed": [
+      "本人",
+      "萌系形象",
+      "玩偶或头像",
+      "仅与空同框或配对"
+    ],
+    "otherConfirmedMalePresent": "retainExclusion",
+    "unconfirmedOffFrameHands": "restore"
+  },
+  "rulesChecked": [
+    "用户提供的全局AGENTS.md规则；相关上级及报告目录未发现额外AGENTS.md或AGENTS.override.md",
+    "removed-assets和originals目录未发现额外AGENTS.md或AGENTS.override.md"
+  ],
+  "method": "逐项从removed-assets/originals读取并用view_image查看完整原图；未用联系表或仅预览裁图作为依据。人物身份结合实际造型、source-tags.json作者标签及本组同角色图片比对。未联网扩大范围。",
+  "summary": {
+    "reviewed": 13,
+    "retainExclusion": 13,
+    "restore": 0,
+    "restoreIds": [],
+    "aetherPresentIds": [
+      "official_launcher_kv"
+    ],
+    "decisionUncertaintyIds": [],
+    "nonBlockingIdentityNotes": [
+      {
+        "id": "148328468",
+        "note": "中央红发男性名字未确认；右侧米提亚已有造型对照，维持排除不依赖中央人物姓名。"
+      }
+    ]
+  },
+  "entries": [
+    {
+      "id": "147129067",
+      "number": 9,
+      "decision": "retainExclusion",
+      "viewedOriginal": true,
+      "viewTool": "view_image",
+      "viewDetail": "high",
+      "viewedPaths": [
+        "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/male-pair-filter/removed-assets/originals/009_147129067_original.jpg"
+      ],
+      "aetherPresent": false,
+      "males": [
+        {
+          "name": "阿廖沙 / Alyosha / アリョーシャ",
+          "location": "画面中央",
+          "evidence": "灰绿短发、金眼、红色围领、白毛领披风并持长枪；作者标签含アリョーシャ，与247、466、490的造型一致。"
+        }
+      ],
+      "reason": "中央人物是阿廖沙，左右分别为奥黛塔和沃佳妮察；未见空。",
+      "sourceTags": {
+        "id": "147129067",
+        "title": "三人で湖畔でキャンプ🫶",
+        "tags": [
+          "原神",
+          "ヴォジャニーツァ",
+          "アリョーシャ",
+          "オデット",
+          "原神500users入り",
+          "ロコット団"
+        ]
+      }
+    },
+    {
+      "id": "148350032",
+      "number": 16,
+      "decision": "retainExclusion",
+      "viewedOriginal": true,
+      "viewTool": "view_image",
+      "viewDetail": "high",
+      "viewedPaths": [
+        "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/male-pair-filter/removed-assets/originals/016_148350032_original.jpg"
+      ],
+      "aetherPresent": false,
+      "males": [
+        {
+          "name": "米提亚 / Mitya / ミティヤ",
+          "location": "右侧",
+          "evidence": "银灰卷发、紫眼、紫蓝长外套、金色胸饰；作者标签同时写ミティヤ(原神)、Mitya、米提亚(原神)。"
+        }
+      ],
+      "reason": "奥黛塔与米提亚牵手同框；未见空。",
+      "sourceTags": {
+        "id": "148350032",
+        "title": "It takes two to tango",
+        "tags": [
+          "原神",
+          "GenshinImpact",
+          "ミティヤ(原神)",
+          "オデット(原神)",
+          "Odette",
+          "Mitya",
+          "snezhnaya",
+          "スネージナヤ",
+          "米提亚(原神)",
+          "奥黛塔(原神)"
+        ],
+        "caption": "I ship them along with Alyosha and Vodyanitsa I&#39;m waiting for their model to be released :) ミティヤ(原神) オデット(原神)"
+      }
+    },
+    {
+      "id": "148328468",
+      "number": 17,
+      "decision": "retainExclusion",
+      "viewedOriginal": true,
+      "viewTool": "view_image",
+      "viewDetail": "high",
+      "viewedPaths": [
+        "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/male-pair-filter/removed-assets/originals/017_148328468_original.png"
+      ],
+      "aetherPresent": false,
+      "males": [
+        {
+          "name": "米提亚 / Mitya",
+          "location": "右侧",
+          "evidence": "银灰短卷发、紫眼、深紫蓝冬装，与016及097中的米提亚面部和配色对应。"
+        },
+        {
+          "name": "红色长发男性，角色名未确认",
+          "location": "画面中央",
+          "evidence": "脸和上半身完整可见，红色长发、白色冬装、持杖；未据标签确认名字。"
+        }
+      ],
+      "reason": "右侧米提亚足以维持排除；中央还有红发男性，未见空。",
+      "notes": [
+        "中央红发人物的名字未确认，不影响右侧米提亚的排除依据。"
+      ],
+      "sourceTags": {
+        "id": "148328468",
+        "title": "Welcome to Snezhnaya",
+        "tags": [
+          "GenshinImpact",
+          "NowSnezhnaya",
+          "Snezhnaya",
+          "Odette",
+          "原神",
+          "原神500users入り"
+        ],
+        "caption": "Check out Snezhnaya NOW!☃️ :<br /><a href=\"/jump.php?https%3A%2F%2Fhoyo.link%2FeY4CkBerT\" target=\"_blank\">https://hoyo.link/eY4CkBerT</a> <br /><br />Ad: HoYoverse"
+      }
+    },
+    {
+      "id": "official_launcher_kv",
+      "number": 97,
+      "decision": "retainExclusion",
+      "viewedOriginal": true,
+      "viewTool": "view_image",
+      "viewDetail": "high",
+      "viewedPaths": [
+        "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/male-pair-filter/removed-assets/originals/097_official_launcher_kv_original.webp"
+      ],
+      "aetherPresent": true,
+      "aetherEvidence": "中央金发金眼、黑金衣服、白金披风与辫子的人物为空。",
+      "males": [
+        {
+          "name": "达达利亚 / Tartaglia",
+          "location": "右上偏中",
+          "evidence": "橙色短发、红色围巾、灰黑衣服，角色造型明确。"
+        },
+        {
+          "name": "富人 / Pantalone",
+          "location": "左下前景",
+          "evidence": "黑色长发、眼镜、黑色毛领冬装，角色造型明确。"
+        },
+        {
+          "name": "公鸡 / Pulcinella",
+          "location": "中上偏左",
+          "evidence": "尖耳、白色大胡须和蓝色大帽，角色造型明确。"
+        },
+        {
+          "name": "米提亚 / Mitya",
+          "location": "右下大头像",
+          "evidence": "银灰卷发、紫眼、紫蓝服装和金色胸饰，与016对应。"
+        },
+        {
+          "name": "阿廖沙 / Alyosha",
+          "location": "右下小人物",
+          "evidence": "灰绿短发、白毛领、红黑衣装，与247、466、490对应。"
+        }
+      ],
+      "reason": "确实含空，但同幅还有多名明确男性，因此不满足仅空的例外。",
+      "sourceTags": null
+    },
+    {
+      "id": "150578384",
+      "number": 169,
+      "decision": "retainExclusion",
+      "viewedOriginal": true,
+      "viewTool": "view_image",
+      "viewDetail": "high",
+      "viewedPaths": [
+        "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/male-pair-filter/removed-assets/originals/169_150578384_original.jpg"
+      ],
+      "aetherPresent": false,
+      "males": [
+        {
+          "name": "Valery / バレリー",
+          "location": "右侧",
+          "evidence": "深蓝黑短发、紫眼、黑羽毛领与白金铠甲；作者标签バレリー(原神)、Valedette与307、324对应。"
+        }
+      ],
+      "reason": "奥黛塔触碰Valery的额头，同幅男性为Valery；未见空。",
+      "sourceTags": {
+        "id": "150578384",
+        "title": "原神/GenshinImpact - Valedette",
+        "tags": [
+          "原神",
+          "GenshinImpact",
+          "オデット(原神)",
+          "バレリー(原神)",
+          "バレオデ",
+          "Valedette",
+          "原神500users入り"
+        ]
+      }
+    },
+    {
+      "id": "150649292",
+      "number": 222,
+      "decision": "retainExclusion",
+      "viewedOriginal": true,
+      "viewTool": "view_image",
+      "viewDetail": "high",
+      "viewedPaths": [
+        "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/male-pair-filter/removed-assets/originals/222_150649292_original.png"
+      ],
+      "aetherPresent": false,
+      "males": [
+        {
+          "name": "菲林斯 / Flins / フリンズ",
+          "location": "左上",
+          "evidence": "蓝黑头发、面部黑色标记、蓝灰服装；作者标签含フリンズ。"
+        },
+        {
+          "name": "イルーガ / Iluga",
+          "location": "右上",
+          "evidence": "银灰头发、紫眼、星形耳饰及黑紫服装；作者标签含イルーガ。"
+        }
+      ],
+      "reason": "上方两名男性分别对应作者标签フリンズ与イルーガ，未见空。",
+      "sourceTags": {
+        "id": "150649292",
+        "title": "LOVE ♡ 31 ICE CREAM",
+        "tags": [
+          "アイス",
+          "リンネア(原神)",
+          "オデット",
+          "フリンズ",
+          "イルーガ",
+          "Genshin"
+        ]
+      }
+    },
+    {
+      "id": "148787272",
+      "number": 247,
+      "decision": "retainExclusion",
+      "viewedOriginal": true,
+      "viewTool": "view_image",
+      "viewDetail": "high",
+      "viewedPaths": [
+        "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/male-pair-filter/removed-assets/originals/247_148787272_original.jpg"
+      ],
+      "aetherPresent": false,
+      "males": [
+        {
+          "name": "阿廖沙 / Alyosha / アリョーシャ",
+          "location": "右上",
+          "evidence": "灰绿短发、金眼、雀斑、黑手套、白毛领红黑服装；作者标签アリョーシャ，与466、490对应。"
+        }
+      ],
+      "reason": "奥黛塔与沃佳妮察、阿廖沙三人同框；未见空。",
+      "sourceTags": {
+        "id": "148787272",
+        "title": "ロコット組🫶🫶🫶",
+        "tags": [
+          "原神",
+          "ヴォジャニーツァ",
+          "オデット",
+          "アリョーシャ",
+          "GenshinImpact",
+          "ロコット団",
+          "原神1000users入り"
+        ]
+      }
+    },
+    {
+      "id": "148954650",
+      "number": 307,
+      "decision": "retainExclusion",
+      "viewedOriginal": true,
+      "viewTool": "view_image",
+      "viewDetail": "high",
+      "viewedPaths": [
+        "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/male-pair-filter/removed-assets/originals/307_148954650_original.png"
+      ],
+      "aetherPresent": false,
+      "males": [
+        {
+          "name": "Valery / バレリー",
+          "location": "左侧",
+          "evidence": "深蓝黑短发、紫眼、黑羽毛领、白金铠甲，扶着奥黛塔肩膀；作者标签バレリー(原神)、Valedette，与169对应。"
+        }
+      ],
+      "reason": "原图男性可由造型和作者标签确认为Valery；未见空。",
+      "sourceTags": {
+        "id": "148954650",
+        "title": "原神/GenshinImpact - Valedette",
+        "tags": [
+          "原神",
+          "GenshinImpact",
+          "Valedette",
+          "オデット(原神)",
+          "バレリー(原神)",
+          "バレオデ",
+          "原神1000users入り"
+        ]
+      }
+    },
+    {
+      "id": "148428638",
+      "number": 324,
+      "decision": "retainExclusion",
+      "viewedOriginal": true,
+      "viewTool": "view_image",
+      "viewDetail": "high",
+      "viewedPaths": [
+        "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/male-pair-filter/removed-assets/originals/324_148428638_original.png"
+      ],
+      "aetherPresent": false,
+      "males": [
+        {
+          "name": "Valery / バレリー",
+          "location": "右侧校园头像卡",
+          "evidence": "深蓝黑短发、紫眼，校服改装；作者标签バレリー(原神)、Valedette、原神NL，与169、307同一作者风格和面部对应。"
+        }
+      ],
+      "reason": "并排两张校园头像卡分别为奥黛塔与Valery；未见空。",
+      "sourceTags": {
+        "id": "148428638",
+        "title": "原神/GenshinImpact - Valedette",
+        "tags": [
+          "原神",
+          "GenshinImpact",
+          "Valedette",
+          "オデット(原神)",
+          "バレリー(原神)",
+          "バレオデ",
+          "原神NL",
+          "制服",
+          "原神1000users入り"
+        ]
+      }
+    },
+    {
+      "id": "148486449",
+      "number": 466,
+      "decision": "retainExclusion",
+      "viewedOriginal": true,
+      "viewTool": "view_image",
+      "viewDetail": "high",
+      "viewedPaths": [
+        "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/male-pair-filter/removed-assets/originals/466_148486449_original.jpg"
+      ],
+      "aetherPresent": false,
+      "males": [
+        {
+          "name": "阿廖沙 / Alyosha / アリョーシャ",
+          "location": "左侧萌系头像",
+          "evidence": "灰绿短发、金眼、白毛领、红色胸饰和围领；作者标签Alyosha、アリョーシャ(原神)，与247、490对应。"
+        }
+      ],
+      "reason": "萌系左侧人物是阿廖沙，空的萌系例外不适用于该人物；未见空。",
+      "sourceTags": {
+        "id": "148486449",
+        "title": "💚💙🤍",
+        "tags": [
+          "Vodyanitsa",
+          "Alyosha",
+          "Odette",
+          "原神",
+          "ヴォジャニーツァ",
+          "オデット(原神)",
+          "アリョーシャ(原神)",
+          "ロコット団"
+        ]
+      }
+    },
+    {
+      "id": "150137018",
+      "number": 490,
+      "decision": "retainExclusion",
+      "viewedOriginal": true,
+      "viewTool": "view_image",
+      "viewDetail": "high",
+      "viewedPaths": [
+        "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/male-pair-filter/removed-assets/originals/490_150137018_original.jpg"
+      ],
+      "aetherPresent": false,
+      "males": [
+        {
+          "name": "阿廖沙 / Alyosha / アリョーシャ",
+          "location": "上方圆头像及下方右侧",
+          "evidence": "灰绿短发、金眼、白毛领、红黑上衣；作者标签アリョーシャ，与247、466对应。"
+        }
+      ],
+      "reason": "同图上方头像及下方人物都是阿廖沙；未见空。",
+      "sourceTags": {
+        "id": "150137018",
+        "title": "みんなでアイス🍨",
+        "tags": [
+          "原神",
+          "GenshinImpact",
+          "オデット",
+          "ヴォジャニーツァ",
+          "アリョーシャ"
+        ]
+      }
+    },
+    {
+      "id": "x_HPrTeSZbYAA2mxq",
+      "number": 502,
+      "decision": "retainExclusion",
+      "viewedOriginal": true,
+      "viewTool": "view_image",
+      "viewDetail": "high",
+      "viewedPaths": [
+        "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/male-pair-filter/removed-assets/originals/502_x_HPrTeSZbYAA2mxq_original.jpg"
+      ],
+      "aetherPresent": false,
+      "males": [
+        {
+          "name": "阿廖沙 / Alyosha",
+          "location": "第一格左侧前景",
+          "evidence": "灰绿短发、白毛领、红色几何胸背图案，与009、247、466、490对应。"
+        },
+        {
+          "name": "米提亚 / Mitya",
+          "location": "第一格右侧偏中",
+          "evidence": "银灰卷发、紫蓝衣服和金色装饰，与016、097对应。"
+        },
+        {
+          "name": "Valery / バレリー",
+          "location": "第一格最右侧",
+          "evidence": "深蓝黑短发、黑羽毛领、白金肩甲和紫金腰饰，与169、307和097对应。"
+        }
+      ],
+      "reason": "第一格包含多名明确男性，后续单人格不改变整图排除判断；中间金发白裙旅行者为荧，未见空。",
+      "sourceTags": null
+    },
+    {
+      "id": "x_HPflGfVXMAAKvi5",
+      "number": 568,
+      "decision": "retainExclusion",
+      "viewedOriginal": true,
+      "viewTool": "view_image",
+      "viewDetail": "high",
+      "viewedPaths": [
+        "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/work/male-pair-filter/removed-assets/originals/568_x_HPflGfVXMAAKvi5_original.jpg"
+      ],
+      "aetherPresent": false,
+      "males": [
+        {
+          "name": "阿廖沙 / Alyosha",
+          "location": "右下头像",
+          "evidence": "灰绿短发、金眼、雀斑、白毛领与红色锯齿围领，与247、466、490一致。"
+        }
+      ],
+      "reason": "完整拼图右下为阿廖沙，另外两人是奥黛塔和阿蕾奇诺；未见空。",
+      "sourceTags": null
+    }
+  ],
+  "limitations": [
+    "本报告仅复核当前13项排除是否误排空；未重新扫描其余已保留作品。",
+    "本轮未联网重新核实新角色官方性别资料；角色身份依据原图、作者标签与同组造型对照。",
+    "报告不修改manifest、exclusions或资产文件。"
+  ],
+  "styleCheck": {
+    "skill": "shuorenhua",
+    "level": "minimal",
+    "scene": "status",
+    "protected": [
+      "ID",
+      "路径",
+      "角色名",
+      "标签原文",
+      "查看事实",
+      "排除规则"
+    ]
+  }
+}

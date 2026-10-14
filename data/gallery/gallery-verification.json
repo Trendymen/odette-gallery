@@ -1,0 +1,41 @@
+{
+  "works": 544,
+  "defaultVisible": 414,
+  "defaultHidden": 130,
+  "rightDefaultVisible": 137,
+  "officialDefaultVisible": 7,
+  "nativeWidth4000DefaultVisible": 40,
+  "currentAndHistoricalVersions": 576,
+  "filesVerified": 2258,
+  "failures": [],
+  "nativePixelsMatch": 576,
+  "scoreExportMatches": true,
+  "pageDataAndOrderMatches": true,
+  "browserResourcesDecoded": 1142,
+  "browserFailures": [],
+  "oneImageVisible": true,
+  "masonryColumns": 3,
+  "customCandidates": {
+    "implemented": true,
+    "recordedAt": "2026-10-14T11:07:08.588Z",
+    "url": "http://127.0.0.1:58855/thumbnails.html",
+    "stateFile": "state/odette_mousepad_updated/custom-candidates.json",
+    "selectionScope": "artwork ID follows current default crop",
+    "qa": "custom-candidates-qa.json",
+    "works": 544,
+    "curated": 414,
+    "hidden": 130
+  },
+  "interactionAndDeletionMarks": {
+    "implemented": true,
+    "recordedAt": "2026-10-14T12:38:08.434Z",
+    "url": "http://127.0.0.1:58855/thumbnails.html",
+    "qa": "interaction-deletion-qa.json",
+    "stateFile": "state/odette_mousepad_updated/custom-candidates.json",
+    "deletionStateFile": "state/odette_mousepad_updated/deletion-marks.json",
+    "noAutomaticFiltering": true,
+    "markedIdsInitial": [],
+    "priorSelectionsPreserved": true,
+    "testsPassed": 74
+  }
+}

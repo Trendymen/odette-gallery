@@ -1,0 +1,72 @@
+{
+  "verifiedAt": "2026-10-14T14:17:16.942Z",
+  "projectRoot": "/Users/liuzhuo/webstorm_project/odette-gallery",
+  "galleryURL": "http://127.0.0.1:58855/",
+  "formalPid": 26410,
+  "oldPidExited": true,
+  "codeScopeFingerprintFiles": 29,
+  "codeGates": {
+    "spec": "PASS",
+    "quality": "PASS",
+    "closedFinding": "CQ-1"
+  },
+  "tests": {
+    "total": 89,
+    "pass": 89,
+    "fail": 0
+  },
+  "active": {
+    "works": 544,
+    "featured": 414,
+    "hidden": 130,
+    "versions": 576,
+    "images": 2258,
+    "bytes": 6482213476,
+    "canonicalSHA256": "a30c00d97987b47bff01872c8cf01451d53f5fd753fb08338d4893b679b186bc"
+  },
+  "archive": {
+    "files": 8455,
+    "bytes": 35206076377,
+    "oldPathSHAFailures": 0,
+    "compatibleLocations": 8
+  },
+  "process": {
+    "files": 301,
+    "bytes": 13085828995,
+    "status": "linked-and-verified"
+  },
+  "documentation": {
+    "originalFiles": 6,
+    "shaMatched": true
+  },
+  "cutoverState": {
+    "customCount": 9,
+    "deletionMarkCount": 101,
+    "byteEqualityBeforeStart": true,
+    "byteEqualityAfterReadOnlyAPI": true,
+    "deletionMarksApplied": false
+  },
+  "pathMap": {
+    "entries": 8764,
+    "missingTargets": 0
+  },
+  "git": {
+    "initialized": true,
+    "stagedFiles": 0,
+    "commitCreated": false,
+    "pushed": false,
+    "ignored": [
+      "archive/",
+      "state/",
+      "node_modules/",
+      ".superpowers/"
+    ]
+  },
+  "deviation": "完整旧交付目录原样保留为兼容视图，额外保留历史在用图副本",
+  "deliveryGates": {
+    "spec": "PASS",
+    "quality": "PASS",
+    "findings": 0
+  },
+  "completedAt": "2026-10-14T14:24:50.777Z"
+}

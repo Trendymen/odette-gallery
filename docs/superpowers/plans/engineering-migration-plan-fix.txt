@@ -1,0 +1,111 @@
+原文
+# 奥黛塔画廊工程迁移 Implementation Plan
+
+> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development to implement this plan task-by-task. 用户已要求直接执行，不重复询问；不创建 worktree，不提交或推送。
+
+**Goal:** 把在用画廊及图像迁到独立工程，集中归档未用素材和来源记录。
+**Architecture:** 新根 src 管代码，data 管 canonical 数据，public 管当前画廊资源，state 管用户选择。archive 保留原始素材与研究记录，所有原样文件以 SHA256 和路径映射核对。
+**Tech Stack:** Node >=22，ESM，sharp 0.35.5，playwright 1.62.1，Node test。
+**Spec:** ../specs/2026-10-14-engineering-migration.md（Approved）。
+
+## Global Constraints
+
+- C=/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365；O=/Users/liuzhuo/Documents/Codex/2026-10-13/bang；N=/Users/liuzhuo/webstorm_project/odette-gallery。
+- 当前 544 作品、576 版本、2258 图片；manifest、policy 和两份停服后最终状态保持原文，不重新筛选或重裁，不应用删除标记。
+- 127.0.0.1:58855 和 odette_mousepad_updated 不变；同一时刻一个正式写入服务。自动化测试只使用临时状态和临时端口。
+- archive、state、node_modules 和过程材料 Git 忽略；不用框架、数据库、Git LFS，不 add/commit/push。
+- 主产品代码取消旧目录及 Codex 缓存依赖；历史资料原样保留，通过索引追溯。
+- 当前全局AGENTS适用；所有新增目录补查规则，shuorenhua minimal 检查说明与注释。
+
+## Review Focus
+
+- 启动 cwd 与项目不一致：从 /tmp 启动实际入口，解析新根正确。
+- 图片缺失或 SHA 不符：验证失败退出，拒绝清理旧副本。
+- 归档目标冲突或源软链接越界：迁移报错，不覆盖已有文件或跟随未知链接。
+- 生成时 policy 错误或 ID 非法：失败关闭，不产生可供浏览的排除作品。
+- 切换期间用户继续勾选：停服后再捕获最终状态，双文件逐字节读回。
+
+---
+
+### Task 1: 独立工程、生成入口与安全迁移工具
+
+**Files:** 创建 N/package.json、package-lock.json、.gitignore、README.md；src/server/{start,server,catalog,selection-store}.mjs；src/gallery/{render-scored-gallery,render-thumbnail-gallery,custom-selection-client}.mjs；src/project-paths.mjs；src/migration/ 下按文件清单、来源关联、搬运职责拆分；scripts/{generate-gallery,verify-assets,migrate-project}.mjs；tests/server/、tests/gallery/、tests/migration/、必要 tests/fixtures/。建立 data/gallery、data/policies、data/provenance 和 public/gallery。
+
+**Consumes:** C/work/gallery-server/src 四模块；C/work/crop-rescore 三模块；C/work/gallery-server/tests 三测试；C/work/masonry-change/tests/gallery.test.mjs 与 export-exclusions.test.mjs；当前交付目录和抓取来源资料。完整源与目标映射以绑定 Spec 为准。
+**Produces:** npm start、npm run generate、npm test、npm run verify:assets。迁移入口 node scripts/migrate-project.mjs stage|archive --current-root C --original-root O；stage 复制当前有效资产和非图片资料、建立指纹与索引，不修改源；archive 由 Task 2 在审查通过后调用，迁移 Spec 所列旧work/其他outputs/原始work与outputs并建立兼容链接。docs、state、process由控制器停服及审查完成后单独处理。迁移报告与data/provenance提供旧绝对路径→新相对路径、bytes、sha256、collection和sourceRecords/sourceURLs。
+
+- [ ] Step 0：第一次产品写入前，控制器运行本技能 sdd-workspace 分配本Plan专属 workspace；旧root非Git，只在本地副本适配根解析，保留归属和碰撞处理。保存全部旧相关源码/测试、manifest、policy原文及SHA；新target不存在也记录。单一general拥有新工程全部代码，控制器不同时写产品代码。旧服务保持运行。
+- [ ] Step 1：先添加临时夹具测试：跨cwd路径；分离canonical manifest；有效资源并集含默认和历史版本；缺失/改字节检出；来源未知明示；archive目标冲突/未知symlink拒绝；stage不改变源；生成保留state且拒绝bad policy/重复ID/非法ID/排除作品。记录RED实际失败与命令。
+- [ ] Step 2：搬入四服务及三renderer模块，只改新路径和canonical接口。createGalleryServer 新增可选 manifestPath（缺省继续 galleryDirectory/manifest.json 供临时fixture）；正式入口用 data/gallery/manifest.json、data/policies/exclusions.json、state/odette_mousepad_updated 双文件。renderer与客户端行为原样沿用。
+- [ ] Step 3：生成入口使用canonical manifest与readCatalog资格校验，写三个页面及必要下载报告，只过滤政策排除项，非法目录失败关闭；canonical文件不改。工程本地直接import playwright/sharp，锁定依赖。保留58服务/浏览器回归与10renderer回归原语义；557历史fixture明确放 tests/fixtures，保留它的已知424/133断言；将旧导出器6项资格/失败测试转换成新生成入口等价测试，旧一次性脚本和原测试随后原样归档。
+- [ ] Step 4：实现资源清单/指纹验证与迁移stage/archive。stage原始资料来源包括 X downloads/discovered/review JSON、Pixiv all-review-ready/available-originals及official source JSON，索引关联可用字段，未知明确标识；原数据原文完整归档。每文件相对路径拒绝越界。归档原样文件预扫描指纹，rename后新路径复核，成功再设置旧位置链接；失败保留可恢复记录，不覆盖冲突。没有去重或按标记删除。大型辅助脚本分模块，不写单个巨型脚本。
+- [ ] Step 5：执行 stage；核对当前2258图片指纹与544canonical；npm run generate 和 npm test、npm run verify:assets通过。README给目录用途、启动/生成/验证、归档来源查询、双状态路径及本地Git忽略说明。记录准确命令、输出、未验证项。npm install只作用N，不改全局。
+- [ ] Step 6：报告写workspace/task-1-report.md；全部新工程源/配置/测试/README与迁移代码按旧基线生成有界diff和源指纹，派两个独立reviewer SPEC_COMPLIANCE/CODE_QUALITY。真实RED/GREEN和验证日志随包。Critical/Important修复后原reviewer复审；尚未操作正式状态和停服。新仓库可git init仅用于ignore校验，无commit基线时用文件快照和SHA绑定。
+
+### Task 2: 正式切换、资料搬运与最终核验
+
+**Files:** 只操作Task1所列数据、资源及Spec精确迁移映射；代码发现问题返回Task1实现者修复与复审。
+**Consumes:** 已通过审查的新工程、stage报告与指纹，当前运行PID和最新两份状态。
+**Produces:** 新根独立运行正式画廊；archive资料、映射索引、迁移验收报告，旧位置兼容链接。
+
+- [ ] Step 1：核对新工程freeze哈希、stage指纹及静态页面数据；在临时端口、临时双state启动新server，从/tmp验证入口路径，检查API和页面、样本图及两类勾选刷新恢复。正式state此时仍不写。
+- [ ] Step 2：确认正式58855监听进程仍指向旧入口，再停止它并等端口释放。捕获停服后两份最终state原文与SHA，复制N/state并读回；通过新入口在N启动正式服务，读API与正式文件核对，确认服务cwd/命令指向N。失败保留旧源码和state并恢复旧服务。
+- [ ] Step 3：代码门禁与新服务验收后执行archive阶段。原C/work、O/work/outputs及C其他输出按Spec归档；当前delivery内未引用图片、ZIP等进delivery-extra。在用旧图片清理之前再核对已审stage指纹；旧delivery整体替换兼容链接。docs迁移后原位置链接，state旧位置链接N/state；C根保留。过程workspace仍在使用，最后同卷搬到archive/current-session/process并设置C/.superpowers链接。
+- [ ] Step 4：原样文件集合、bytes/SHA前后对比；archive-index和path-map中路径存在；git check-ignore 验证 archive/state/node_modules/过程材料。独立运行读取不依赖旧根，source/data/public资格及样本裁剪一致。保存迁移报告data/provenance与过程workspace，最终两reviewer增补核对交付证据（只读，不另改代码）。
+- [ ] Step 5：更新update_plan与ledger，提交SHA明确未提交；保留ignored恢复材料（非Git无commit可替代），不能删ledger。交付新工程路径、画廊URL、npm命令、归档来源查询与状态保存位置。
+
+修订全文
+# 奥黛塔画廊工程迁移 Implementation Plan
+
+> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development to implement this plan task-by-task. 用户已要求直接执行，不重复询问；不创建 worktree，不提交或推送。
+
+**Goal:** 把在用画廊及图像迁到独立工程，集中归档未用素材和来源记录。
+**Architecture:** 新根 src 管代码，data 管 canonical 数据，public 管当前画廊资源，state 管用户选择。archive 保留原始素材与研究记录，所有原样文件以 SHA256 和路径映射核对。
+**Tech Stack:** Node >=22，ESM，sharp 0.35.5，playwright 1.62.1，Node test。
+**Spec:** ../specs/2026-10-14-engineering-migration.md（Approved）。
+
+## Global Constraints
+
+- C=/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365；O=/Users/liuzhuo/Documents/Codex/2026-10-13/bang；N=/Users/liuzhuo/webstorm_project/odette-gallery。
+- 当前 544 作品、576 版本、2258 图片；manifest、policy 和两份停服后最终状态保持原文，不重新筛选或重裁，不应用删除标记。
+- 127.0.0.1:58855 和 odette_mousepad_updated 不变；同一时刻一个正式写入服务。自动化测试只使用临时状态和临时端口。
+- archive、state、node_modules 和过程材料 Git 忽略；不用框架、数据库、Git LFS，不 add/commit/push。
+- 主产品代码取消旧目录及 Codex 缓存依赖；历史资料原样保留，通过索引追溯。
+- 当前全局AGENTS适用；所有新增目录补查规则，shuorenhua minimal 检查说明与注释。
+
+## Review Focus
+
+- 启动 cwd 与项目不一致：从 /tmp 启动实际入口，解析新根正确。
+- 图片缺失或 SHA 不符：验证失败退出，拒绝清理旧副本。
+- 归档目标冲突或源软链接越界：迁移报错，不覆盖已有文件或跟随未知链接。
+- 生成时 policy 错误或 ID 非法：失败关闭，不产生可供浏览的排除作品。
+- 切换期间用户继续勾选：停服后再捕获最终状态，双文件逐字节读回。
+
+---
+
+### Task 1: 独立工程、生成入口与安全迁移工具
+
+**Files:** 创建 N/package.json、package-lock.json、.gitignore、README.md；src/server/{start,server,catalog,selection-store}.mjs；src/gallery/{render-scored-gallery,render-thumbnail-gallery,custom-selection-client}.mjs；src/project-paths.mjs；src/migration/ 下按文件清单、来源关联、搬运职责拆分；scripts/{generate-gallery,verify-assets,migrate-project}.mjs；tests/server/、tests/gallery/、tests/migration/、必要 tests/fixtures/。建立 data/gallery、data/policies、data/provenance 和 public/gallery。
+
+**Consumes:** C/work/gallery-server/src 四模块；C/work/crop-rescore 三模块；C/work/gallery-server/tests 三测试；C/work/masonry-change/tests/gallery.test.mjs 与 export-exclusions.test.mjs；当前交付目录和抓取来源资料。完整源与目标映射以绑定 Spec 为准。
+**Produces:** npm start、npm run generate、npm test、npm run verify:assets。迁移入口 node scripts/migrate-project.mjs stage|archive --current-root C --original-root O；stage 复制当前有效资产和非图片资料、建立指纹与索引，不修改源；archive 由 Task 2 在审查通过后调用，迁移 Spec 所列旧work/其他outputs/原始work与outputs并建立兼容链接。docs、state、process由控制器停服及审查完成后单独处理。迁移报告与data/provenance提供旧绝对路径→新相对路径、bytes、sha256、collection和sourceRecords/sourceURLs。
+
+- [ ] Step 0：第一次产品写入前，控制器运行本技能 sdd-workspace 分配本Plan专属 workspace；旧root非Git，只在本地副本适配根解析，保留归属和碰撞处理。保存全部旧相关源码/测试、manifest、policy原文及SHA；新target不存在也记录。单一general拥有新工程全部代码，控制器不同时写产品代码。旧服务保持运行。
+- [ ] Step 1：先添加临时夹具测试：跨cwd路径；分离canonical manifest；有效资源并集含默认和历史版本；缺失/改字节检出；来源未知明示；archive目标冲突/未知symlink拒绝；stage不改变源；生成保留state且拒绝bad policy/重复ID/非法ID/排除作品。记录RED实际失败与命令。
+- [ ] Step 2：搬入四服务及三renderer模块，只改新路径和canonical接口。createGalleryServer 新增可选 manifestPath（缺省继续 galleryDirectory/manifest.json 供临时fixture）；正式入口用 data/gallery/manifest.json、data/policies/exclusions.json、state/odette_mousepad_updated 双文件。renderer与客户端行为原样沿用。启动入口新增 --port（缺省58855，整数0..65535，0供临时测试）和 --state-directory（缺省N/state/odette_mousepad_updated，覆盖必须绝对路径）；Host仍固定127.0.0.1，输出实际监听地址。其他参数报错退出。路径解析与覆盖测试纳入Task1。
+- [ ] Step 3：生成入口使用canonical manifest与readCatalog资格校验，写三个页面及必要下载报告，只过滤政策排除项，非法目录失败关闭；canonical文件不改。工程本地直接import playwright/sharp，锁定依赖。保留58服务/浏览器回归与10renderer回归原语义；557历史fixture明确放 tests/fixtures，保留它的已知424/133断言；将旧导出器6项资格/失败测试转换成新生成入口等价测试，旧一次性脚本和原测试随后原样归档。
+- [ ] Step 4：实现资源清单/指纹验证与迁移stage/archive。stage原始资料来源包括 X downloads/discovered/review JSON、Pixiv all-review-ready/available-originals及official source JSON，索引关联可用字段，未知明确标识；原数据原文完整归档。每文件相对路径拒绝越界。归档原样文件预扫描指纹，rename后新路径复核，成功再设置旧位置链接；失败保留可恢复记录，不覆盖冲突。没有去重或按标记删除。大型辅助脚本分模块，不写单个巨型脚本。
+- [ ] Step 5：执行 stage；核对当前2258图片指纹与544canonical；npm run generate 和 npm test、npm run verify:assets通过。README给目录用途、启动/生成/验证、归档来源查询、双状态路径及本地Git忽略说明。记录准确命令、输出、未验证项。npm install只作用N，不改全局。
+- [ ] Step 6：报告写workspace/task-1-report.md；全部新工程源/配置/测试/README与迁移代码按旧基线生成有界diff和源指纹，派两个独立reviewer SPEC_COMPLIANCE/CODE_QUALITY。真实RED/GREEN和验证日志随包。Critical/Important修复后原reviewer复审；尚未操作正式状态和停服。新仓库可git init仅用于ignore校验，无commit基线时用文件快照和SHA绑定。
+
+### Task 2: 正式切换、资料搬运与最终核验
+
+**Files:** 只操作Task1所列数据、资源及Spec精确迁移映射；代码发现问题返回Task1实现者修复与复审。
+**Consumes:** 已通过审查的新工程、stage报告与指纹，当前运行PID和最新两份状态。
+**Produces:** 新根独立运行正式画廊；archive资料、映射索引、迁移验收报告，旧位置兼容链接。
+
+- [ ] Step 1：核对新工程freeze哈希、stage指纹及静态页面数据；从/tmp执行 node N/src/server/start.mjs --port 0 --state-directory /tmp/odette-migration-qa/state，输出实际端口；在临时双state启动新server，验证入口路径，检查API和页面、样本图及两类勾选刷新恢复。正式state此时仍不写。临时服务验证完关闭并确认退出，再进行Step2。
+- [ ] Step 2：确认正式58855监听进程仍指向旧入口，再停止它并等端口释放。捕获停服后两份最终state原文与SHA，复制N/state并读回；通过新入口在N启动正式服务，读API与正式文件核对，确认服务cwd/命令指向N。失败保留旧源码和state并恢复旧服务。
+- [ ] Step 3：代码门禁与新服务验收后执行archive阶段。原C/work、O/work/outputs及C其他输出按Spec归档；当前delivery内未引用图片、ZIP等进delivery-extra。在用旧图片清理之前再核对已审stage指纹；在 N/archive/current-session/compat-delivery 建立完整旧目录视图，按原delivery每个相对文件逐一创建链接到public、data或delivery-extra中的对应原样文件。生成HTML允许更新，但旧原文保存在delivery-extra。确认兼容视图原样文件集合、bytes/SHA与原delivery对应后，C/outputs/odette_mousepad_updated才整体替换为指向compat-delivery的链接；逐一经旧文件路径读回SHA，不能仅验证2258在用图片。兼容视图用于旧文件路径访问，正式HTTP仍服务public/gallery。docs迁移后原位置链接，state旧位置链接N/state；C根保留。过程workspace仍在使用，最后同卷搬到archive/current-session/process并设置C/.superpowers链接。
+- [ ] Step 4：原样文件集合、bytes/SHA前后对比；archive-index和path-map中路径存在；git check-ignore 验证 archive/state/node_modules/过程材料。独立运行读取不依赖旧根，source/data/public资格及样本裁剪一致。保存迁移报告data/provenance与过程workspace，最终两reviewer增补核对交付证据（只读，不另改代码）。
+- [ ] Step 5：更新update_plan与ledger，提交SHA明确未提交；保留ignored恢复材料（非Git无commit可替代），不能删ledger。交付新工程路径、画廊URL、npm命令、归档来源查询与状态保存位置。

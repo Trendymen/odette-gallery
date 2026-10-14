@@ -1,0 +1,66 @@
+{
+  "sourceURL": "https://upload-bbs.miyoushe.com/upload/2026/08/07/158851371/14fae0bcc5e945754bf5f7fef7e41f54_8162673164490910792.png",
+  "priorCandidate": {
+    "number": 43,
+    "id": "official_wallpaper_stage",
+    "originalDimensions": {
+      "width": 2560,
+      "height": 1440
+    },
+    "crop": {
+      "left": 20,
+      "top": 0,
+      "width": 2520,
+      "height": 1440
+    },
+    "priorScore": 81,
+    "source": "https://www.hoyolab.com/article/46548830",
+    "sourceArchive": "https://fastcdn.hoyoverse.com/static-resource-v2/2026/08/31/539220a59f4c326720b2b8dacf960031_1906381805646348363.zip"
+  },
+  "newFileDimensions": {
+    "width": 3840,
+    "height": 2160
+  },
+  "sameArtwork": true,
+  "exactPriorFileMatch": false,
+  "visibleDifferences": [
+    "旧版右上角有英文 Logo，左下角有版权字样；新链接的图片没有这两处文字。"
+  ],
+  "provenanceNote": "同一幅画已收录为官方舞台主视觉。新链接的上传者身份及是否原生4K未核实。",
+  "cropMethod": "按7:4裁剪，左右各去掉30px；未放大、重绘或修改区域内像素。",
+  "ppiAt700mm": 137.16,
+  "previousPpiAt700mm": 91.4,
+  "verification": {
+    "downloadedOriginalSHA256": "549feea2ee7333c4690eda920c05e06120de09bb5c116cde212238017f61958d",
+    "savedOriginalSHA256": "549feea2ee7333c4690eda920c05e06120de09bb5c116cde212238017f61958d",
+    "originalBytesIdentical": true,
+    "cropRect": {
+      "left": 30,
+      "top": 0,
+      "width": 3780,
+      "height": 2160
+    },
+    "cropDimensions": {
+      "width": 3780,
+      "height": 2160
+    },
+    "strict7x4": true,
+    "expectedPixelsSHA256": "b8ee7665166e6ed4078000cf3dc77810e7e7aab58d257647e98f1cbbb917ef8d",
+    "actualPixelsSHA256": "b8ee7665166e6ed4078000cf3dc77810e7e7aab58d257647e98f1cbbb917ef8d",
+    "cropPixelsIdentical": true,
+    "resized": false
+  },
+  "files": {
+    "original": "odette_stage_miyoushe_3840x2160_original.png",
+    "cropped": "odette_stage_miyoushe_3780x2160_7x4.png",
+    "preview": "odette_stage_7x4_preview.jpg",
+    "previousOriginal": "previous_043_2560x1440_original.jpg",
+    "previousCropped": "previous_043_2520x1440_7x4.png"
+  },
+  "visualQC": {
+    "viewed": true,
+    "pass": true,
+    "note": "裁剪后脸、双手、裙摆和双脚完整，背景大脸与舞台装饰保留。"
+  },
+  "previousCopiesVerified": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": "148900925",
+  "originalSHA256": "788bdbe4444dfea70ff35d9cbf46beb5e14eb5d52a73fd02095f88eb7d8eef86",
+  "originalMatchesPrior": true,
+  "previousCrop": {
+    "left": 1,
+    "top": 350,
+    "width": 2933,
+    "height": 1676
+  },
+  "newCrop": {
+    "left": 1,
+    "top": 780,
+    "width": 2933,
+    "height": 1676
+  },
+  "downwardShift": 430,
+  "ppiAt700mm": 106.43,
+  "pixelHash": "95d1e380aab5938910ad7975ba3cc9410dbba568013e28d5d1af5e5f898c871f",
+  "pixelExact": true,
+  "strict7x4": true,
+  "hasAlpha": true,
+  "files": {
+    "crop": "087_148900925_body_7x4.png",
+    "preview": "087_body_preview.jpg",
+    "frame": "087_body_frame.jpg"
+  }
+}

@@ -1,0 +1,2114 @@
+{
+  "source": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers",
+  "destination": "/Users/liuzhuo/webstorm_project/odette-gallery/archive/current-session/process",
+  "files": [
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/.gitignore",
+      "projectRelativePath": "archive/current-session/process/sdd/.gitignore",
+      "collection": "process",
+      "bytes": 2,
+      "sha256": "cdbcae15105d6b781e620813c79c7e868740d4e9cc53ce6f5fcbbc12387adf4b"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/baseline/data/crop-scores.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/baseline/data/crop-scores.json",
+      "collection": "process",
+      "bytes": 695067,
+      "sha256": "08e2920bb7b79bfeb3ef3e4922edbba370584bfdbe0cb81991ef743c5df650a7"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/baseline/data/manifest-curated.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/baseline/data/manifest-curated.json",
+      "collection": "process",
+      "bytes": 1008580,
+      "sha256": "82eecb899a22f9b98030a942218720ea73cef0ed4abe43c7747bf5d62ad2f9e6"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/baseline/data/manifest.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/baseline/data/manifest.json",
+      "collection": "process",
+      "bytes": 1305273,
+      "sha256": "a30c00d97987b47bff01872c8cf01451d53f5fd753fb08338d4893b679b186bc"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/baseline/data/verification.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/baseline/data/verification.json",
+      "collection": "process",
+      "bytes": 610599,
+      "sha256": "6271018c1cabdebc0f5b45340b5a1dd3f90a2cbbde9359b1930600f5573f4acc"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/baseline/work/crop-rescore/render-scored-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/baseline/work/crop-rescore/render-scored-gallery.mjs",
+      "collection": "process",
+      "bytes": 13248,
+      "sha256": "b4a2c8120afd2526bf09c5e9e4acb13ed66ba4dae58617125cd409e304056f13"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/baseline/work/crop-rescore/render-thumbnail-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/baseline/work/crop-rescore/render-thumbnail-gallery.mjs",
+      "collection": "process",
+      "bytes": 6531,
+      "sha256": "0ee3091f7e0beeadf99e5f2b06eee7a5d47813c914b4dc7c39024dbd8cf21b41"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/baseline/work/export-scored-candidates.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/baseline/work/export-scored-candidates.mjs",
+      "collection": "process",
+      "bytes": 12521,
+      "sha256": "d5f7008d4f8066f48d1d2a482a4c955a893c993d75c68485e6fac4e5d8d2a7dd"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/baseline/work/masonry-change/tests/export-exclusions.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/baseline/work/masonry-change/tests/export-exclusions.test.mjs",
+      "collection": "process",
+      "bytes": 7391,
+      "sha256": "5b44bfab3e4dba32187dcd128f8c1f1c6425ea9a1a9878a976ff8dc8fac5c330"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/baseline/work/masonry-change/tests/gallery.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/baseline/work/masonry-change/tests/gallery.test.mjs",
+      "collection": "process",
+      "bytes": 10335,
+      "sha256": "8edb4811c643bf8bdbebe22ce949545f27a28c62ae24c893eb8a3ca67639d26d"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/baseline-fingerprints.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/baseline-fingerprints.json",
+      "collection": "process",
+      "bytes": 2398,
+      "sha256": "bf42a9aa9d156b87b9f72f61ec00557e450a2ffb1c3a1e62641aa74a27843bcd"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/browser-green-attempt.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/browser-green-attempt.log",
+      "collection": "process",
+      "bytes": 3070,
+      "sha256": "7024807eccc55729ce6ff0a9f4343af5fddd9797ab845fa9e5591e47862165d1"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/browser-green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/browser-green.log",
+      "collection": "process",
+      "bytes": 1985,
+      "sha256": "467830beac3f959be5373c30cb3d91c5964082905112d25a7b29af5bf8888ebc"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/browser-red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/browser-red.log",
+      "collection": "process",
+      "bytes": 10184,
+      "sha256": "c6903a3026e61167586fe3a4dc4586ca0b4637c38c944e504f7ffc7b8b040dd9"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/catalog-display-red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/catalog-display-red.log",
+      "collection": "process",
+      "bytes": 1012,
+      "sha256": "c5b6d375de7cb8bcd92ec0467a6638d4147cda405943b5672f3a24f8e361cb63"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/chunked-verification.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/chunked-verification.log",
+      "collection": "process",
+      "bytes": 350,
+      "sha256": "c1d118fc0ba366cc15163e84509c8f7c00471f1efc309495a2f0b95ee41e39cc"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/document-gates.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/document-gates.json",
+      "collection": "process",
+      "bytes": 940,
+      "sha256": "8981fc904e6fd5c38fcf293ded4df4104ed27701d63e598baa25aee14d88d09d"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/final-gallery-tests.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/final-gallery-tests.log",
+      "collection": "process",
+      "bytes": 5637,
+      "sha256": "00abac00c14cb9d4393cb0e764bced9e85d16dc2d3b6c8206347aa3fe1e96f23"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/final-original-tests.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/final-original-tests.log",
+      "collection": "process",
+      "bytes": 3554,
+      "sha256": "eb09cee1fc8e0df53247fdf19fbf9978bd8dd82b6f710c1a533acf66e1dd823b"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/fix-round-1/baseline/work/crop-rescore/custom-selection-client.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/fix-round-1/baseline/work/crop-rescore/custom-selection-client.mjs",
+      "collection": "process",
+      "bytes": 5171,
+      "sha256": "33fe6bfe56c3d081adec8a208e5d6c003ef1454602a4399dc1ccb64d760c4ce9"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/fix-round-1/baseline/work/crop-rescore/render-thumbnail-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/fix-round-1/baseline/work/crop-rescore/render-thumbnail-gallery.mjs",
+      "collection": "process",
+      "bytes": 9947,
+      "sha256": "f761693c333a101b3b92cc04236cc80d75f9e82eaa91f5f027c81e0b3e4188c4"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/fix-round-1/baseline/work/gallery-server/src/selection-store.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/fix-round-1/baseline/work/gallery-server/src/selection-store.mjs",
+      "collection": "process",
+      "bytes": 3848,
+      "sha256": "6594870635c8e4d2ea04d4757c0ed347c5723668d46356e37a70396ace2383d7"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/fix-round-1/baseline/work/gallery-server/tests/catalog-store.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/fix-round-1/baseline/work/gallery-server/tests/catalog-store.test.mjs",
+      "collection": "process",
+      "bytes": 6947,
+      "sha256": "a58185e8f602427b0b56e27f286fa4852579a6f0d227739051cec573e3e03551"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/fix-round-1/baseline/work/gallery-server/tests/gallery-browser.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/fix-round-1/baseline/work/gallery-server/tests/gallery-browser.test.mjs",
+      "collection": "process",
+      "bytes": 15824,
+      "sha256": "68760c6dee4b919a26f3f515e8904066f8012ab1fba27783bc96b06070705859"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/fix-round-1/baseline-fingerprints.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/fix-round-1/baseline-fingerprints.json",
+      "collection": "process",
+      "bytes": 605,
+      "sha256": "598e15acba4efbb9843384dc40f1547896e1435a2c88f3919a9995c55be33745"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/fix-round-1/cq1-green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/fix-round-1/cq1-green.log",
+      "collection": "process",
+      "bytes": 350,
+      "sha256": "6223a8ac7490758934e04171b1ae260cc3a7fd19461d938899ade91d1c63e9f1"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/fix-round-1/cq2-green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/fix-round-1/cq2-green.log",
+      "collection": "process",
+      "bytes": 306,
+      "sha256": "5e496c85d694c4df488035b776b9b3dd7d4cd4b275e1d44035511c21d117aaba"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/fix-round-1/cq3-s1-green-attempt.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/fix-round-1/cq3-s1-green-attempt.log",
+      "collection": "process",
+      "bytes": 1678,
+      "sha256": "1a0d6b439f088b29599274dc53f0c951ca4087b52f3d63f1ae2f2cecdfea0651"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/fix-round-1/final-gallery-tests.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/fix-round-1/final-gallery-tests.log",
+      "collection": "process",
+      "bytes": 6529,
+      "sha256": "3b83bc4655ed60a1e10dd429b5a529e445f81657a4f62edf7b8c3e61d3a7f4a9"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/fix-round-1/final-original-tests.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/fix-round-1/final-original-tests.log",
+      "collection": "process",
+      "bytes": 3553,
+      "sha256": "670773eff55840febb5846e1098b12b395f65e1832adf82c2566512da0edbe45"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/fix-round-1/green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/fix-round-1/green.log",
+      "collection": "process",
+      "bytes": 997,
+      "sha256": "9d27fd30a92dd0dfb40a47c09b9d11c5757bbff2b71b4c6a81d6fb7c292b58da"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/fix-round-1/invariants.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/fix-round-1/invariants.json",
+      "collection": "process",
+      "bytes": 413,
+      "sha256": "1b895f02d2a6d936af896a1704e03a574afde31b6e02650e1ca783165ef3a9e8"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/fix-round-1/red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/fix-round-1/red.log",
+      "collection": "process",
+      "bytes": 3720,
+      "sha256": "498e11d3aa10c02de04cab921c4f6e35decf3274b6049b8ca20bd79cd1367c24"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/fix-round-1/report.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/fix-round-1/report.md",
+      "collection": "process",
+      "bytes": 5336,
+      "sha256": "a9d927583135bf6fe4cabdb46b375c282c9c4652089cc84d2634fe2dd4bf2a2f"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/fix-round-1/source-fingerprints.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/fix-round-1/source-fingerprints.json",
+      "collection": "process",
+      "bytes": 1612,
+      "sha256": "7a2898d6b6936c8d9db8b7c6aa2a96f4bd60faa4f062303ca53ac4e0039bac24"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/http-green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/http-green.log",
+      "collection": "process",
+      "bytes": 2677,
+      "sha256": "5dfc3886ff949d9b5ce05a51d89b3da7a8a1c4b356864f3ac4eb8863c8ce0cbc"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/http-red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/http-red.log",
+      "collection": "process",
+      "bytes": 4886,
+      "sha256": "297d6b41bf0a8115f9f137f433b211e701d5459a021b2d7af697897e11566016"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/README-final-draft.txt",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/README-final-draft.txt",
+      "collection": "process",
+      "bytes": 5006,
+      "sha256": "fbba5d96b5361f1af85fbf9d76c46a4522b839c26132e071606413084a0637fb"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/authority-green-final.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/authority-green-final.log",
+      "collection": "process",
+      "bytes": 803,
+      "sha256": "e52dfda56845df40fc57f6a92f9f950e9ac288870a70fd85ed85ee419e4955b3"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/authority-green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/authority-green.log",
+      "collection": "process",
+      "bytes": 2088,
+      "sha256": "dc92926b6ddb39ba03d2014c218ada8d71f5800dbef41b7c2d8ccf3c924bd3f6"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/authority-red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/authority-red.log",
+      "collection": "process",
+      "bytes": 1040,
+      "sha256": "f5b8a6c2d3ceb54e8ce08910a26b6d0c2ab50847ae09283f25ff9bd818e0331b"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/crop-rescore/custom-selection-client.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/crop-rescore/custom-selection-client.mjs",
+      "collection": "process",
+      "bytes": 5430,
+      "sha256": "6f8b91dcd4ecc0f66bd5029d50b5ac2eca673e5e371947d66b50679ea1e214a2"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/crop-rescore/render-scored-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/crop-rescore/render-scored-gallery.mjs",
+      "collection": "process",
+      "bytes": 16905,
+      "sha256": "b49308bd2bcf2474e332311e54e7c4a9370f6de007d3cbfea5da9588e214bb38"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/crop-rescore/render-thumbnail-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/crop-rescore/render-thumbnail-gallery.mjs",
+      "collection": "process",
+      "bytes": 11451,
+      "sha256": "4089b2fffa70d0ffa7d75847c63af7a09b9dd66a2acba00cdf2e73c1a6c033d8"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/gallery-server/README.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/gallery-server/README.md",
+      "collection": "process",
+      "bytes": 2650,
+      "sha256": "8ba17f5d6f6eaac0f6ca2dcc32907606a6755b930bcebee56f304a760cc9aa22"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/gallery-server/src/selection-store.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/gallery-server/src/selection-store.mjs",
+      "collection": "process",
+      "bytes": 4063,
+      "sha256": "1fcbd7a4d9105576315afb7a4d8cd2546e4563be22986620df3a83f21ace1a60"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/gallery-server/src/server.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/gallery-server/src/server.mjs",
+      "collection": "process",
+      "bytes": 4841,
+      "sha256": "5c2f803a19bed7f881810f40abfe2fccfba18814d88438f93bacaffa262c03ad"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/gallery-server/src/start.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/gallery-server/src/start.mjs",
+      "collection": "process",
+      "bytes": 800,
+      "sha256": "175041b7c8d59672015822ccffa8bc45fbda595330cd7eaa8411804e5e48e562"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/gallery-server/tests/catalog-store.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/gallery-server/tests/catalog-store.test.mjs",
+      "collection": "process",
+      "bytes": 8452,
+      "sha256": "9414655ec1d08d7cab3dc679e4559610ca0c4e5c6c0ffea5280a770a93334509"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/gallery-server/tests/gallery-browser.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/gallery-server/tests/gallery-browser.test.mjs",
+      "collection": "process",
+      "bytes": 19414,
+      "sha256": "0585c2de7b2336a6c3f37756f3220b7b64f20fda7a3126b32830a582a875f77f"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/gallery-server/tests/server.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/baseline/work/gallery-server/tests/server.test.mjs",
+      "collection": "process",
+      "bytes": 7211,
+      "sha256": "07fe1bd19e21fd2b4a31731a00a411a8ce1310cf48355b81d68baab9bd89078c"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/baseline-fingerprints.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/baseline-fingerprints.json",
+      "collection": "process",
+      "bytes": 1155,
+      "sha256": "dc03cd7bfd4354a19f69c290f308123cd81220a612910fe536b36b6b3707bfef"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/browser-qa.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/browser-qa.json",
+      "collection": "process",
+      "bytes": 1561,
+      "sha256": "424a480a4b04ee285985e2154c6824eb55d8c7450d88410014fd8253f894208b"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/content-invariants.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/content-invariants.json",
+      "collection": "process",
+      "bytes": 415,
+      "sha256": "1f1343c3543b7ecaf7a1029668d09e9796fa3964698df16bd1adc01a4f5dbc13"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/deletion-browser-green-attempt.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/deletion-browser-green-attempt.log",
+      "collection": "process",
+      "bytes": 1427,
+      "sha256": "ebc65ec35d7eb9dcec8424601ad4f9bb0f76102075bee5fa4dc8b1d05f933930"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/deletion-browser-red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/deletion-browser-red.log",
+      "collection": "process",
+      "bytes": 4547,
+      "sha256": "149c558dfded1db9cbebe6566e5570292f96648fdbbc3146955f58ca4f12b591"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/deletion-marks.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/deletion-marks.json",
+      "collection": "process",
+      "bytes": 321,
+      "sha256": "b3354a5fac8d48807d23aa6ffd3262efbd39dd744f7d9f10be3f364f2bbc882d"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/deletion-server-green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/deletion-server-green.log",
+      "collection": "process",
+      "bytes": 563,
+      "sha256": "e6004cc7d54f2016a555f18f2edb0c54491fd6720c593a93328d368b2676873b"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/deletion-server-red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/deletion-server-red.log",
+      "collection": "process",
+      "bytes": 2034,
+      "sha256": "2d5820e9a53aceaeb6af97dd718a10b1bdccf0b4f64577e72a255ef7dda43497"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/diagnostic-red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/diagnostic-red.log",
+      "collection": "process",
+      "bytes": 2321,
+      "sha256": "d047ecf403a574d47bdbfdba5cddbd059730fc40007b034fecefd98774043dbc"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/final-gallery-tests-attempt.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/final-gallery-tests-attempt.log",
+      "collection": "process",
+      "bytes": 9214,
+      "sha256": "07d79d0f2c01d30f32fc825783c4f282c4adc0358bb3db786c05458e4bb5bf38"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/final-gallery-tests.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/final-gallery-tests.log",
+      "collection": "process",
+      "bytes": 11720,
+      "sha256": "d5d491c73a68f24042f75e099340bb1ea2bf0b722d7c9a6192e9e914d4386c73"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/final-original-tests.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/final-original-tests.log",
+      "collection": "process",
+      "bytes": 3560,
+      "sha256": "a40e04f7815429a425f4e3280fd1a40849db222f9a6aacbb7567b956acf9f43d"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/baseline/work/crop-rescore/custom-selection-client.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/baseline/work/crop-rescore/custom-selection-client.mjs",
+      "collection": "process",
+      "bytes": 6581,
+      "sha256": "a0803a6757cfee478809af512e5e20e65e772ad49e7b98aa34395a86c00f56cc"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/baseline/work/crop-rescore/render-scored-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/baseline/work/crop-rescore/render-scored-gallery.mjs",
+      "collection": "process",
+      "bytes": 20379,
+      "sha256": "08f41bad9521e8d31eefbc2086b2bef1b897c373c64fe17a8d5d0569eebe5ee1"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/baseline/work/gallery-server/tests/gallery-browser.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/baseline/work/gallery-server/tests/gallery-browser.test.mjs",
+      "collection": "process",
+      "bytes": 39630,
+      "sha256": "919288902b67da6bb2f989af6ecafe49aad7f3e4488fcdd1a2a377cb0d63eeb3"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/baseline-fingerprints.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/baseline-fingerprints.json",
+      "collection": "process",
+      "bytes": 363,
+      "sha256": "1a8cd6db1eaa7b00866e88c8b54a6bbe0a0688238153b5a1451300d18e021797"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/cq-id1-green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/cq-id1-green.log",
+      "collection": "process",
+      "bytes": 1184,
+      "sha256": "fa3a439b926808ba5c2c393a13955d4e6366e6af5fcb7e25c056764283b82ad1"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/cq404-red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/cq404-red.log",
+      "collection": "process",
+      "bytes": 2150,
+      "sha256": "cf73c8a1ee3a428c156d53bb34c793c7e25f0168e6912851e3729ddcc198a781"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/final-gallery-tests.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/final-gallery-tests.log",
+      "collection": "process",
+      "bytes": 13497,
+      "sha256": "aac0ea7095a065ad5adce503eaeafdb6e60cc9ab25e9367e30005c20b19634c8"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/final-original-tests.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/final-original-tests.log",
+      "collection": "process",
+      "bytes": 3557,
+      "sha256": "f952f40b5ce4c40d891fe874515a507263ae6cc96a8bb34b698109961e755be2"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/freeze.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/freeze.json",
+      "collection": "process",
+      "bytes": 713,
+      "sha256": "b1b8bdb983776fe4a8436aa9c4de0e6c16bd034c22ab00e66a535f983242460d"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/if-s1-green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/if-s1-green.log",
+      "collection": "process",
+      "bytes": 371,
+      "sha256": "e146eea752c3004a570f65453c5b4c90e0f5549491ebcf60e4ee5ea4ffb99676"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/if-s2-green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/if-s2-green.log",
+      "collection": "process",
+      "bytes": 578,
+      "sha256": "53465d33f21341ca851b3be65abb2ee28e3e0e1a95ec3bc2d21e1a8faa82b213"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/red.log",
+      "collection": "process",
+      "bytes": 5111,
+      "sha256": "9ba532004129c793f694fecef85228eff7d87a0ea39d922f48fe429b1d0ca4ed"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/report.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/report.md",
+      "collection": "process",
+      "bytes": 4534,
+      "sha256": "cf69cd0ac672665b0a65725f6483696c1425a18a9da5981a98db8352db180541"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/source-fingerprints.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/fix-round-1/source-fingerprints.json",
+      "collection": "process",
+      "bytes": 1155,
+      "sha256": "79509ed06bd84d7abfc7921fa379180b6d46b95acf59dfee3664bf1adefb5c0f"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/formal-restoration.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/formal-restoration.json",
+      "collection": "process",
+      "bytes": 422,
+      "sha256": "04b9296c38dcfbe91625300292f63434d4ec69e0a94756a1c8678512df929c37"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/formal-runtime.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/formal-runtime.json",
+      "collection": "process",
+      "bytes": 426,
+      "sha256": "3f7de4a8e02fabbcc709bab51f2cce1c6eb99bbb6828e1fa07f19e2dda66a6b4"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/formal-server.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/formal-server.log",
+      "collection": "process",
+      "bytes": 24,
+      "sha256": "7bd6b44b56930a1db5c98e313d72f83fd749f47f76def316cf1bf4ffd6b30941"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/formal-state-before-restart.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/formal-state-before-restart.json",
+      "collection": "process",
+      "bytes": 425,
+      "sha256": "3bd783c227b2d8fe5a92e72a0498ca3999ec1c5e3da08f04f1252bf264325fec"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/formal-state-before.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/formal-state-before.json",
+      "collection": "process",
+      "bytes": 331,
+      "sha256": "99a38626cf63ed5a142dd3bd9b1444f0040884a9a8291bc183d2f3830ccfac29"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/freeze.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/freeze.json",
+      "collection": "process",
+      "bytes": 713,
+      "sha256": "b1b8bdb983776fe4a8436aa9c4de0e6c16bd034c22ab00e66a535f983242460d"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/gallery/all-candidates.html",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/gallery/all-candidates.html",
+      "collection": "process",
+      "bytes": 2146059,
+      "sha256": "2c0bf337e11dfda2fe170e91a5a2c211e7271d777349a3e14e1f6041c8654821"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/gallery/crop-scores.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/gallery/crop-scores.json",
+      "collection": "process",
+      "bytes": 695067,
+      "sha256": "08e2920bb7b79bfeb3ef3e4922edbba370584bfdbe0cb81991ef743c5df650a7"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/gallery/index.html",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/gallery/index.html",
+      "collection": "process",
+      "bytes": 1902977,
+      "sha256": "ee256b0eb98b7a63202c51512dce43806910e776a602d9c2c4bbc0201ca31e95"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/gallery/manifest.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/gallery/manifest.json",
+      "collection": "process",
+      "bytes": 1061120,
+      "sha256": "f79f701ff59e0c2c43802af56c043271ba3219ebc335eabf092188221338bbfa"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/gallery/scoring-rubric.txt",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/gallery/scoring-rubric.txt",
+      "collection": "process",
+      "bytes": 908,
+      "sha256": "a7cba390c26be5767a67431c4a6f6ee1b9e0b86f33de9afad9aa5111b749d0a1"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/gallery/thumbnails.html",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/gallery/thumbnails.html",
+      "collection": "process",
+      "bytes": 180474,
+      "sha256": "4a0f0ea64f594f5292a802d08a1bcbb0d2103cfec1268e9d5bfd4f72417d8050"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/generate-formal.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/generate-formal.mjs",
+      "collection": "process",
+      "bytes": 570,
+      "sha256": "d9f44a6b2737c9da1edeb63e00144f821f4a015fb09f47204655ddfa0ee28e50"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/generate-qa.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/generate-qa.mjs",
+      "collection": "process",
+      "bytes": 990,
+      "sha256": "580ab754671a47b278bef5ca4ca4ed5f65ced3d8ddd101ac3fe285eecf99c82b"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/green-attempt.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/green-attempt.log",
+      "collection": "process",
+      "bytes": 2188,
+      "sha256": "7894109edb0b37f3adb622a646abb1e51068f21b0f91b1eb91a4cea050e10043"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/merged-boundary-green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/merged-boundary-green.log",
+      "collection": "process",
+      "bytes": 1096,
+      "sha256": "74be2b694e6a9d991443dbf3b4dc42fd4fa4b2e6a0021e1735e8324bb8b3e145"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/merged-original-tests.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/merged-original-tests.log",
+      "collection": "process",
+      "bytes": 3562,
+      "sha256": "659a5abb6e0d87c4bf72b3281542e01c55109258d7c0ede9b31c84cf09a3b6c4"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/merged-tests-attempt.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/merged-tests-attempt.log",
+      "collection": "process",
+      "bytes": 12489,
+      "sha256": "9c4df95742ffcf630c1ab98e7a0f4eadab5916719beb29a61352826920cae8c0"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/odette_mousepad_before_interaction_deletion.zip",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/odette_mousepad_before_interaction_deletion.zip",
+      "collection": "process",
+      "bytes": 6529923933,
+      "sha256": "0167d5d8c5764824d3feacccffc91d53b19f9429eb7b02a061b0000ff5fd9379"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/package-verification.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/package-verification.json",
+      "collection": "process",
+      "bytes": 456,
+      "sha256": "135f24c88e6164f460f9faf149f04e4ab86f1175e1f9be5c736d89f7fb135bab"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/red-switch-desktop.png",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/red-switch-desktop.png",
+      "collection": "process",
+      "bytes": 1399557,
+      "sha256": "1493d7cbdd033128788cb5b3bb0ffe8a987a15682dcf45b9615831f33bc931fb"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/red-switch-mobile.png",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/red-switch-mobile.png",
+      "collection": "process",
+      "bytes": 298529,
+      "sha256": "ce7906743c6795e3634c5dea4fad38a76b1fbc40e2c88a0737bed070306f7162"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/red.log",
+      "collection": "process",
+      "bytes": 6930,
+      "sha256": "39bb52d15ac7bdb29a21e48e49b95bd17fe74098862057a800db08dba7c3f86f"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/report.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/report.md",
+      "collection": "process",
+      "bytes": 11931,
+      "sha256": "461dfcb8a64f71d8daf710cd61a753e13088ce1f4a66577acefcaa69605b20e7"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/reproduction.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/reproduction.json",
+      "collection": "process",
+      "bytes": 459,
+      "sha256": "921a3688308b7117d7536d44683dae949d2acf5cfd6dd7d7821af73d652ad8e3"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/crop-rescore/custom-selection-client.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/crop-rescore/custom-selection-client.mjs",
+      "collection": "process",
+      "bytes": 6702,
+      "sha256": "7c8046b942288ade3f8785b7c4dc65f0991c48fb09562fc418586c9f72b7574a"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/crop-rescore/render-scored-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/crop-rescore/render-scored-gallery.mjs",
+      "collection": "process",
+      "bytes": 20331,
+      "sha256": "7440b74c94a70a2f49942e6014a4456ef0f725c83e977cbbdbdd02c9bc564a42"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/crop-rescore/render-thumbnail-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/crop-rescore/render-thumbnail-gallery.mjs",
+      "collection": "process",
+      "bytes": 15096,
+      "sha256": "f12413da1c60234da8f466d392a8bcf9ef13d920667eb87315745d9a6aae5ed4"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/gallery-server/README.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/gallery-server/README.md",
+      "collection": "process",
+      "bytes": 3777,
+      "sha256": "9635b80e05b6275b3d523954c152725854ccc2e3a0f3acf9aed664c3cb1d8cd8"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/gallery-server/src/selection-store.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/gallery-server/src/selection-store.mjs",
+      "collection": "process",
+      "bytes": 4225,
+      "sha256": "f7199ae7107bbb6e441751ef082d483786379a15333fc988bbfcbc38ba4c4857"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/gallery-server/src/server.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/gallery-server/src/server.mjs",
+      "collection": "process",
+      "bytes": 5405,
+      "sha256": "cfb7a27b694980b4f0a1f0c671f2ecefab8acc9a5224a2999c9c197d19955e97"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/gallery-server/src/start.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/gallery-server/src/start.mjs",
+      "collection": "process",
+      "bytes": 891,
+      "sha256": "c0e62eb68001425706d36c8ac52207f938fcfeab97794d7f65f24ae66219a7e2"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/gallery-server/tests/catalog-store.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/gallery-server/tests/catalog-store.test.mjs",
+      "collection": "process",
+      "bytes": 9773,
+      "sha256": "696c03fdd7db8ca08822b9afc9f9d630b54c1d2d0a5f4116880780962c75a7cc"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/gallery-server/tests/gallery-browser.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/gallery-server/tests/gallery-browser.test.mjs",
+      "collection": "process",
+      "bytes": 44806,
+      "sha256": "d7761e0ee9c9e2ac85c96bac81d6574f9fe4eb223fcb6c512647895d9f8d167f"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/gallery-server/tests/server.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/current/work/gallery-server/tests/server.test.mjs",
+      "collection": "process",
+      "bytes": 9258,
+      "sha256": "127575c36f57bdb6af119ed54b9404c8d5360899d9716d8f817624ae5f64cf00"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/fingerprints.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/fingerprints.json",
+      "collection": "process",
+      "bytes": 1155,
+      "sha256": "79509ed06bd84d7abfc7921fa379180b6d46b95acf59dfee3664bf1adefb5c0f"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/fix-report.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/fix-report.md",
+      "collection": "process",
+      "bytes": 4534,
+      "sha256": "cf69cd0ac672665b0a65725f6483696c1425a18a9da5981a98db8352db180541"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/fix.diff",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/fix.diff",
+      "collection": "process",
+      "bytes": 9935,
+      "sha256": "37fe5d2cb8548dc4f02e523842bcc3c062ac31aecfa2310f97addbdc2f449979"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/prior-findings.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/prior-findings.json",
+      "collection": "process",
+      "bytes": 1943,
+      "sha256": "51fe03685d66126a18c024f13bc1cdf9047981ca441c51b929a9a4a6e6fdd2ad"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/verdicts.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/verdicts.json",
+      "collection": "process",
+      "bytes": 466,
+      "sha256": "28510f47f235e814c13ce0755b717077861f24ac673ec9ffbc6022a26645887b"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/verification.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/fix-round-1/verification.md",
+      "collection": "process",
+      "bytes": 659,
+      "sha256": "a2be1af0de0c6416fd493770c212053e49e301904b2d0632ad55b63b1d461708"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/crop-rescore/custom-selection-client.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/crop-rescore/custom-selection-client.mjs",
+      "collection": "process",
+      "bytes": 6581,
+      "sha256": "a0803a6757cfee478809af512e5e20e65e772ad49e7b98aa34395a86c00f56cc"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/crop-rescore/render-scored-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/crop-rescore/render-scored-gallery.mjs",
+      "collection": "process",
+      "bytes": 20379,
+      "sha256": "08f41bad9521e8d31eefbc2086b2bef1b897c373c64fe17a8d5d0569eebe5ee1"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/crop-rescore/render-thumbnail-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/crop-rescore/render-thumbnail-gallery.mjs",
+      "collection": "process",
+      "bytes": 15096,
+      "sha256": "f12413da1c60234da8f466d392a8bcf9ef13d920667eb87315745d9a6aae5ed4"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/gallery-server/README.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/gallery-server/README.md",
+      "collection": "process",
+      "bytes": 3777,
+      "sha256": "9635b80e05b6275b3d523954c152725854ccc2e3a0f3acf9aed664c3cb1d8cd8"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/gallery-server/src/selection-store.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/gallery-server/src/selection-store.mjs",
+      "collection": "process",
+      "bytes": 4225,
+      "sha256": "f7199ae7107bbb6e441751ef082d483786379a15333fc988bbfcbc38ba4c4857"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/gallery-server/src/server.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/gallery-server/src/server.mjs",
+      "collection": "process",
+      "bytes": 5405,
+      "sha256": "cfb7a27b694980b4f0a1f0c671f2ecefab8acc9a5224a2999c9c197d19955e97"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/gallery-server/src/start.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/gallery-server/src/start.mjs",
+      "collection": "process",
+      "bytes": 891,
+      "sha256": "c0e62eb68001425706d36c8ac52207f938fcfeab97794d7f65f24ae66219a7e2"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/gallery-server/tests/catalog-store.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/gallery-server/tests/catalog-store.test.mjs",
+      "collection": "process",
+      "bytes": 9773,
+      "sha256": "696c03fdd7db8ca08822b9afc9f9d630b54c1d2d0a5f4116880780962c75a7cc"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/gallery-server/tests/gallery-browser.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/gallery-server/tests/gallery-browser.test.mjs",
+      "collection": "process",
+      "bytes": 39630,
+      "sha256": "919288902b67da6bb2f989af6ecafe49aad7f3e4488fcdd1a2a377cb0d63eeb3"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/gallery-server/tests/server.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/current/work/gallery-server/tests/server.test.mjs",
+      "collection": "process",
+      "bytes": 9258,
+      "sha256": "127575c36f57bdb6af119ed54b9404c8d5360899d9716d8f817624ae5f64cf00"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/findings.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/findings.json",
+      "collection": "process",
+      "bytes": 1943,
+      "sha256": "51fe03685d66126a18c024f13bc1cdf9047981ca441c51b929a9a4a6e6fdd2ad"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/fingerprints.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/fingerprints.json",
+      "collection": "process",
+      "bytes": 1155,
+      "sha256": "fd6ad1c5f79a77149c3f0fdd89d175ebe1a17711093dd72f04a2127bfbea6456"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/implementation-report.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/implementation-report.md",
+      "collection": "process",
+      "bytes": 11413,
+      "sha256": "48dfb706dad4a959b865b844b01653e2deda9961eea6d31d7df639cd1108e428"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/implementation.diff",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/implementation.diff",
+      "collection": "process",
+      "bytes": 98603,
+      "sha256": "a8916ce0dd700d7aee6cf8448dc754b56847539b60fe9607a4099a67d8fe5614"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/task-brief.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/task-brief.md",
+      "collection": "process",
+      "bytes": 4053,
+      "sha256": "6bc9b894c0978a8eb2c8aeba0ece5a2759c942aaede9d3bc249ed4ecdf82bd47"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/verification.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/review/initial/verification.md",
+      "collection": "process",
+      "bytes": 592,
+      "sha256": "53559c0e80f0be8760a47dd74d8d9791a34785d434d8b032b3d6b23cdc81529b"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/serve-final-qa.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/serve-final-qa.mjs",
+      "collection": "process",
+      "bytes": 1104,
+      "sha256": "6d3b64262529199c3b750309fd3a6309b9e441fbd47a89e1c3bf25baed89f899"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/serve.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/serve.mjs",
+      "collection": "process",
+      "bytes": 1066,
+      "sha256": "0ec3d1dd8e2e7e13b9aa69caeccb9b9fcd2c35cba6a709b3f683d130bee3b912"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/source-fingerprints.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/source-fingerprints.json",
+      "collection": "process",
+      "bytes": 1155,
+      "sha256": "79509ed06bd84d7abfc7921fa379180b6d46b95acf59dfee3664bf1adefb5c0f"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/style-geometry.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/style-geometry.log",
+      "collection": "process",
+      "bytes": 3197,
+      "sha256": "be7854aa628070ef7cbcdb12310927f3f0ab38c00066ae057c6a3697fb1a0b9a"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/task-brief.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/task-brief.md",
+      "collection": "process",
+      "bytes": 4053,
+      "sha256": "6bc9b894c0978a8eb2c8aeba0ece5a2759c942aaede9d3bc249ed4ecdf82bd47"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/interaction-fix/test-state.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/interaction-fix/test-state.json",
+      "collection": "process",
+      "bytes": 1818,
+      "sha256": "7421d55c6550e63791ca5c5331ecb5d1b62ed220191ebaa059a40d48d2dfa21b"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/original-tests.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/original-tests.log",
+      "collection": "process",
+      "bytes": 3561,
+      "sha256": "c09523d7b9758a52691de0eacc067f29e309288138c710b06b947974bba8800f"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/plan-path",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/plan-path",
+      "collection": "process",
+      "bytes": 55,
+      "sha256": "9ae2de1fbcd2de526ed14710943de950fa92dfed5fab282fc78c62ee97231a2a"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/progress.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/progress.md",
+      "collection": "process",
+      "bytes": 4889,
+      "sha256": "25cb0e48541c8c67fcb184fe93c4d28aeafde5f8488b5b2b1053b0df49707ef8"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/qa/README.txt",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/qa/README.txt",
+      "collection": "process",
+      "bytes": 3899,
+      "sha256": "350f6675a18bc4edd658e10a471cedfdc210dacdeb262d657840f55aa72668cf"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/qa/browser-qa.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/qa/browser-qa.json",
+      "collection": "process",
+      "bytes": 5530,
+      "sha256": "c7a6eb4b4fd22ff82b8043e7d5f76f9bfbdf18a944b39716172d499cfc9edc1e"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/qa/formal-server.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/qa/formal-server.json",
+      "collection": "process",
+      "bytes": 329,
+      "sha256": "d79d5bb9937b487b8d08034aba4e869697ae158eaef088a9ee93bb7c5614c61e"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/qa/formal-server.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/qa/formal-server.log",
+      "collection": "process",
+      "bytes": 24,
+      "sha256": "7bd6b44b56930a1db5c98e313d72f83fd749f47f76def316cf1bf4ffd6b30941"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/qa/image-invariants.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/qa/image-invariants.json",
+      "collection": "process",
+      "bytes": 195,
+      "sha256": "8178e472655fc9a094ec56e91702f5d995a35ddd90c5199bd3d95a8470b88180"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/qa/odette_mousepad_700x400_before_custom_candidates.zip",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/qa/odette_mousepad_700x400_before_custom_candidates.zip",
+      "collection": "process",
+      "bytes": 6527866287,
+      "sha256": "3900869d746070a634ed56a696e1f38531110e783776f9fcdd79f92e538dba24"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/qa/package-pending.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/qa/package-pending.json",
+      "collection": "process",
+      "bytes": 306,
+      "sha256": "08bd97a2f20395d162341fce5359515831f962b78b66c5d5ba9e3a6eab5cf7d9"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/qa/package-verification.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/qa/package-verification.json",
+      "collection": "process",
+      "bytes": 472,
+      "sha256": "ea848083689833106d5f2560474a02af1f6eaafe546047e54b832936e878f7b8"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/qa/real-browser-cases.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/qa/real-browser-cases.json",
+      "collection": "process",
+      "bytes": 909,
+      "sha256": "8d44d67c3b0bc9e41a985fc8069f3684194432dde9a7ec07d0fa809d8306e920"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/qa/serve.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/qa/serve.mjs",
+      "collection": "process",
+      "bytes": 823,
+      "sha256": "d041074cd7485a57dbdddcddf03c998f499132acec5a22eabb21eaef1946aeb8"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/qa/test-state.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/qa/test-state.json",
+      "collection": "process",
+      "bytes": 238,
+      "sha256": "fa21b326e9aa698e396cc95a014412666fa38dc16e1ca88db16bacd8cdde3185"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/crop-rescore/custom-selection-client.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/crop-rescore/custom-selection-client.mjs",
+      "collection": "process",
+      "bytes": 5430,
+      "sha256": "6f8b91dcd4ecc0f66bd5029d50b5ac2eca673e5e371947d66b50679ea1e214a2"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/crop-rescore/render-scored-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/crop-rescore/render-scored-gallery.mjs",
+      "collection": "process",
+      "bytes": 16905,
+      "sha256": "b49308bd2bcf2474e332311e54e7c4a9370f6de007d3cbfea5da9588e214bb38"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/crop-rescore/render-thumbnail-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/crop-rescore/render-thumbnail-gallery.mjs",
+      "collection": "process",
+      "bytes": 11451,
+      "sha256": "4089b2fffa70d0ffa7d75847c63af7a09b9dd66a2acba00cdf2e73c1a6c033d8"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/README.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/README.md",
+      "collection": "process",
+      "bytes": 2650,
+      "sha256": "8ba17f5d6f6eaac0f6ca2dcc32907606a6755b930bcebee56f304a760cc9aa22"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/package.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/package.json",
+      "collection": "process",
+      "bytes": 198,
+      "sha256": "87dde1555dc967e3c96624dc4b97575245a3561841d6b777618acb5f327a1e77"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/src/catalog.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/src/catalog.mjs",
+      "collection": "process",
+      "bytes": 1061,
+      "sha256": "83f086b593eee2a66379f315576d09279906a755073e1820604fa9d9f24d35f8"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/src/selection-store.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/src/selection-store.mjs",
+      "collection": "process",
+      "bytes": 4063,
+      "sha256": "1fcbd7a4d9105576315afb7a4d8cd2546e4563be22986620df3a83f21ace1a60"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/src/server.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/src/server.mjs",
+      "collection": "process",
+      "bytes": 4841,
+      "sha256": "5c2f803a19bed7f881810f40abfe2fccfba18814d88438f93bacaffa262c03ad"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/src/start.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/src/start.mjs",
+      "collection": "process",
+      "bytes": 800,
+      "sha256": "175041b7c8d59672015822ccffa8bc45fbda595330cd7eaa8411804e5e48e562"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/tests/catalog-store.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/tests/catalog-store.test.mjs",
+      "collection": "process",
+      "bytes": 8452,
+      "sha256": "9414655ec1d08d7cab3dc679e4559610ca0c4e5c6c0ffea5280a770a93334509"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/tests/gallery-browser.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/tests/gallery-browser.test.mjs",
+      "collection": "process",
+      "bytes": 19414,
+      "sha256": "0585c2de7b2336a6c3f37756f3220b7b64f20fda7a3126b32830a582a875f77f"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/tests/server.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/gallery-server/tests/server.test.mjs",
+      "collection": "process",
+      "bytes": 7211,
+      "sha256": "07fe1bd19e21fd2b4a31731a00a411a8ce1310cf48355b81d68baab9bd89078c"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/masonry-change/tests/export-exclusions.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/masonry-change/tests/export-exclusions.test.mjs",
+      "collection": "process",
+      "bytes": 7422,
+      "sha256": "6cad68548c1a55c140e08dcf3d30d03cde04dc4fde3e0d1427c97e1c87c82c0d"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/masonry-change/tests/gallery.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/current/work/masonry-change/tests/gallery.test.mjs",
+      "collection": "process",
+      "bytes": 10387,
+      "sha256": "cfd0466700a72025511b7e57462d4947f5031ab5f94bcf246961022d8b37f915"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/fingerprints.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/fingerprints.json",
+      "collection": "process",
+      "bytes": 1612,
+      "sha256": "7a2898d6b6936c8d9db8b7c6aa2a96f4bd60faa4f062303ca53ac4e0039bac24"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/fix-report.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/fix-report.md",
+      "collection": "process",
+      "bytes": 5336,
+      "sha256": "a9d927583135bf6fe4cabdb46b375c282c9c4652089cc84d2634fe2dd4bf2a2f"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/fix.diff",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/fix.diff",
+      "collection": "process",
+      "bytes": 23119,
+      "sha256": "53eacec60f9f7725472123544a7d287a0e96ad08ed70ba7b293955ecb110059d"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/prior-findings.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/prior-findings.json",
+      "collection": "process",
+      "bytes": 3868,
+      "sha256": "687c9f0337fd7e9c1b85a1fd5c85735941a4d551c5f5703fdbd43fbe478d088e"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/verdicts.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/verdicts.json",
+      "collection": "process",
+      "bytes": 706,
+      "sha256": "1dfdb94451731876602992036ca9f30285a308ea85112b04e7aaae7271c8e1e8"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/fix-round-1/verification.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/fix-round-1/verification.md",
+      "collection": "process",
+      "bytes": 553,
+      "sha256": "0b3b3973311fe58b1e802c6f9e316ea224711939cab6339aeebdd2b9b1549c0a"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/current/work/crop-rescore/custom-selection-client.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/current/work/crop-rescore/custom-selection-client.mjs",
+      "collection": "process",
+      "bytes": 5171,
+      "sha256": "33fe6bfe56c3d081adec8a208e5d6c003ef1454602a4399dc1ccb64d760c4ce9"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/current/work/crop-rescore/render-scored-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/current/work/crop-rescore/render-scored-gallery.mjs",
+      "collection": "process",
+      "bytes": 16905,
+      "sha256": "b49308bd2bcf2474e332311e54e7c4a9370f6de007d3cbfea5da9588e214bb38"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/current/work/crop-rescore/render-thumbnail-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/current/work/crop-rescore/render-thumbnail-gallery.mjs",
+      "collection": "process",
+      "bytes": 9947,
+      "sha256": "f761693c333a101b3b92cc04236cc80d75f9e82eaa91f5f027c81e0b3e4188c4"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/README.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/README.md",
+      "collection": "process",
+      "bytes": 2650,
+      "sha256": "8ba17f5d6f6eaac0f6ca2dcc32907606a6755b930bcebee56f304a760cc9aa22"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/package.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/package.json",
+      "collection": "process",
+      "bytes": 198,
+      "sha256": "87dde1555dc967e3c96624dc4b97575245a3561841d6b777618acb5f327a1e77"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/src/catalog.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/src/catalog.mjs",
+      "collection": "process",
+      "bytes": 1061,
+      "sha256": "83f086b593eee2a66379f315576d09279906a755073e1820604fa9d9f24d35f8"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/src/selection-store.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/src/selection-store.mjs",
+      "collection": "process",
+      "bytes": 3848,
+      "sha256": "6594870635c8e4d2ea04d4757c0ed347c5723668d46356e37a70396ace2383d7"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/src/server.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/src/server.mjs",
+      "collection": "process",
+      "bytes": 4841,
+      "sha256": "5c2f803a19bed7f881810f40abfe2fccfba18814d88438f93bacaffa262c03ad"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/src/start.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/src/start.mjs",
+      "collection": "process",
+      "bytes": 800,
+      "sha256": "175041b7c8d59672015822ccffa8bc45fbda595330cd7eaa8411804e5e48e562"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/tests/catalog-store.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/tests/catalog-store.test.mjs",
+      "collection": "process",
+      "bytes": 6947,
+      "sha256": "a58185e8f602427b0b56e27f286fa4852579a6f0d227739051cec573e3e03551"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/tests/gallery-browser.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/tests/gallery-browser.test.mjs",
+      "collection": "process",
+      "bytes": 15824,
+      "sha256": "68760c6dee4b919a26f3f515e8904066f8012ab1fba27783bc96b06070705859"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/tests/server.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/current/work/gallery-server/tests/server.test.mjs",
+      "collection": "process",
+      "bytes": 7211,
+      "sha256": "07fe1bd19e21fd2b4a31731a00a411a8ce1310cf48355b81d68baab9bd89078c"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/current/work/masonry-change/tests/export-exclusions.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/current/work/masonry-change/tests/export-exclusions.test.mjs",
+      "collection": "process",
+      "bytes": 7422,
+      "sha256": "6cad68548c1a55c140e08dcf3d30d03cde04dc4fde3e0d1427c97e1c87c82c0d"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/current/work/masonry-change/tests/gallery.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/current/work/masonry-change/tests/gallery.test.mjs",
+      "collection": "process",
+      "bytes": 10387,
+      "sha256": "cfd0466700a72025511b7e57462d4947f5031ab5f94bcf246961022d8b37f915"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/findings.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/findings.json",
+      "collection": "process",
+      "bytes": 3868,
+      "sha256": "687c9f0337fd7e9c1b85a1fd5c85735941a4d551c5f5703fdbd43fbe478d088e"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/fingerprints.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/fingerprints.json",
+      "collection": "process",
+      "bytes": 3097,
+      "sha256": "8486a67500af945f416637c912a691249b4bb1a8823c864951582ed6a68fe76d"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/implementation-report.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/implementation-report.md",
+      "collection": "process",
+      "bytes": 7380,
+      "sha256": "bfc0ae48d6145ac59d2c35f641804ca34cfa695c21e85dac62b5abd1ecd58444"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/implementation.diff",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/implementation.diff",
+      "collection": "process",
+      "bytes": 77376,
+      "sha256": "9fb7ed2206cf5642a9820d9745f8173845d2dfa5a847d3f8b7962725725a4fda"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/task-brief.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/task-brief.md",
+      "collection": "process",
+      "bytes": 5981,
+      "sha256": "563b2cb0dda565cf5146eb860beb9ce38665a4cc6a5c6661bf8b9da360fe76bd"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/review/initial/verification.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/review/initial/verification.md",
+      "collection": "process",
+      "bytes": 489,
+      "sha256": "7f95152d2675bcbe0b28e463d9eeff75c7a2201abc5edf2781dd07c7bbdf36cb"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/store-green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/store-green.log",
+      "collection": "process",
+      "bytes": 1485,
+      "sha256": "98ab01bfb80a5263f09f04f3273b88ec7c1e521972a004e11864d1779538e2e0"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/store-red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/store-red.log",
+      "collection": "process",
+      "bytes": 6588,
+      "sha256": "f62e18f582e2c37c581f2ca1b84c595a5942788b210f9f72f4f291c2cbc4d08f"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/task-1-brief.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/task-1-brief.md",
+      "collection": "process",
+      "bytes": 5981,
+      "sha256": "563b2cb0dda565cf5146eb860beb9ce38665a4cc6a5c6661bf8b9da360fe76bd"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/task-1-invariants.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/task-1-invariants.json",
+      "collection": "process",
+      "bytes": 741,
+      "sha256": "33e79240819a17b4a4e2cb3540486c4dc2fac8d749c3f384c8661b21e386ff78"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/task-1-report.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/task-1-report.md",
+      "collection": "process",
+      "bytes": 7853,
+      "sha256": "a84b73f9cb533df9196d3383cbb5e1870c2c09d767f679d8d020df64708963cf"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-custom-candidates/task-1-source-fingerprints.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-custom-candidates/task-1-source-fingerprints.json",
+      "collection": "process",
+      "bytes": 1612,
+      "sha256": "788f5bb153d8e0801ad8a4cf31c96dbb55694e16458b43274e6cd5dcba36cedc"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/archive-summary.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/archive-summary.json",
+      "collection": "process",
+      "bytes": 171,
+      "sha256": "39aa6fbd2cad1bf9927f85b40ac2fd0b4da5e4247d9d2622556ee4ac07ec7de4"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/baseline/outputs/odette_mousepad_updated/manifest.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/baseline/outputs/odette_mousepad_updated/manifest.json",
+      "collection": "process",
+      "bytes": 1305273,
+      "sha256": "a30c00d97987b47bff01872c8cf01451d53f5fd753fb08338d4893b679b186bc"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/baseline/work/crop-rescore/custom-selection-client.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/baseline/work/crop-rescore/custom-selection-client.mjs",
+      "collection": "process",
+      "bytes": 6702,
+      "sha256": "7c8046b942288ade3f8785b7c4dc65f0991c48fb09562fc418586c9f72b7574a"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/baseline/work/crop-rescore/render-scored-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/baseline/work/crop-rescore/render-scored-gallery.mjs",
+      "collection": "process",
+      "bytes": 20331,
+      "sha256": "7440b74c94a70a2f49942e6014a4456ef0f725c83e977cbbdbdd02c9bc564a42"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/baseline/work/crop-rescore/render-thumbnail-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/baseline/work/crop-rescore/render-thumbnail-gallery.mjs",
+      "collection": "process",
+      "bytes": 15096,
+      "sha256": "f12413da1c60234da8f466d392a8bcf9ef13d920667eb87315745d9a6aae5ed4"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/baseline/work/gallery-server/src/catalog.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/baseline/work/gallery-server/src/catalog.mjs",
+      "collection": "process",
+      "bytes": 1061,
+      "sha256": "83f086b593eee2a66379f315576d09279906a755073e1820604fa9d9f24d35f8"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/baseline/work/gallery-server/src/selection-store.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/baseline/work/gallery-server/src/selection-store.mjs",
+      "collection": "process",
+      "bytes": 4225,
+      "sha256": "f7199ae7107bbb6e441751ef082d483786379a15333fc988bbfcbc38ba4c4857"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/baseline/work/gallery-server/src/server.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/baseline/work/gallery-server/src/server.mjs",
+      "collection": "process",
+      "bytes": 5405,
+      "sha256": "cfb7a27b694980b4f0a1f0c671f2ecefab8acc9a5224a2999c9c197d19955e97"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/baseline/work/gallery-server/src/start.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/baseline/work/gallery-server/src/start.mjs",
+      "collection": "process",
+      "bytes": 891,
+      "sha256": "c0e62eb68001425706d36c8ac52207f938fcfeab97794d7f65f24ae66219a7e2"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/baseline/work/gallery-server/tests/catalog-store.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/baseline/work/gallery-server/tests/catalog-store.test.mjs",
+      "collection": "process",
+      "bytes": 9773,
+      "sha256": "696c03fdd7db8ca08822b9afc9f9d630b54c1d2d0a5f4116880780962c75a7cc"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/baseline/work/gallery-server/tests/gallery-browser.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/baseline/work/gallery-server/tests/gallery-browser.test.mjs",
+      "collection": "process",
+      "bytes": 44806,
+      "sha256": "d7761e0ee9c9e2ac85c96bac81d6574f9fe4eb223fcb6c512647895d9f8d167f"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/baseline/work/gallery-server/tests/server.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/baseline/work/gallery-server/tests/server.test.mjs",
+      "collection": "process",
+      "bytes": 9258,
+      "sha256": "127575c36f57bdb6af119ed54b9404c8d5360899d9716d8f817624ae5f64cf00"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/baseline/work/male-pair-filter/exclusions.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/baseline/work/male-pair-filter/exclusions.json",
+      "collection": "process",
+      "bytes": 7671,
+      "sha256": "3dbacfe2a915491b5dbad93d6166aea2677bb47d2e0540a07b5d12836bd465c5"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/baseline/work/masonry-change/tests/export-exclusions.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/baseline/work/masonry-change/tests/export-exclusions.test.mjs",
+      "collection": "process",
+      "bytes": 7422,
+      "sha256": "6cad68548c1a55c140e08dcf3d30d03cde04dc4fde3e0d1427c97e1c87c82c0d"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/baseline/work/masonry-change/tests/gallery.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/baseline/work/masonry-change/tests/gallery.test.mjs",
+      "collection": "process",
+      "bytes": 10387,
+      "sha256": "cfd0466700a72025511b7e57462d4947f5031ab5f94bcf246961022d8b37f915"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/baseline-fingerprints.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/baseline-fingerprints.json",
+      "collection": "process",
+      "bytes": 2349,
+      "sha256": "59b3037d268623fb038fef2099c2ff061e7d22d1e216f5737941f61d87a45b50"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/build-task-1-fix-review.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/build-task-1-fix-review.mjs",
+      "collection": "process",
+      "bytes": 2620,
+      "sha256": "a8eb7b7b6896c3d3f02d817d80727456fac016569e990ed0ef7202fd775b1e58"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/build-task-1-review.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/build-task-1-review.mjs",
+      "collection": "process",
+      "bytes": 3752,
+      "sha256": "95cf2406211e1ac7c85019a43f4f29fadfc0a7df5c4622e0c6243ea378c6b3c8"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/capture-original-files.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/capture-original-files.mjs",
+      "collection": "process",
+      "bytes": 1417,
+      "sha256": "d977a7fe99a6288e0e611595b21cca29da259387386333c9b31df0ee5502a669"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/code-gates.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/code-gates.json",
+      "collection": "process",
+      "bytes": 403,
+      "sha256": "ad151752a1101aae844112635eb5aef9471ba26a4eca036af3b072641f151300"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/cutover.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/cutover.json",
+      "collection": "process",
+      "bytes": 35099,
+      "sha256": "1ec954215924f1194e2adf95c595bd54221eb6fc7c03bd83cbb42b2671bdb16e"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/document-gates.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/document-gates.json",
+      "collection": "process",
+      "bytes": 921,
+      "sha256": "2e7316da7656f9eff3f590e3123fb152accdd243523ad621dbf52d832118187f"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/extra-moves.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/extra-moves.json",
+      "collection": "process",
+      "bytes": 4169,
+      "sha256": "fd75c1ae15dc4c21395ac95861edbaa3aa61199a452ef892ea71d5077dc2b1bf"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fingerprints.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fingerprints.json",
+      "collection": "process",
+      "bytes": 9463,
+      "sha256": "0fe7ee4e18a56c1f0fb82f333da747414e4465f0a700de8adc1084e420868267"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/baseline-fingerprints.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/baseline-fingerprints.json",
+      "collection": "process",
+      "bytes": 2349,
+      "sha256": "59b3037d268623fb038fef2099c2ff061e7d22d1e216f5737941f61d87a45b50"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/.gitignore",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/.gitignore",
+      "collection": "process",
+      "bytes": 74,
+      "sha256": "22da9c0d81f6cfbbc8891dcf7ffe3963287b158d6f4b607fef6cf05cc1924f0e"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/README.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/README.md",
+      "collection": "process",
+      "bytes": 4143,
+      "sha256": "239b44d4cf0b275f95966114937b2337c9c326ea484aa0fdbb6de844ad4a303e"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/package-lock.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/package-lock.json",
+      "collection": "process",
+      "bytes": 21623,
+      "sha256": "a43f48285c3e147a422e8c60279e12987e951b23fff19af5f07ee04916ebd28a"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/package.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/package.json",
+      "collection": "process",
+      "bytes": 465,
+      "sha256": "497b9f30d0148c6077988c5964f68c4e66b21b301aa3e91b8035e0749d8b2dad"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/scripts/generate-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/scripts/generate-gallery.mjs",
+      "collection": "process",
+      "bytes": 1277,
+      "sha256": "cc4b921041c5b0645d282b5d6775c8b4badcc622879bb4f9b0e6315a21421488"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/scripts/migrate-project.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/scripts/migrate-project.mjs",
+      "collection": "process",
+      "bytes": 909,
+      "sha256": "bf64e58dde0102bc1bd9bee43df0b854b82ea8ba8f3a1b6e0aab8f1d8e940349"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/scripts/verify-assets.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/scripts/verify-assets.mjs",
+      "collection": "process",
+      "bytes": 256,
+      "sha256": "9b5fb8cd57a37d0ce6b080849242400a0275239d0278cc4fc2062c1cbbef2251"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/gallery/custom-selection-client.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/gallery/custom-selection-client.mjs",
+      "collection": "process",
+      "bytes": 6702,
+      "sha256": "7c8046b942288ade3f8785b7c4dc65f0991c48fb09562fc418586c9f72b7574a"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/gallery/render-scored-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/gallery/render-scored-gallery.mjs",
+      "collection": "process",
+      "bytes": 20331,
+      "sha256": "7440b74c94a70a2f49942e6014a4456ef0f725c83e977cbbdbdd02c9bc564a42"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/gallery/render-thumbnail-gallery.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/gallery/render-thumbnail-gallery.mjs",
+      "collection": "process",
+      "bytes": 15096,
+      "sha256": "f12413da1c60234da8f466d392a8bcf9ef13d920667eb87315745d9a6aae5ed4"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/migration/archive.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/migration/archive.mjs",
+      "collection": "process",
+      "bytes": 3789,
+      "sha256": "2d52a004cbbd321cbf9429afe424260746db5cf07b7f23aedd5bbb8bfd90704e"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/migration/assets.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/migration/assets.mjs",
+      "collection": "process",
+      "bytes": 2815,
+      "sha256": "7b79875e4054dc55d6ae3ed735f043f355e2f8a4b297cf15dd0c146889c5c1a9"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/migration/files.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/migration/files.mjs",
+      "collection": "process",
+      "bytes": 3817,
+      "sha256": "bf56f3de7e8de99f9f735e8cf3551cfa67fa5a9dd0cb8d703d06f6a736440e9e"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/migration/sources.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/migration/sources.mjs",
+      "collection": "process",
+      "bytes": 3493,
+      "sha256": "8f566d54978dd6040a7f5916f0ce0788a19a711149bbdab026d6bcf96783b615"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/migration/stage.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/migration/stage.mjs",
+      "collection": "process",
+      "bytes": 4643,
+      "sha256": "52c55ea187ea342cc51960e7bcc6d62920120f7fb336ae7bc188bb85ae69e8af"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/project-paths.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/project-paths.mjs",
+      "collection": "process",
+      "bytes": 1519,
+      "sha256": "9702ab53e6af073060850a3ef88b4220ef99d3eef6b3f466378cc5144b083158"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/server/catalog.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/server/catalog.mjs",
+      "collection": "process",
+      "bytes": 1061,
+      "sha256": "83f086b593eee2a66379f315576d09279906a755073e1820604fa9d9f24d35f8"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/server/selection-store.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/server/selection-store.mjs",
+      "collection": "process",
+      "bytes": 4225,
+      "sha256": "f7199ae7107bbb6e441751ef082d483786379a15333fc988bbfcbc38ba4c4857"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/server/server.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/server/server.mjs",
+      "collection": "process",
+      "bytes": 5432,
+      "sha256": "60985a8d0278cc84180d747aa23a4b6fe572a849cb3695b2d02e4c9da0e10610"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/server/start.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/src/server/start.mjs",
+      "collection": "process",
+      "bytes": 736,
+      "sha256": "13bccbc0124686c98c934a362caf899cc918988cbff494db289acfac738567a5"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/fixtures/manifest-557.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/fixtures/manifest-557.json",
+      "collection": "process",
+      "bytes": 1340959,
+      "sha256": "dfb4a2ca64643f990f2d6a43562e2d626cc930121aa6be8114ef868e117aa8e3"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/gallery/gallery.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/gallery/gallery.test.mjs",
+      "collection": "process",
+      "bytes": 10292,
+      "sha256": "21e113cfbbfca7b304b331016acbb69a14d91a20e8c673b8aaeb2af80eec3ba7"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/gallery/generate.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/gallery/generate.test.mjs",
+      "collection": "process",
+      "bytes": 2856,
+      "sha256": "d74fe47c9b3e34b0966ee339a81126a7ec43a16948725a24005f2e9b05a9a339"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/migration/assets.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/migration/assets.test.mjs",
+      "collection": "process",
+      "bytes": 2388,
+      "sha256": "97dac737a164eba5416294991f66db46fdd9d8f6d20e59e3eae89c49fc6800f7"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/migration/project.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/migration/project.test.mjs",
+      "collection": "process",
+      "bytes": 8555,
+      "sha256": "453c5fc031a6def5208e4b26dcf111b31ce7b21c0662b7a380d5cba3820b4d4d"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/server/catalog-store.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/server/catalog-store.test.mjs",
+      "collection": "process",
+      "bytes": 9793,
+      "sha256": "e3a03321363a78c16f3125dd07e5958f71d5fb8f6e8d068e6154a5e069383d19"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/server/gallery-browser.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/server/gallery-browser.test.mjs",
+      "collection": "process",
+      "bytes": 44671,
+      "sha256": "400f525f6d682ad14ba44ac82d7ac0b574bf477ff966202fdad64b9c65335d99"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/server/paths.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/server/paths.test.mjs",
+      "collection": "process",
+      "bytes": 2943,
+      "sha256": "8d0c9e033d1b0afb2462d3325825f220995224798a6bf2620d5fbb3c05b704e6"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/server/server.test.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/candidate/tests/server/server.test.mjs",
+      "collection": "process",
+      "bytes": 9304,
+      "sha256": "578cfe1a53b45c5508215ddbb2c71288eb5bac0d9a9779a950b17ee1966f15a0"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/fingerprints.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/fingerprints.json",
+      "collection": "process",
+      "bytes": 9463,
+      "sha256": "0fe7ee4e18a56c1f0fb82f333da747414e4465f0a700de8adc1084e420868267"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/provenance/assets.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/provenance/assets.json",
+      "collection": "process",
+      "bytes": 5729890,
+      "sha256": "09d463e326cc0a02c7c2ff2bfdbe496e9e033925b020d20ae1f04d26dd7948ab"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/provenance/sources.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/provenance/sources.json",
+      "collection": "process",
+      "bytes": 11314,
+      "sha256": "b83e808e2d3e50c3dbd9f9741ada4b6d525310a5eb0cb0750e9b9eafff6567ee"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/provenance/stage.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/provenance/stage.json",
+      "collection": "process",
+      "bytes": 222823,
+      "sha256": "932ea38f99b560f447e2f9529ee55ee5ab431237c0fc042ef1a2ab8b2fa29ad7"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/review.diff",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/review.diff",
+      "collection": "process",
+      "bytes": 94087,
+      "sha256": "4f10ceecd842e1bdb86b1ea517a018fc1e45e52828694d238447694f12bededc"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-base/task-1-report.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-base/task-1-report.md",
+      "collection": "process",
+      "bytes": 8613,
+      "sha256": "d74689da390d2bfc96285520105d8714befb247c02e7e0adba8eaa4f6e7e16ab"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-cq1-green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-cq1-green.log",
+      "collection": "process",
+      "bytes": 379,
+      "sha256": "26dca07d9e47cd73dd0dae8568c207cef23b9114e44ccc4ce3ee91ccf6b9b573"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-cq1-red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-cq1-red.log",
+      "collection": "process",
+      "bytes": 1108,
+      "sha256": "5c0c1667453a9ea54317e05854848183369e0d8e760a4ebbfb0584365c5bcb1d"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-fingerprints.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-fingerprints.json",
+      "collection": "process",
+      "bytes": 14909,
+      "sha256": "164dc0f93e77964072ef9106c1ab65e2f2e5efe9d05f9a0ee86222aee471abce"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-full-test.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-full-test.log",
+      "collection": "process",
+      "bytes": 19982,
+      "sha256": "c28ae4eb608aa656d7bb736f513ffd0fc25d6930f64c70f7382e03e2f479470c"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-migration-test.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-migration-test.log",
+      "collection": "process",
+      "bytes": 2694,
+      "sha256": "4ee88574128afb41ef5e3d5a7d531b594ac4caa802eede317e8a8a3e165b725b"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-report.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-report.md",
+      "collection": "process",
+      "bytes": 3586,
+      "sha256": "03765c85eec5a14cea1f15762a75c4330562ddbaca380c3e06629e8bfe691a81"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix-verify-assets.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix-verify-assets.log",
+      "collection": "process",
+      "bytes": 241,
+      "sha256": "18e43dffd653bf661744ce35e8dc28a505a13ae4b561a7f52645bc4037d4d803"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/fix.diff",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/fix.diff",
+      "collection": "process",
+      "bytes": 5270,
+      "sha256": "589c81a4bbef5c42449fbbc828655782e60a54cfbce39afec54aaa196c1ad834"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/formal-custom-gallery.png",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/formal-custom-gallery.png",
+      "collection": "process",
+      "bytes": 2455842,
+      "sha256": "520712d8ad2b15a2893851dce1900a98bc732ec54152c2ef50c31550bdb9e7e0"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/formal-smoke.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/formal-smoke.json",
+      "collection": "process",
+      "bytes": 349,
+      "sha256": "9504ae9de8fc7ff08289f76aaeeaaf47687fa1f708a444c4717889ebe67f63a0"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/move-process.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/move-process.mjs",
+      "collection": "process",
+      "bytes": 1840,
+      "sha256": "c2ab448a1d926af1228f446bd0668d7eb0a523b87858181537678bfcb419e9cc"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/new-project-single-smoke.png",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/new-project-single-smoke.png",
+      "collection": "process",
+      "bytes": 1589620,
+      "sha256": "1a0c61ed0d635d9826b24dad134d564fdb150f612164438152730e6d4fd9e53f"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/new-project-smoke.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/new-project-smoke.json",
+      "collection": "process",
+      "bytes": 28808,
+      "sha256": "5846422e070fe68c3a61265dadf80d821ba5582e1c06446a8c0ec82d3b4913f0"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/original-files-readback.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/original-files-readback.json",
+      "collection": "process",
+      "bytes": 131,
+      "sha256": "874bf659a216608443b9d5529240ed76de7b7eaa84ff935d9ea13c2224989dd5"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/original-files.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/original-files.json",
+      "collection": "process",
+      "bytes": 2110990,
+      "sha256": "c2130729a434327b82c2ce097a69c665ef3e84218d6bcbc36b719c8779683d79"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/plan-path",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/plan-path",
+      "collection": "process",
+      "bytes": 59,
+      "sha256": "3b425f9be2e1942497f04a8521c1ecc4d8c454fed008e96c62517219e24368fa"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/progress.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/progress.md",
+      "collection": "process",
+      "bytes": 1768,
+      "sha256": "ede92debe766c85886b007bea93c94e0b8369ad549f4978481c7fb0895dd6d23"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/review.diff",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/review.diff",
+      "collection": "process",
+      "bytes": 94087,
+      "sha256": "4f10ceecd842e1bdb86b1ea517a018fc1e45e52828694d238447694f12bededc"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/sdd-workspace-local",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/sdd-workspace-local",
+      "collection": "process",
+      "bytes": 3283,
+      "sha256": "b9c7d9d2b6dc46c2b9b383536ceef64854f3c47dc8318598ec01ea6c259fe395"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/state-at-cutover/custom-candidates.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/state-at-cutover/custom-candidates.json",
+      "collection": "process",
+      "bytes": 425,
+      "sha256": "3bd783c227b2d8fe5a92e72a0498ca3999ec1c5e3da08f04f1252bf264325fec"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/state-at-cutover/deletion-marks.json",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/state-at-cutover/deletion-marks.json",
+      "collection": "process",
+      "bytes": 2230,
+      "sha256": "34339be4bd8c8b076a3d001ddf7915c9c3f829131f9c1e14aae2f08c3f3289c6"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-archive-recovery.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-archive-recovery.log",
+      "collection": "process",
+      "bytes": 1782,
+      "sha256": "7e1d7a38f0d99c4b39206a068d89c0286f8073c0e5a0e8e941258a6179f6c138"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-before-stage-generate.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-before-stage-generate.log",
+      "collection": "process",
+      "bytes": 186,
+      "sha256": "dd1cc19592bfa458bc0575fb57386c910880cdd73355417215aff5fdb7a80539"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-brief.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-brief.md",
+      "collection": "process",
+      "bytes": 5594,
+      "sha256": "631f81aae268b0d4e508bb4e084242a152e33bef8caf4cb795ab79e4466eaf18"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-dimensions-green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-dimensions-green.log",
+      "collection": "process",
+      "bytes": 1780,
+      "sha256": "f1aaa6be207fcb22fd1cfd7d64c9869ed84889090ac6a471b444e98256f1712d"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-dimensions-red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-dimensions-red.log",
+      "collection": "process",
+      "bytes": 2475,
+      "sha256": "c7ec401f29f7b8e9d5b91556e3ffa4862b6bd4ad758f8f8daf2383722bc8ce10"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-generate.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-generate.log",
+      "collection": "process",
+      "bytes": 98,
+      "sha256": "fd3df16a0472ad9ad5a7917069ddc24364b28c314869f65b857de4becfe7b09e"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-initial-green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-initial-green.log",
+      "collection": "process",
+      "bytes": 2099,
+      "sha256": "06cb0fe4e7e1dd1da61d50e1edebff5b27fb3a03bb605be1139e6ab52958cc73"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-provenance-green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-provenance-green.log",
+      "collection": "process",
+      "bytes": 1784,
+      "sha256": "3019725c0386e906362141d2ff181297b8dc1e22357ad3a2e55119dc86b63ab2"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-provenance-red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-provenance-red.log",
+      "collection": "process",
+      "bytes": 2424,
+      "sha256": "819947e1942741a9ca2914259346d9281fb402f2681587c54ad67f13cf37944b"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-red.log",
+      "collection": "process",
+      "bytes": 15210,
+      "sha256": "89f0ef34ca842561621c3fe72aa2d3e7d09659d22e9e90a59e634a65d8231e31"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-report.md",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-report.md",
+      "collection": "process",
+      "bytes": 8613,
+      "sha256": "d74689da390d2bfc96285520105d8714befb247c02e7e0adba8eaa4f6e7e16ab"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-source-parent-green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-source-parent-green.log",
+      "collection": "process",
+      "bytes": 1994,
+      "sha256": "f27618d28edf510d86c85cf484cea6363b52005b8b6f6b47d541557ee97aca03"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-source-parent-red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-source-parent-red.log",
+      "collection": "process",
+      "bytes": 2566,
+      "sha256": "3c841a1188ae4a88c89d297e840baf1fd6e2ee6ad5a35f06eb032f78240c8422"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-stage.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-stage.log",
+      "collection": "process",
+      "bytes": 64,
+      "sha256": "91d3f2dfb74a3ea8fe6ff61b198f6a94cb073506dfd2ae4f2a8834e36713a5b9"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-symlink-red.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-symlink-red.log",
+      "collection": "process",
+      "bytes": 2791,
+      "sha256": "9fabde7704c36c38c99b36aa1823c5b2782bacc897c26bc9ca37d7e1a253b4d7"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-test-cleanup-failure.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-test-cleanup-failure.log",
+      "collection": "process",
+      "bytes": 20014,
+      "sha256": "1be530a12352ab345d956cdef9181d7e0cd300b9f8e7a326207f7c8f72e90838"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-test.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-test.log",
+      "collection": "process",
+      "bytes": 19720,
+      "sha256": "d18fa2f73c6753f89910e30b4d9d82fc25fa3241c7e4898b963fc0f7372383e8"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-unit-green.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-unit-green.log",
+      "collection": "process",
+      "bytes": 2930,
+      "sha256": "f6a7116e9a354c6a04949eaa468b3e15679c7e78a318f315c27128a72a83cd56"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/task-1-verify.log",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/task-1-verify.log",
+      "collection": "process",
+      "bytes": 241,
+      "sha256": "18e43dffd653bf661744ce35e8dc28a505a13ae4b561a7f52645bc4037d4d803"
+    },
+    {
+      "originalAbsolutePath": "/Users/liuzhuo/Documents/Codex/2026-10-14/thread-01a13810-9b84-7e53-8ea7-44c833597365/.superpowers/sdd/2026-10-14-engineering-migration/verify-original-files.mjs",
+      "projectRelativePath": "archive/current-session/process/sdd/2026-10-14-engineering-migration/verify-original-files.mjs",
+      "collection": "process",
+      "bytes": 1369,
+      "sha256": "6f5b9aa9e07d5fa697be2b550f72ecc0dd5e9ced1c75e2fa0fba70f6ea257090"
+    }
+  ],
+  "status": "linked-and-verified"
+}

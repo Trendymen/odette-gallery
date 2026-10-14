@@ -1,0 +1,385 @@
+{
+  "status": 200,
+  "retcode": 0,
+  "message": "OK",
+  "user": {
+    "uid": "1015537",
+    "nickname": "Genshin Impact Official",
+    "introduce": "Grand Master of Genshin Impact Forum",
+    "avatar": "101049",
+    "gender": 0,
+    "certification": {
+      "type": 1,
+      "icon_url": "https://hyl-static-res-prod.hoyolab.com/upload/static-resource/2022/02/23/f5a37763f0f2080c0c43cca8638af024_5295925290813405198.webp",
+      "desc": "Official Big Boss"
+    },
+    "level_exp": {
+      "level": 0,
+      "exp": 0
+    },
+    "is_following": false,
+    "is_followed": false,
+    "avatar_url": "https://upload-os-bbs.hoyolab.com/upload/2026/09/21/74619b24b452fabbc966656db5c41343_2854480006311222495.png?x-oss-process=image/auto-orient,0/interlace,1/format,webp/quality,q_70",
+    "auth": null,
+    "is_logoff": false,
+    "pendant": "",
+    "was_following": false,
+    "post_num": 4634,
+    "suid": "0",
+    "black_relation": {
+      "is_blacking": false,
+      "is_blacked": false
+    },
+    "badge": null,
+    "lantern": null,
+    "otaku_devotion_title": {
+      "icon": "",
+      "name": "",
+      "desc": "",
+      "otaku_identity": "OtakuIdentityNone",
+      "accompany_title": "AccompanyTitleUnknown",
+      "role_id": "0"
+    },
+    "allow_community": true,
+    "content_cannot_be_upvoted": false,
+    "content_cannot_be_replied": false,
+    "post_cannot_be_shared": false,
+    "post_cannot_be_collected": false,
+    "cannot_be_followed": false
+  },
+  "post": {
+    "game_id": 2,
+    "post_id": "46147441",
+    "f_forum_id": 0,
+    "uid": "1015537",
+    "subject": "The Version 7.0 Event Calendar exclusive wallpaper is now available!",
+    "content": "<p class=\"ql-align-center\"><strong class=\"ql-size-4\" style=\"color: rgb(10, 131, 237);\">Click to save the wallpaper~</strong></p><div class=\"ql-image img-center 0e1d9e22-24a1-41cf-adc5-7d080f59ae4f\" data-uuid=\"0e1d9e22-24a1-41cf-adc5-7d080f59ae4f\"><div class=\"ql-image-wrp\"><div class=\"ql-image-mask-wrapper\"><img src=\"https://hoyolab-upload-private.hoyolab.com/upload/2026/08/04/2e0f97a1b20d6cf5ab37539b3b055f3b_8177887779758714917.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70\" alt=\"\" align=\"img-center\" data-uuid=\"0e1d9e22-24a1-41cf-adc5-7d080f59ae4f\"></div><div class=\"ql-image-desc-wrp\"><p contenteditable=\"false\" class=\"ql-image-desc\" data-placeholder=\"Click to enter image description (up to 90 characters)\"></p></div></div></div><div class=\"ql-image img-center 20841694-f0be-4d5e-b493-0bb6ef6fd981\" data-uuid=\"20841694-f0be-4d5e-b493-0bb6ef6fd981\"><div class=\"ql-image-wrp\"><div class=\"ql-image-mask-wrapper\"><img src=\"https://hoyolab-upload-private.hoyolab.com/upload/2026/08/04/2ae89a9a4a2421e44b3875dedc475174_4948694829997381137.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70\" alt=\"\" align=\"img-center\" data-uuid=\"20841694-f0be-4d5e-b493-0bb6ef6fd981\"></div><div class=\"ql-image-desc-wrp\"><p contenteditable=\"false\" class=\"ql-image-desc\" data-placeholder=\"Click to enter image description (up to 90 characters)\"></p></div></div></div><div class=\"ql-image img-center 6e31a12e-c442-435b-b7dc-12f23e19bb39\" data-uuid=\"6e31a12e-c442-435b-b7dc-12f23e19bb39\"><div class=\"ql-image-wrp\"><div class=\"ql-image-mask-wrapper\"><img src=\"https://hoyolab-upload-private.hoyolab.com/upload/2026/08/04/2177f1e7200728912d68fe349fe677de_7254946324365676450.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70\" alt=\"\" align=\"img-center\" data-uuid=\"6e31a12e-c442-435b-b7dc-12f23e19bb39\"></div><div class=\"ql-image-desc-wrp\"><p contenteditable=\"false\" class=\"ql-image-desc\" data-placeholder=\"Click to enter image description (up to 90 characters)\"></p></div></div></div><div class=\"ql-image img-center 2dac3e94-f3ff-4756-8927-9a1bdba5fb06\" data-uuid=\"2dac3e94-f3ff-4756-8927-9a1bdba5fb06\"><div class=\"ql-image-wrp\"><div class=\"ql-image-mask-wrapper\"><img src=\"https://hoyolab-upload-private.hoyolab.com/upload/2026/08/04/421e33a1b8c92654b5401c5fe390da76_5886311436481174326.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70\" alt=\"\" align=\"img-center\" data-uuid=\"2dac3e94-f3ff-4756-8927-9a1bdba5fb06\"></div><div class=\"ql-image-desc-wrp\"><p contenteditable=\"false\" class=\"ql-image-desc\" data-placeholder=\"Click to enter image description (up to 90 characters)\"></p></div></div></div><p class=\"ql-align-center\"><br></p>",
+    "cover": "",
+    "view_type": 1,
+    "created_at": 1785902404,
+    "images": [],
+    "post_status": {
+      "is_top": false,
+      "is_good": false,
+      "is_official": false,
+      "is_vote": false,
+      "is_quiz_vote": false,
+      "is_demoted": false,
+      "is_hot": false
+    },
+    "topic_ids": [],
+    "view_status": 1,
+    "max_floor": 82,
+    "is_original": 1,
+    "republish_authorization": 2,
+    "reply_time": "2026-09-15 08:36:18",
+    "is_deleted": 0,
+    "is_interactive": false,
+    "structured_content": "[{\"insert\":\"Click to save the wallpaper~\",\"attributes\":{\"bold\":true,\"color\":\"#0a83ed\",\"size\":\"4\"}},{\"insert\":\"\\n\",\"attributes\":{\"align\":\"center\"}},{\"insert\":{\"image\":\"https://upload-os-bbs.hoyolab.com/upload/2026/08/04/2e0f97a1b20d6cf5ab37539b3b055f3b_3348879965829628604.jpg\"},\"attributes\":{\"align\":\"img-center\",\"height\":1440,\"width\":2560,\"size\":\"495041\"}},{\"insert\":{\"image\":\"https://upload-os-bbs.hoyolab.com/upload/2026/08/04/2ae89a9a4a2421e44b3875dedc475174_1739710927450671597.jpg\"},\"attributes\":{\"align\":\"img-center\",\"height\":2560,\"width\":1440,\"size\":\"485015\"}},{\"insert\":{\"image\":\"https://upload-os-bbs.hoyolab.com/upload/2026/08/04/2177f1e7200728912d68fe349fe677de_5676993204265390333.jpg\"},\"attributes\":{\"align\":\"img-center\",\"height\":2436,\"width\":1125,\"size\":\"404224\"}},{\"insert\":{\"image\":\"https://upload-os-bbs.hoyolab.com/upload/2026/08/04/421e33a1b8c92654b5401c5fe390da76_5355316135008529704.jpg\"},\"attributes\":{\"align\":\"img-center\",\"height\":896,\"width\":736,\"size\":\"135026\"}},{\"insert\":\"\\n\",\"attributes\":{\"align\":\"center\"}}]",
+    "structured_content_rows": [],
+    "lang": "en-us",
+    "official_type": 3,
+    "reply_forbid": {
+      "date_type": 0,
+      "start_date": "0",
+      "cur_date": "0",
+      "level": 0
+    },
+    "video": "",
+    "contribution_id": "0",
+    "event_start_date": "0",
+    "event_end_date": "0",
+    "classification_id": "2",
+    "is_audit": false,
+    "is_multi_language": true,
+    "origin_lang": "en-us",
+    "sub_type": 0,
+    "reprint_source": "",
+    "can_edit": true,
+    "last_modify_time": 0,
+    "multi_language_info": {
+      "langs": [
+        "zh-cn",
+        "zh-tw",
+        "en-us",
+        "id-id",
+        "th-th",
+        "de-de",
+        "fr-fr",
+        "es-es",
+        "pt-pt",
+        "ru-ru",
+        "ko-kr",
+        "vi-vn",
+        "ja-jp",
+        "tr-tr",
+        "it-it"
+      ],
+      "future_post_id": "23966",
+      "lang_subject": {
+        "en-us": "The Version 7.0 Event Calendar exclusive wallpaper is now available!",
+        "th-th": "วอลเปเปอร์พิเศษของ \"ปฏิทินกิจกรรม\" ประจำเวอร์ชัน 7.0 พร้อมใช้งานแล้ว!",
+        "vi-vn": "Hình nền độc quyền của \"Lịch Sự Kiện\" phiên bản 7.0 đã ra mắt!",
+        "it-it": "Lo sfondo esclusivo del Calendario eventi della versione 7.0 è ora disponibile!",
+        "id-id": "Wallpaper Eksklusif \"Kalender Event\" Versi 7.0 kini sudah hadir!",
+        "pt-pt": "O papel de parede exclusivo do Calendário de Eventos da Versão 7.0 já está disponível!",
+        "es-es": "¡El fondo de pantalla exclusivo del calendario de eventos de la versión 7.0 ya está disponible!",
+        "ko-kr": "7.0 버전 「이벤트 일정」 전용 월페이퍼 배포 중!",
+        "tr-tr": "7.0 Sürümü \"Etkinlik Takvimi\" özel duvar kağıdı çıktı!",
+        "ru-ru": "Эксклюзивные обои календаря событий версии 7.0 уже доступны!",
+        "ja-jp": "Ver.7.0イベントカレンダー限定壁紙が公開されました！",
+        "zh-cn": "7.0版本“活动日历”专属壁纸现已上线！",
+        "zh-tw": "7.0版本「活動日曆」專屬桌布現已上線！",
+        "fr-fr": "Le fond d'écran exclusif au calendrier des événements de la version 7.0 est disponible !",
+        "de-de": "Das exklusive Hintergrundbild zum Aktionskalender von Version 7.0 ist jetzt verfügbar!"
+      },
+      "lang_content": {},
+      "lang_structured_content": {}
+    },
+    "visible_level": 1,
+    "has_cover": false,
+    "suid": "0",
+    "desc": "Click to save the wallpaper~",
+    "game_uid": "0",
+    "game_region": "",
+    "channel_id": "28"
+  },
+  "image_list": [
+    {
+      "url": "https://upload-os-bbs.hoyolab.com/upload/2026/08/04/2e0f97a1b20d6cf5ab37539b3b055f3b_3348879965829628604.jpg",
+      "height": 1440,
+      "width": 2560,
+      "format": "JPEG",
+      "size": "495041",
+      "spoiler": false,
+      "cuts": [
+        {
+          "ratio": 2,
+          "lt_point": {
+            "x": 319,
+            "y": 0
+          },
+          "rb_point": {
+            "x": 2240,
+            "y": 1440
+          }
+        },
+        {
+          "ratio": 3,
+          "lt_point": {
+            "x": 560,
+            "y": 0
+          },
+          "rb_point": {
+            "x": 2000,
+            "y": 1440
+          }
+        },
+        {
+          "ratio": 4,
+          "lt_point": {
+            "x": 0,
+            "y": 0
+          },
+          "rb_point": {
+            "x": 2560,
+            "y": 1439
+          }
+        },
+        {
+          "ratio": 1,
+          "lt_point": {
+            "x": 739,
+            "y": 0
+          },
+          "rb_point": {
+            "x": 1819,
+            "y": 1440
+          }
+        }
+      ],
+      "tag_info": {
+        "is_long_picture": false
+      },
+      "template_info": null,
+      "image_id": "141149238"
+    },
+    {
+      "url": "https://upload-os-bbs.hoyolab.com/upload/2026/08/04/2ae89a9a4a2421e44b3875dedc475174_1739710927450671597.jpg",
+      "height": 2560,
+      "width": 1440,
+      "format": "JPEG",
+      "size": "485015",
+      "spoiler": false,
+      "cuts": [
+        {
+          "ratio": 2,
+          "lt_point": {
+            "x": 4,
+            "y": 99
+          },
+          "rb_point": {
+            "x": 1439,
+            "y": 1175
+          }
+        },
+        {
+          "ratio": 3,
+          "lt_point": {
+            "x": 4,
+            "y": 99
+          },
+          "rb_point": {
+            "x": 1439,
+            "y": 1534
+          }
+        },
+        {
+          "ratio": 4,
+          "lt_point": {
+            "x": 4,
+            "y": 99
+          },
+          "rb_point": {
+            "x": 1439,
+            "y": 906
+          }
+        },
+        {
+          "ratio": 1,
+          "lt_point": {
+            "x": 4,
+            "y": 99
+          },
+          "rb_point": {
+            "x": 1439,
+            "y": 2013
+          }
+        }
+      ],
+      "tag_info": {
+        "is_long_picture": false
+      },
+      "template_info": null,
+      "image_id": "141149242"
+    },
+    {
+      "url": "https://upload-os-bbs.hoyolab.com/upload/2026/08/04/2177f1e7200728912d68fe349fe677de_5676993204265390333.jpg",
+      "height": 2436,
+      "width": 1125,
+      "format": "JPEG",
+      "size": "404224",
+      "spoiler": false,
+      "cuts": [
+        {
+          "ratio": 3,
+          "lt_point": {
+            "x": 24,
+            "y": 371
+          },
+          "rb_point": {
+            "x": 1116,
+            "y": 1463
+          }
+        },
+        {
+          "ratio": 4,
+          "lt_point": {
+            "x": 24,
+            "y": 371
+          },
+          "rb_point": {
+            "x": 1116,
+            "y": 985
+          }
+        },
+        {
+          "ratio": 1,
+          "lt_point": {
+            "x": 24,
+            "y": 371
+          },
+          "rb_point": {
+            "x": 1116,
+            "y": 1828
+          }
+        },
+        {
+          "ratio": 2,
+          "lt_point": {
+            "x": 24,
+            "y": 371
+          },
+          "rb_point": {
+            "x": 1116,
+            "y": 1190
+          }
+        }
+      ],
+      "tag_info": {
+        "is_long_picture": false
+      },
+      "template_info": null,
+      "image_id": "141149244"
+    },
+    {
+      "url": "https://upload-os-bbs.hoyolab.com/upload/2026/08/04/421e33a1b8c92654b5401c5fe390da76_5355316135008529704.jpg",
+      "height": 896,
+      "width": 736,
+      "format": "JPEG",
+      "size": "135026",
+      "spoiler": false,
+      "cuts": [
+        {
+          "ratio": 4,
+          "lt_point": {
+            "x": 0,
+            "y": 35
+          },
+          "rb_point": {
+            "x": 735,
+            "y": 449
+          }
+        },
+        {
+          "ratio": 1,
+          "lt_point": {
+            "x": 38,
+            "y": 0
+          },
+          "rb_point": {
+            "x": 710,
+            "y": 895
+          }
+        },
+        {
+          "ratio": 2,
+          "lt_point": {
+            "x": 0,
+            "y": 35
+          },
+          "rb_point": {
+            "x": 735,
+            "y": 587
+          }
+        },
+        {
+          "ratio": 3,
+          "lt_point": {
+            "x": 0,
+            "y": 35
+          },
+          "rb_point": {
+            "x": 735,
+            "y": 771
+          }
+        }
+      ],
+      "tag_info": {
+        "is_long_picture": false
+      },
+      "template_info": null,
+      "image_id": "141149248"
+    }
+  ]
+}

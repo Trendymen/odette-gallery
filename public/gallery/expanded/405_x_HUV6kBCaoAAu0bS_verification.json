@@ -1,0 +1,18 @@
+{
+  "id": "x_HUV6kBCaoAAu0bS",
+  "sourceHash": "e09477e9d7c61e64e3ad65e2c7bf7192806999a129635d0bc768118655de03a2",
+  "crop": {
+    "left": 170,
+    "top": 120,
+    "width": 3752,
+    "height": 2144
+  },
+  "pixelExact": true,
+  "strict7x4": true,
+  "pixelHash": "3681d3206b2a9caf5ffcc741e3566fd12d5009123a092b116a1b2cf51707a08b",
+  "fileHashes": {
+    "cropped": "1f7eea743d4926d6c4ef026a5e99f213c7a3d3a738e0f7448999aaba9673e294",
+    "preview": "6c10c90fe4940f1f8f75ed1724ff075951f5846b01e25eb359e9102ec1019c19",
+    "frame": "d760159acd2f48c559f4d39d7a33432d43003f582758a6d889825be9a7f3a814"
+  }
+}

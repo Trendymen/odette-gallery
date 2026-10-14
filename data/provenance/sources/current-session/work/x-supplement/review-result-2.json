@@ -1,0 +1,2914 @@
+[
+  {
+    "id": "x_HUJCZ7sboAALC1d",
+    "mediaId": "HUJCZ7sboAALC1d",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "主体是沃雅妮莎，未见奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUae2LeaEAASEYw",
+    "mediaId": "HUae2LeaEAASEYw",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "模型五官与衣饰清楚，上方区域可裁出脸与上身并避开对话栏。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 650,
+      "top": 0,
+      "width": 1260,
+      "height": 720
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HLtqwESbkAERRoY",
+    "mediaId": "HLtqwESbkAERRoY",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "主体为其他角色，未见奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUAxALybAAA-GMf",
+    "mediaId": "HUAxALybAAA-GMf",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "武器菜单与参数占据两侧，人物偏小，难以获得足够宽的干净主体裁剪。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRZAFYea4AEvtwp",
+    "mediaId": "HRZAFYea4AEvtwp",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "明显Q版人物与表情贴图，排除。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUaTsagaAAAWj_V",
+    "mediaId": "HUaTsagaAAAWj_V",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "双人模型五官与服装清楚，可裁取对视的脸与上身，避开底部界面标记。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 180,
+      "top": 0,
+      "width": 1610,
+      "height": 920
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HUJehVXbwAAURma",
+    "mediaId": "HUJehVXbwAAURma",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "任务完成界面与风景，没有可用奥黛塔人物。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUZzI7-bgAAk47U",
+    "mediaId": "HUZzI7-bgAAk47U",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "主体是沃雅妮莎和派蒙，没有奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUKVWnEa4AA_fpx",
+    "mediaId": "HUKVWnEa4AA_fpx",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "徽章商品展示页，奥黛塔只占小幅圆形局部，无法取得足够大的干净人物裁剪。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPbqHe1bkAA09-6",
+    "mediaId": "HPbqHe1bkAA09-6",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人节目截图，不是奥黛塔人物插画。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUIltmVaQAAX2hG",
+    "mediaId": "HUIltmVaQAAX2hG",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "其他角色的圣遗物菜单，未见奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUPNwxiaYAE75hK",
+    "mediaId": "HUPNwxiaYAE75hK",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "属性评分面板占满画面，奥黛塔立绘过小。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUdBu93aAAAmQVU",
+    "mediaId": "HUdBu93aAAAmQVU",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "远处背影过小，无法确认奥黛塔，也不适合突出脸与人体。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQI4MufaQAALJbn",
+    "mediaId": "HQI4MufaQAALJbn",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "五官、发丝和衣饰收尾清楚，可裁出脸与上身。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 2,
+      "top": 420,
+      "width": 1043,
+      "height": 596
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HUNJavMb0AA2BtA",
+    "mediaId": "HUNJavMb0AA2BtA",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "妮露抽卡画面，不是奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPfiJ7FbsAA9Epl",
+    "mediaId": "HPfiJ7FbsAA9Epl",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "动作截帧明显模糊，五官与衣饰难以看清。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPgnXpyaQAAVYyj",
+    "mediaId": "HPgnXpyaQAAVYyj",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "人物面部、服饰和坐姿精细，采用已确认的主体裁框。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 0,
+      "top": 0,
+      "width": 3150,
+      "height": 1800
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HUR1PxAbAAAk5MS",
+    "mediaId": "HUR1PxAbAAAk5MS",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "远景截图中人物过小，脸部细节不足。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HTi8aEca8AAHpgA",
+    "mediaId": "HTi8aEca8AAHpgA",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "奥黛塔仅背影，横裁难同时保住人物身体与场景关系。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUT9kkSaoAEVWsE",
+    "mediaId": "HUT9kkSaoAEVWsE",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "沃雅妮莎抽卡画面，不是奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HSTgDxoaQAAKOqA",
+    "mediaId": "HSTgDxoaQAAKOqA",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "双人五官与服装清晰，横幅可保住相拥动作。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 32,
+      "top": 0,
+      "width": 4032,
+      "height": 2304
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HP1EABSbAAA9M4p",
+    "mediaId": "HP1EABSbAAA9M4p",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "脸、发丝和服饰完成度高，可保回头表情与上身。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 450,
+      "width": 2478,
+      "height": 1416
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUfYHHxbIAAmoiB",
+    "mediaId": "HUfYHHxbIAAmoiB",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "模型脸部和衣饰清楚，可保侧脸与抬臂姿态。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 0,
+      "top": 700,
+      "width": 2303,
+      "height": 1316
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HOSTBtJb0AAmsxq",
+    "mediaId": "HOSTBtJb0AAmsxq",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "面部、手势与配饰收尾清楚，可作近景人像。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 1250,
+      "width": 3073,
+      "height": 1756
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQ97dr5agAAQMuz",
+    "mediaId": "HQ97dr5agAAQMuz",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "五官、衣饰和舞姿清晰，能保脸与主要上身动作。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 700,
+      "width": 2352,
+      "height": 1344
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HP8BhAbbQAAPxxi",
+    "mediaId": "HP8BhAbbQAAPxxi",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "侧脸与衣饰清楚，可保回头表情和肩背。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 480,
+      "width": 1078,
+      "height": 616
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HS9ZFkEawAA3-B6",
+    "mediaId": "HS9ZFkEawAA3-B6",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "文字梗图，人物只是小幅配图。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HTYt3vaaEAAHV-F",
+    "mediaId": "HTYt3vaaEAAHV-F",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HP6v_qMaIAA4ntb",
+    "mediaId": "HP6v_qMaIAA4ntb",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "其他角色的真人角色扮演照片。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRl2cW5aoAABvli",
+    "mediaId": "HRl2cW5aoAABvli",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "人物与羽翼有明显松散线条和概括笔触，不符合本轮精致完成偏好。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPEkDhCWcAAiH9D",
+    "mediaId": "HPEkDhCWcAAiH9D",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "多重人物与舞台装饰完成细致，可保中央舞姿和两侧肖像。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 180,
+      "top": 1,
+      "width": 3731,
+      "height": 2132
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HR8oDuHbcAA6SOD",
+    "mediaId": "HR8oDuHbcAA6SOD",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HP0K9hRakAAZpYo",
+    "mediaId": "HP0K9hRakAAZpYo",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "直播头像和弹幕遮挡画面，人物难以完整干净横裁。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQO0SlFbYAAqVpD",
+    "mediaId": "HQO0SlFbYAAqVpD",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "模型五官与衣饰边缘清楚，可保回头表情和肩背。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 450,
+      "width": 1078,
+      "height": 616
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HTxZ7LuaAAEQBxb",
+    "mediaId": "HTxZ7LuaAAEQBxb",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "模型面部与抱膝动作清楚，可用宽幅保住主要身体。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 0,
+      "top": 200,
+      "width": 4095,
+      "height": 2340
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HSEP9Sua0AARvwO",
+    "mediaId": "HSEP9Sua0AARvwO",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "画面重点不符合本轮人物展示要求，排除。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HOsHWnlboAAtT5R",
+    "mediaId": "HOsHWnlboAAtT5R",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "五官与服装细节清楚，能保回头表情和持花手势。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 3,
+      "top": 650,
+      "width": 2394,
+      "height": 1368
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPbK6uNaQAAhhsz",
+    "mediaId": "HPbK6uNaQAAhhsz",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "服饰与发型缺少明确角色特征，无法确认奥黛塔。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HR_kByYawAAccx6",
+    "mediaId": "HR_kByYawAAccx6",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "极简线条小人，人物过小且缺少五官细节。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRn1r7tbMAAma4X",
+    "mediaId": "HRn1r7tbMAAma4X",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "脸部和发丝仍有松散重复线条、平涂较粗，未达本轮精致完成偏好。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQSZbWqW8AAL981",
+    "mediaId": "HQSZbWqW8AAL981",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "背身压腿姿态遮住脸，人体与衣裙笔触偏粗松。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HToXc4-bsAAjhDC",
+    "mediaId": "HToXc4-bsAAjhDC",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "面部与发丝细节清楚，可取脸和肩部近景。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 0,
+      "top": 290,
+      "width": 1008,
+      "height": 576
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPfwjpWaMAAJMFs",
+    "mediaId": "HPfwjpWaMAAJMFs",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "五官、头发与衣饰明显简化，未达本轮精致程度。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPbm6pjW8AA__WF",
+    "mediaId": "HPbm6pjW8AA__WF",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "画面过淡，人物细节与衣饰收尾偏简，横裁后脸部仍弱。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HMeZ7B8WcAAQ3aR",
+    "mediaId": "HMeZ7B8WcAAQ3aR",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "面部、发丝和饰品细节清楚，适合上身近景。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 3,
+      "top": 220,
+      "width": 1274,
+      "height": 728
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQKDEEJbUAEPL20",
+    "mediaId": "HQKDEEJbUAEPL20",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HSmEJpRaUAAxG0o",
+    "mediaId": "HSmEJpRaUAAxG0o",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "其他角色梗图，且画面有明确AI生成标记。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HMNYd7KakAAC1mV",
+    "mediaId": "HMNYd7KakAAC1mV",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "头发衣饰线条偏粗松、细节概括，未达本轮精致偏好。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRjVnJeb0AAVSw6",
+    "mediaId": "HRjVnJeb0AAVSw6",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "面部偏写实且笔触较粗，不符合本轮精致二次元取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HNvq0xfaQAEU56t",
+    "mediaId": "HNvq0xfaQAEU56t",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "平涂干净，五官、发丝与手势清楚，可作上身人像。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 0,
+      "top": 650,
+      "width": 2345,
+      "height": 1340
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HO0jfW_WQAEM1pL",
+    "mediaId": "HO0jfW_WQAEM1pL",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "天鹅遮住大半张脸，横裁难形成清楚完整的人像。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQYL7B5aoAAboVN",
+    "mediaId": "HQYL7B5aoAAboVN",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "彩边效果下五官、发丝与手部仍清晰，衣饰完成度高。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 300,
+      "width": 1617,
+      "height": 924
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPhHNxqbgAAQeQc",
+    "mediaId": "HPhHNxqbgAAQeQc",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "面部和服装细节完整，可保坐姿上身与双手。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 2,
+      "top": 180,
+      "width": 1526,
+      "height": 872
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HP3I0SQawAEuywL",
+    "mediaId": "HP3I0SQawAEuywL",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "画面暗且笔触粗松，脸部被手臂遮住，细节不足。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HNpMa2haAAAsBQp",
+    "mediaId": "HNpMa2haAAAsBQp",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "粗轮廓与衣饰细节较简，未达本轮精致完成偏好。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HP8LoDPbYAAPjOj",
+    "mediaId": "HP8LoDPbYAAPjOj",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "平涂轮廓干净，五官与发饰清楚，可取脸部近景。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 2,
+      "top": 480,
+      "width": 1379,
+      "height": 788
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HPsOkOTaoAEgxHV",
+    "mediaId": "HPsOkOTaoAEgxHV",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "五官和衣饰清楚，平涂色块完整，可保回头脸与肩背。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 0,
+      "top": 450,
+      "width": 1365,
+      "height": 780
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HPFk2Fha0AARYmp",
+    "mediaId": "HPFk2Fha0AARYmp",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "粗松肌理覆盖衣裙与头发，细节收尾不足。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPkmGzMbcAAtDdN",
+    "mediaId": "HPkmGzMbcAAtDdN",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "其他角色的分格剧情截图，不是奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HS0yi8fbIAAIwyJ",
+    "mediaId": "HS0yi8fbIAAIwyJ",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "面部、发饰和衣服线条完整，可保清晰人像与局部手势。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 920,
+      "width": 2548,
+      "height": 1456
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HS-w3NLXgAAqVoB",
+    "mediaId": "HS-w3NLXgAAqVoB",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "近景模型脸与持叉手势清楚，花景衬托主体。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 14,
+      "top": 0,
+      "width": 1904,
+      "height": 1088
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPHjNeBXIAADt0J",
+    "mediaId": "HPHjNeBXIAADt0J",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "眼睛、发丝和表情收尾清楚，适合脸部近景。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 0,
+      "top": 1200,
+      "width": 3171,
+      "height": 1812
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HP7_JiVbYAAqx3c",
+    "mediaId": "HP7_JiVbYAAqx3c",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "头发、五官与服装留有大量草稿杂线。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HP3K3U5akAA41gz",
+    "mediaId": "HP3K3U5akAA41gz",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "面部、发丝和衣饰边缘收尾偏粗，完成度不足。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQvFup-bEAEpaWs",
+    "mediaId": "HQvFup-bEAEpaWs",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "五官与发型、衣饰过于简化，不符合精致插画偏好。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQa_9Q6awAAX1nJ",
+    "mediaId": "HQa_9Q6awAAX1nJ",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "头发衣饰有重复杂线与粗块笔触，完成度不符偏好。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HULUsvgbsAAJnfA",
+    "mediaId": "HULUsvgbsAAJnfA",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUfB9HdaIAAOKk_",
+    "mediaId": "HUfB9HdaIAAOKk_",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "大字对话梗图，人物表现较简。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPgaInPbkAA_m2q",
+    "mediaId": "HPgaInPbkAA_m2q",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "梦见月瑞希抽卡画面，不是奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQDo_-8bwAASf8T",
+    "mediaId": "HQDo_-8bwAASf8T",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "人物服饰发型与奥黛塔不符，无法确认身份。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HP8TasHWIAAXP3n",
+    "mediaId": "HP8TasHWIAAXP3n",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "明显草稿阶段，衣裙手臂有重复松散线条。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQWMb-AWAAAEAcw",
+    "mediaId": "HQWMb-AWAAAEAcw",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "人物线条与衣饰已收尾，舞姿明确，可保上身与展开手臂。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 3,
+      "top": 420,
+      "width": 3066,
+      "height": 1752
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUcb1fvaEAAQEaS",
+    "mediaId": "HUcb1fvaEAAQEaS",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "双人表情、头发和手势精细清楚，可作合照近景。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 0,
+      "top": 800,
+      "width": 1792,
+      "height": 1024
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HM_jUKWb0AA4qlo",
+    "mediaId": "HM_jUKWb0AA4qlo",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "未上色线稿，人物尚未完成。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQBofnvXoAAtLcP",
+    "mediaId": "HQBofnvXoAAtLcP",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "衣裙、手套和头发笔触粗松，细节未充分收尾。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HMYIi6gagAAqkCs",
+    "mediaId": "HMYIi6gagAAqkCs",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "Q版小人，不符合本轮人体比例偏好。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQ6wG7iWAAESpWu",
+    "mediaId": "HQ6wG7iWAAESpWu",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "脸部偏写实、发丝笔触较粗，不符合精致二次元取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRMRERsbkAIPZMH",
+    "mediaId": "HRMRERsbkAIPZMH",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUWO8nKbsAAxicX",
+    "mediaId": "HUWO8nKbsAAxicX",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "实拍徽章商品图，非干净原始插画。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQWyy0Ga0AAMrTl",
+    "mediaId": "HQWyy0Ga0AAMrTl",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "头发与衣饰留有粗松笔触、边缘未收尾。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQrT0YnaUAAsSzn",
+    "mediaId": "HQrT0YnaUAAsSzn",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "头发、衣饰边缘与纹样明显简化，收尾偏粗。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPA_kTAakAApt1P",
+    "mediaId": "HPA_kTAakAApt1P",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "其他角色的绘画过程截图，不是奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQSZdd-aYAAVxR3",
+    "mediaId": "HQSZdd-aYAAVxR3",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQjo0RAaUAA6g7S",
+    "mediaId": "HQjo0RAaUAA6g7S",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "柔光下五官和衣饰仍完整，可保回头表情与肩背。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 3,
+      "top": 600,
+      "width": 1274,
+      "height": 728
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRIuP-KbEAESvUw",
+    "mediaId": "HRIuP-KbEAESvUw",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "发丝、睫毛与衣饰线条较松散，局部模糊未收尾。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HP56lccbYAEcQRj",
+    "mediaId": "HP56lccbYAEcQRj",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "未完成线稿，五官衣饰细节不足。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HSvWQADWUAA_Vty",
+    "mediaId": "HSvWQADWUAA_Vty",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "画面笔触粗松、五官偏写实，未达本轮风格要求。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HS3mHEgaEAAfS4z",
+    "mediaId": "HS3mHEgaEAAfS4z",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "雕像式写实表现，无法确认奥黛塔且不符合二次元取向。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQ9SOLgbMAALfsB",
+    "mediaId": "HQ9SOLgbMAALfsB",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "双人未上色线稿，尚未完成。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HSlSpNVbAAAEl6m",
+    "mediaId": "HSlSpNVbAAAEl6m",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "纸上简笔线稿，未达到精致完成要求。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRZZVqgW0AAc4nu",
+    "mediaId": "HRZZVqgW0AAc4nu",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "脸部、衣饰和坐姿完整细致，可保头部至主要躯干。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 0,
+      "top": 150,
+      "width": 4095,
+      "height": 2340
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HSCAM_6bwAALybB",
+    "mediaId": "HSCAM_6bwAALybB",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "其他角色的前瞻节目截图，未见奥黛塔主体。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPlEZu5bIAA6Vbu",
+    "mediaId": "HPlEZu5bIAA6Vbu",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "不符合本轮人物展示要求，排除。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HT3wn_9asAAR80O",
+    "mediaId": "HT3wn_9asAAR80O",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演拼图，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPgACW8XIAAxcTH",
+    "mediaId": "HPgACW8XIAAxcTH",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "抽卡统计表，非奥黛塔人物图。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQbT38IW0AE6WAw",
+    "mediaId": "HQbT38IW0AE6WAw",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "Q版绘画过程截图，不符合本轮人体比例偏好。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HTOlE8TXwAASQ40",
+    "mediaId": "HTOlE8TXwAASQ40",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "Q版双人绘画过程截图，不符合本轮偏好。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPflpbGa8AAH_mi",
+    "mediaId": "HPflpbGa8AAH_mi",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "折纸实物照片，缺少面部细节，非二次元插画。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HR0NiR8b0AAuLRA",
+    "mediaId": "HR0NiR8b0AAuLRA",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "其他角色的肖像，发型瞳色与服饰不符。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HSAP6SXaIAAZh7d",
+    "mediaId": "HSAP6SXaIAAZh7d",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "Q版人物，不符合本轮人体比例偏好。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPo7j5MaIAA5mlL",
+    "mediaId": "HPo7j5MaIAA5mlL",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "眼睛与发丝收尾清楚，色彩完整，可作近景肖像。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 2,
+      "top": 580,
+      "width": 2044,
+      "height": 1168
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQXjlU1bwAAPbmc",
+    "mediaId": "HQXjlU1bwAAPbmc",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "脸部偏暗、五官衣饰笔触松散，细节不足。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQw0OQzXIAAAWhB",
+    "mediaId": "HQw0OQzXIAAAWhB",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "绘画练习稿，发丝与衣饰仍有草稿线和未完成区域。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HNB9JXeasAANiNX",
+    "mediaId": "HNB9JXeasAANiNX",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "武器抽卡界面，没有人物主体。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HMXoWSyWgAAFERL",
+    "mediaId": "HMXoWSyWgAAFERL",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "不符合本轮人物展示要求，排除。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRCL9upb0AAnAHE",
+    "mediaId": "HRCL9upb0AAnAHE",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "官方立绘五官衣饰完整，上半幅可保面部和双臂动作。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 530,
+      "top": 0,
+      "width": 1400,
+      "height": 800
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HTd4OXOXwAAP5jK",
+    "mediaId": "HTd4OXOXwAAP5jK",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "大块粗松笔触，背脸且衣饰细节未收尾。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HSqH_ztbwAAUn7p",
+    "mediaId": "HSqH_ztbwAAUn7p",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "发型服装改动较大且表现偏简，身份与完成度均不足。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQjpeYYbIAAzc2O",
+    "mediaId": "HQjpeYYbIAAzc2O",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HTXMxMYa8AAUbK5",
+    "mediaId": "HTXMxMYa8AAUbK5",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "付款通知截图，没有人物图。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQurfonaQAAWmJy",
+    "mediaId": "HQurfonaQAAWmJy",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "未完成的简化线稿。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HP5ZIcrawAAk4tr",
+    "mediaId": "HP5ZIcrawAAk4tr",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "十连抽卡结果，人物仅窄条小图。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPlb83RbAAAHzdR",
+    "mediaId": "HPlb83RbAAAHzdR",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "其他角色战斗统计截图，奥黛塔仅队伍小头像。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPXfQiVXsAA-gEv",
+    "mediaId": "HPXfQiVXsAA-gEv",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "发型头饰与服装缺少可靠角色对应，无法确认奥黛塔。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQHAAsjacAATuXg",
+    "mediaId": "HQHAAsjacAATuXg",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "商品展示页，人物局部太小，不能形成清晰横幅。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUGvWveXAAAz9C7",
+    "mediaId": "HUGvWveXAAAz9C7",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "人物以单色线稿呈现，五官衣饰细节偏简。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRIfzQXbMAAGyv8",
+    "mediaId": "HRIfzQXbMAAGyv8",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_GuqvBb4W4AAZrgN",
+    "mediaId": "GuqvBb4W4AAZrgN",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "其他游戏宣传图，不是原神奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_GB-QLUMbMAIZkE9",
+    "mediaId": "GB-QLUMbMAIZkE9",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "无关文字列表，没有角色插画。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_G6FBNYOXgAAZwcY",
+    "mediaId": "G6FBNYOXgAAZwcY",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "其他作品的写实人物画，不是奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_GOlMWBvaAAATu_H",
+    "mediaId": "GOlMWBvaAAATu_H",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "无关奖章照片，没有角色插画。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HFhIgBUWkAA-Shb",
+    "mediaId": "HFhIgBUWkAA-Shb",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "无关社交平台文字截图。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HP8G2e2XYAAmxIs",
+    "mediaId": "HP8G2e2XYAAmxIs",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "露骨内容，排除。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HIptMqwbQAAg3OE",
+    "mediaId": "HIptMqwbQAAg3OE",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "无关科普文字插图，没有奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPe3HRJaoAAo2et",
+    "mediaId": "HPe3HRJaoAAo2et",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "人物被改为人鱼，头饰服饰无法可靠对应奥黛塔。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HTxh3gsa8AExuNt",
+    "mediaId": "HTxh3gsa8AExuNt",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRClffqbAAAgANn",
+    "mediaId": "HRClffqbAAAgANn",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "露骨内容，排除。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HSRHXqDbUAAVlWG",
+    "mediaId": "HSRHXqDbUAAVlWG",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "写实人物渲染，不符合精致二次元取向。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HP0_28RbcAAP78n",
+    "mediaId": "HP0_28RbcAAP78n",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "露骨内容，排除。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HL9vpXebcAAeDRP",
+    "mediaId": "HL9vpXebcAAeDRP",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "四视图设定稿，单个人物过小，无法得到足够宽的独立主体裁图。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUc27GaakAAfEZ-",
+    "mediaId": "HUc27GaakAAfEZ-",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "聊天文字截图，非可用人物插画。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQSCozDagAA4HrX",
+    "mediaId": "HQSCozDagAA4HrX",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HNifMnuWwAACkn8",
+    "mediaId": "HNifMnuWwAACkn8",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "面部、发丝与衣饰完成清楚，可保坐姿上身。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 2,
+      "top": 240,
+      "width": 1596,
+      "height": 912
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HNf4lfkasAAYUS4",
+    "mediaId": "HNf4lfkasAAYUS4",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "角色头像与真人身体拼接，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HNW6Rv7bcAA7yfM",
+    "mediaId": "HNW6Rv7bcAA7yfM",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "五官与衣饰细节完整，横裁可突出侧身舞姿和抬臂。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 650,
+      "width": 2590,
+      "height": 1480
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HSboSHhagAI6z1y",
+    "mediaId": "HSboSHhagAI6z1y",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUL6pfdagAA3uKg",
+    "mediaId": "HUL6pfdagAA3uKg",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "不符合本轮人物展示要求，排除。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPvDtMObwAAE1Ef",
+    "mediaId": "HPvDtMObwAAE1Ef",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "模型面部与发饰清楚，能保表情和肩部近景。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 0,
+      "top": 420,
+      "width": 1638,
+      "height": 936
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HLtZdzTWkAA1rt4",
+    "mediaId": "HLtZdzTWkAA1rt4",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "沃雅妮莎角色宣传图，不是奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQ6nD0ZW4AAKvNn",
+    "mediaId": "HQ6nD0ZW4AAKvNn",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HSINBZQaoAAdQBV",
+    "mediaId": "HSINBZQaoAAdQBV",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HMAP5dWW0AAnxYH",
+    "mediaId": "HMAP5dWW0AAnxYH",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "五官、发丝和衣饰清晰，可保脸部与持剑上身。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 2,
+      "top": 200,
+      "width": 1596,
+      "height": 912
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRyA8opakAAFW9o",
+    "mediaId": "HRyA8opakAAFW9o",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPft5siWYAAncdt",
+    "mediaId": "HPft5siWYAAncdt",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "人物完成细致，可保脸、肩臂和坐姿上身。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 2,
+      "top": 260,
+      "width": 1596,
+      "height": 912
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPF8XIoWAAAmB18",
+    "mediaId": "HPF8XIoWAAAmB18",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "用户确认不按AI标记自动排除；主线程已补看，五官、发丝和衣饰收尾完整，进入横裁评估。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 2,
+      "top": 200,
+      "width": 2044,
+      "height": 1168
+    },
+    "rightPotential": false,
+    "priorDecision": "reject",
+    "priorReason": "画面署名含明确AI标记，排除。"
+  },
+  {
+    "id": "x_HQOQgbqbgAA7Q0M",
+    "mediaId": "HQOQgbqbgAA7Q0M",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUdIfM-bcAE-_P3",
+    "mediaId": "HUdIfM-bcAE-_P3",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "高完成度模型，脸部与舞姿上身清楚，可裁主体近景。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 100,
+      "width": 1533,
+      "height": 876
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HNDbmjeWYAALUQZ",
+    "mediaId": "HNDbmjeWYAALUQZ",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "同名原创角色，画面明确标注OC，非本轮奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HSaXcq9bQAAGI5S",
+    "mediaId": "HSaXcq9bQAAGI5S",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "五官、发丝和衣饰清晰，可保上身与抬手动作。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 2,
+      "top": 240,
+      "width": 1092,
+      "height": 624
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HS_KKyMbkAAnx4F",
+    "mediaId": "HS_KKyMbkAAnx4F",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "仅脚与手的局部截帧，没有可用脸部或人物主体。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRLOSOcbEAALcmP",
+    "mediaId": "HRLOSOcbEAALcmP",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "角色特征不足且画面取向不符合本轮人物展示要求。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRpUsToaIAAQ-9p",
+    "mediaId": "HRpUsToaIAAQ-9p",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQZ2ixfbgAALa8l",
+    "mediaId": "HQZ2ixfbgAALa8l",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "模型五官与服饰清楚，可保舞姿中的脸部和上身。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 360,
+      "width": 1078,
+      "height": 616
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPn6f7EXsAAG3H8",
+    "mediaId": "HPn6f7EXsAAG3H8",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "双人脸部与服饰清晰，横幅能保主要互动姿态。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 2,
+      "top": 46,
+      "width": 2044,
+      "height": 1168
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HQyJheNaAAAgXBk",
+    "mediaId": "HQyJheNaAAAgXBk",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPvEHUaakAAul1O",
+    "mediaId": "HPvEHUaakAAul1O",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "面部和双人舞姿清楚，横裁可保展开的主要手臂。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 2,
+      "top": 140,
+      "width": 2044,
+      "height": 1168
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRhnXoaWoAQSU8p",
+    "mediaId": "HRhnXoaWoAQSU8p",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "主角是其他角色，奥黛塔仅左下小幅Q版。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQ8vgktakAAvK3t",
+    "mediaId": "HQ8vgktakAAvK3t",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "近景模型五官和发饰清晰，适合正面肖像。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 0,
+      "top": 610,
+      "width": 1344,
+      "height": 768
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HTObx6-a4AIbcLb",
+    "mediaId": "HTObx6-a4AIbcLb",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "脸部与发丝刻画精细，横幅人像主体突出。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 20,
+      "top": 0,
+      "width": 1904,
+      "height": 1088
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HRwM8fTaIAImTGv",
+    "mediaId": "HRwM8fTaIAImTGv",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPgflpqakAA-Hyn",
+    "mediaId": "HPgflpqakAA-Hyn",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRrEAaYbwAAPWIN",
+    "mediaId": "HRrEAaYbwAAPWIN",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HP6odUjbEAAnTuM",
+    "mediaId": "HP6odUjbEAAnTuM",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "缺少明确头饰服装特征，无法可靠确认奥黛塔。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRdUqhpaIAA8IjM",
+    "mediaId": "HRdUqhpaIAA8IjM",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "写实人像特写，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRqdDhpaYAAf6Pf",
+    "mediaId": "HRqdDhpaYAAf6Pf",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "极近脸部截帧，头部与下巴已被切掉，无法改善为完整主体。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUHigUTaQAAF9lh",
+    "mediaId": "HUHigUTaQAAF9lh",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "侧脸、发丝和背部服饰细致，横幅可保主要上身动作。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 20,
+      "width": 1918,
+      "height": 1096
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQz1GogWMAAUwyt",
+    "mediaId": "HQz1GogWMAAUwyt",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "官方立绘完整清晰，可裁出脸与双臂及主要躯干。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 200,
+      "top": 0,
+      "width": 3500,
+      "height": 2000
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HULpdugaQAAFzYU",
+    "mediaId": "HULpdugaQAAFzYU",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "露骨内容，排除。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRNCurVbYAAFAay",
+    "mediaId": "HRNCurVbYAAFAay",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HMIz4zrXUAAwuVC",
+    "mediaId": "HMIz4zrXUAAwuVC",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "模型正面五官衣饰清楚，原图像素足够单取左侧上身。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 30,
+      "top": 280,
+      "width": 1400,
+      "height": 800
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRAt8B4bcAAYTBg",
+    "mediaId": "HRAt8B4bcAAYTBg",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUTVAlKb0AAN_79",
+    "mediaId": "HUTVAlKb0AAN_79",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "缺少明确头饰服装特征，无法可靠确认奥黛塔。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQwMyjdbsAADZuS",
+    "mediaId": "HQwMyjdbsAADZuS",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HSK4U_VbkAAuweo",
+    "mediaId": "HSK4U_VbkAAuweo",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HT5xRr_WEAAD5Ya",
+    "mediaId": "HT5xRr_WEAAD5Ya",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "文字模板图，奥黛塔只占顶部小方块。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HOb6aWiaIAA2mvo",
+    "mediaId": "HOb6aWiaIAA2mvo",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "镜中人物五官衣饰精细，横裁可保镜面主体与舞台氛围。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 190,
+      "top": 0,
+      "width": 1771,
+      "height": 1012
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRoexfIXMAAO2Ko",
+    "mediaId": "HRoexfIXMAAO2Ko",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "双人五官衣饰完整，可保亲吻表情和主要坐姿。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 0,
+      "top": 0,
+      "width": 2128,
+      "height": 1216
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HUQ_sQ6awAAKxv4",
+    "mediaId": "HUQ_sQ6awAAKxv4",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "模型脸部与衣饰清楚，能保正面上身。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 0,
+      "top": 290,
+      "width": 1176,
+      "height": 672
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRMwb5VbUAEbPiH",
+    "mediaId": "HRMwb5VbUAEbPiH",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRF4x3ubgAAj4qc",
+    "mediaId": "HRF4x3ubgAAj4qc",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUJwSQBa4AALuh3",
+    "mediaId": "HUJwSQBa4AALuh3",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "头饰服装改动大，无法可靠确认奥黛塔。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRq2w9TaQAAstFW",
+    "mediaId": "HRq2w9TaQAAstFW",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "画面重点不符合本轮人物展示要求，排除。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQnjGWvbYAAiJne",
+    "mediaId": "HQnjGWvbYAAiJne",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HT8dcLzaMAAdYz0",
+    "mediaId": "HT8dcLzaMAAdYz0",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "五官、发丝与前伸手势清楚，可作动作近景。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 590,
+      "width": 1442,
+      "height": 824
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HUHlsv8bMAAxrLS",
+    "mediaId": "HUHlsv8bMAAxrLS",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HS323ytaEAAFlJY",
+    "mediaId": "HS323ytaEAAFlJY",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演截帧，且动作模糊。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUBCrMsb0AAms4c",
+    "mediaId": "HUBCrMsb0AAms4c",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQxR3LrbMAAL6hf",
+    "mediaId": "HQxR3LrbMAAL6hf",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "手办实拍较暗且模糊，发丝与服装质感偏粗。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HURV4wlWYAAFcWI",
+    "mediaId": "HURV4wlWYAAFcWI",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "放大脸部截帧偏软，头部边缘已经截断，横裁空间不足。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HTMKMoVbQAAZDbl",
+    "mediaId": "HTMKMoVbQAAZDbl",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HOIsfxoaEAEJG9E",
+    "mediaId": "HOIsfxoaEAEJG9E",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "模型脸部和舞姿衣饰清楚，可保脸与展开手臂。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 2,
+      "top": 240,
+      "width": 1078,
+      "height": 616
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRAso4Va4AA8t7j",
+    "mediaId": "HRAso4Va4AA8t7j",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUHlseuasAAE-09",
+    "mediaId": "HUHlseuasAAE-09",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "露骨内容，排除。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPlYACUbYAA5TQH",
+    "mediaId": "HPlYACUbYAA5TQH",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "色块概括但五官和衣饰边缘已收尾，可保舞姿上身。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 680,
+      "width": 2891,
+      "height": 1652
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HULopO0bYAA1g6x",
+    "mediaId": "HULopO0bYAA1g6x",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "露骨内容，排除。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HNnEe4-WAAA561x",
+    "mediaId": "HNnEe4-WAAA561x",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "其他角色换装图，金发金瞳并非奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HStJ3vib0AEXrAo",
+    "mediaId": "HStJ3vib0AEXrAo",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRLkrVwawAA3N_Z",
+    "mediaId": "HRLkrVwawAA3N_Z",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRfsg96a8AAS5xB",
+    "mediaId": "HRfsg96a8AAS5xB",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "缺少明确角色特征，无法可靠确认奥黛塔。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPhwW7aawAAR3Fp",
+    "mediaId": "HPhwW7aawAAR3Fp",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "发型服饰缺少明确对应，无法确认奥黛塔身份。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQRXJ5PXsAAFyny",
+    "mediaId": "HQRXJ5PXsAAFyny",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "脸部大面积处于暗部，五官与服饰细节偏弱。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRzjDPNawAAwvZC",
+    "mediaId": "HRzjDPNawAAwvZC",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "粗松写实笔触，人物缺少可靠角色特征。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUJQ49GWgAAt2Mn",
+    "mediaId": "HUJQ49GWgAAt2Mn",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "其他角色的游戏截图，不是奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HOLbAHeaoAAYuPH",
+    "mediaId": "HOLbAHeaoAAYuPH",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "脸部、发丝与衣饰收尾清楚，横幅可保人物与天鹅互动。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 0,
+      "top": 0,
+      "width": 4095,
+      "height": 2340
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HUGhjbhbMAEgSn1",
+    "mediaId": "HUGhjbhbMAEgSn1",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "奥黛塔仅远处舞者剪影，面部不可辨且主体过暗。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HP5fIT6acAEkAc3",
+    "mediaId": "HP5fIT6acAEkAc3",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "五官与服装线条完整，横裁可保侧身躯干和伸手动作。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 850,
+      "width": 2989,
+      "height": 1708
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HQnv--aawAEUWtj",
+    "mediaId": "HQnv--aawAEUWtj",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "平涂色块干净，面部与衣饰清楚，可保抬臂中的脸与上身。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 500,
+      "width": 1239,
+      "height": 708
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HRqNhckXgAEA6Ty",
+    "mediaId": "HRqNhckXgAEA6Ty",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "中间单格脸部与抬手姿态清楚，可独立裁出横幅。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 9,
+      "top": 1300,
+      "width": 2142,
+      "height": 1224
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUjstHHXEAAPRXO",
+    "mediaId": "HUjstHHXEAAPRXO",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "露骨内容，排除。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQmgIQ8WMAAbSAF",
+    "mediaId": "HQmgIQ8WMAAbSAF",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "写实模型颗粒较重且手臂遮住半张脸，横裁难保完整动作。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HTY5OE_bcAAJ0Vo",
+    "mediaId": "HTY5OE_bcAAJ0Vo",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HMRq9q6bEAAlEjm",
+    "mediaId": "HMRq9q6bEAAlEjm",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "多角色拼图，奥黛塔单格原生宽不足1000px。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HQc1XdZb0AA-EUA",
+    "mediaId": "HQc1XdZb0AA-EUA",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "缺少明确头饰与服装特征，无法可靠确认奥黛塔。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUaZ8wFXgAA29i5",
+    "mediaId": "HUaZ8wFXgAA29i5",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "轮廓与色块干净，五官和托腮手势清楚，可作近景肖像。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 1340,
+      "width": 1078,
+      "height": 616
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HTObqaVaQAAuM1l",
+    "mediaId": "HTObqaVaQAAuM1l",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "面部与发丝细节成熟清楚，适合脸与肩部近景。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 2,
+      "top": 370,
+      "width": 1260,
+      "height": 720
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HN62Uy4aYAAljlA",
+    "mediaId": "HN62Uy4aYAAljlA",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "五官和衣饰清晰，发光装饰不影响主体，可保脸与上身。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 3,
+      "top": 430,
+      "width": 1372,
+      "height": 784
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HQp6s22aMAAdaPW",
+    "mediaId": "HQp6s22aMAAdaPW",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "头发与肩部有明显草稿杂线，衣饰未收尾。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HNSi-fObEAEDKWl",
+    "mediaId": "HNSi-fObEAEDKWl",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "装饰性平涂线条完整，面部和发丝清楚，可取脸与肩部。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 410,
+      "width": 1323,
+      "height": 756
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HTBj6L0a8AAJWN5",
+    "mediaId": "HTBj6L0a8AAJWN5",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "缺少明确头饰与服装特征，无法可靠确认奥黛塔。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HLwhPyRa8AAHPcW",
+    "mediaId": "HLwhPyRa8AAHPcW",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "发丝、手臂和衣饰有粗松未收尾笔触。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPaQTqlWQAAdEe3",
+    "mediaId": "HPaQTqlWQAAdEe3",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "官方立绘面部与衣饰清晰，横幅可保主要上身。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 12,
+      "top": 1,
+      "width": 1176,
+      "height": 672
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HMojQ6aWYAEy0n_",
+    "mediaId": "HMojQ6aWYAEy0n_",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "视频封面拼接图，人物放大偏糊且技能图标抢占画面。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRmcW9IWcAE6IfQ",
+    "mediaId": "HRmcW9IWcAE6IfQ",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "奥黛塔只在远处小幅气球内，无法突出清晰人物。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUJXJsJWEAAkJBI",
+    "mediaId": "HUJXJsJWEAAkJBI",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "面部与服装收尾完整，俯视舞姿可保脸和横伸手臂。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 1,
+      "top": 490,
+      "width": 1778,
+      "height": 1016
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HOzmYbEWoAApwxP",
+    "mediaId": "HOzmYbEWoAApwxP",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "多角色视频封面，大字与分栏占据主体。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HO3vuAQbQAAW9sd",
+    "mediaId": "HO3vuAQbQAAW9sd",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "角色培养攻略表，人物只是小幅配图。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HSYy5xjagAAtDsY",
+    "mediaId": "HSYy5xjagAAtDsY",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "左侧插画面部和双手细致，可保上身并留少量右侧设计底色。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 0,
+      "top": 100,
+      "width": 1120,
+      "height": 640
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HOxjDjnboAAiKhp",
+    "mediaId": "HOxjDjnboAAiKhp",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "左上单格面部与发饰清楚，可单独取出近景肖像。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 2,
+      "top": 300,
+      "width": 1295,
+      "height": 740
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HNSAbu7bEAEYENC",
+    "mediaId": "HNSAbu7bEAEYENC",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "头发肩部有大量松散草稿线，细节未收尾。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRVuOoKbcAAIoqB",
+    "mediaId": "HRVuOoKbcAAIoqB",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HTIeu21bcAA4d_e",
+    "mediaId": "HTIeu21bcAA4d_e",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "道具实拍，没有角色人物主体。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HMhX8rdbEAA06jB",
+    "mediaId": "HMhX8rdbEAA06jB",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "风格化线条完整，面部、发丝和衣饰清楚，可保上身。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 3,
+      "top": 370,
+      "width": 1141,
+      "height": 652
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HNbAlgOWoAAHhA7",
+    "mediaId": "HNbAlgOWoAAHhA7",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "写实换装模型缺少可靠角色特征，无法确认奥黛塔。",
+    "identity": "uncertain",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUiB3xaXMAECedN",
+    "mediaId": "HUiB3xaXMAECedN",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "无关人物铅笔速写，不是奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUIb35fXoAEZM4y",
+    "mediaId": "HUIb35fXoAEZM4y",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "头发、衣饰和手部有重复粗松线条，收尾不足。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPflGfVXMAAKvi5",
+    "mediaId": "HPflGfVXMAAKvi5",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "左侧单格面部发丝精细，可独立取出完整五官近景。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 0,
+      "top": 1120,
+      "width": 2044,
+      "height": 1168
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUWOmNpbwAAtLF4",
+    "mediaId": "HUWOmNpbwAAtLF4",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "面部、发丝和衣饰花边完成细致，横幅可保主体与音乐盒。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 5,
+      "top": 0,
+      "width": 2037,
+      "height": 1164
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUXZyTNbMAAcPZs",
+    "mediaId": "HUXZyTNbMAAcPZs",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "露骨内容，排除。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HT_H9jcXAAAk5h6",
+    "mediaId": "HT_H9jcXAAAk5h6",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "多角色头像拼图，奥黛塔局部已放大模糊。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HOHnTgTXgAAnRpV",
+    "mediaId": "HOHnTgTXgAAnRpV",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "模型五官与持剑动作清楚，可保脸部和握剑手势。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 3,
+      "top": 490,
+      "width": 1757,
+      "height": 1004
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUNap_vXEAAQTmf",
+    "mediaId": "HUNap_vXEAAQTmf",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "露骨内容，排除。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUQ6Rlba4AAIW2G",
+    "mediaId": "HUQ6Rlba4AAIW2G",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "多格对话漫画，不适合作独立横幅人物图。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HPAhu3CWkAAwJb4",
+    "mediaId": "HPAhu3CWkAAwJb4",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "官方近景五官与发饰精细，横幅主体清楚。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 12,
+      "top": 1,
+      "width": 1176,
+      "height": 672
+    },
+    "rightPotential": true
+  },
+  {
+    "id": "x_HOffZCOWkAAS-NY",
+    "mediaId": "HOffZCOWkAAS-NY",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "培养攻略信息页，文字与图标覆盖画面。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HO-2K2rXYAAuzrt",
+    "mediaId": "HO-2K2rXYAAuzrt",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "面部、发丝与衣饰仍有草稿线和粗松笔触。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUQUgZIbsAAHNAB",
+    "mediaId": "HUQUgZIbsAAHNAB",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "其他角色拼图，没有奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HR9bKb8bQAAi-Xf",
+    "mediaId": "HR9bKb8bQAAi-Xf",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "人物脸部偏小且模糊，衣饰刻画较简，横裁仍难突出细节。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HMApUy-WYAAtQNe",
+    "mediaId": "HMApUy-WYAAtQNe",
+    "viewed": true,
+    "decision": "candidate",
+    "reason": "左侧单格五官和衣饰清楚，可独立取出回头上身近景。",
+    "identity": "odette",
+    "cropRect": {
+      "left": 0,
+      "top": 130,
+      "width": 1155,
+      "height": 660
+    },
+    "rightPotential": false
+  },
+  {
+    "id": "x_HSz2EnFbUAAQIY1",
+    "mediaId": "HSz2EnFbUAAQIY1",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HMOPEneaQAA1g66",
+    "mediaId": "HMOPEneaQAA1g66",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "绘画软件中的草稿线稿，人物尚未完成。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HTxAMWsWkAAsAci",
+    "mediaId": "HTxAMWsWkAAsAci",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "头发、衣裙和人体轮廓仍有粗松草稿感。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HUBKdIja0AAX2Bf",
+    "mediaId": "HUBKdIja0AAX2Bf",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HNcAi6ybQAAnNSg",
+    "mediaId": "HNcAi6ybQAAnNSg",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "五官、头发和手套留有明显粗松笔触，细节未收尾。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HRKJq-5XgAA6AIp",
+    "mediaId": "HRKJq-5XgAA6AIp",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "其他角色的分格图，没有奥黛塔。",
+    "identity": "other",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HNgKNPIWoAA35fY",
+    "mediaId": "HNgKNPIWoAA35fY",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "Q版简笔人物，不符合本轮人体比例与精致度要求。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  },
+  {
+    "id": "x_HS-I3FSbAAAk1gH",
+    "mediaId": "HS-I3FSbAAAk1gH",
+    "viewed": true,
+    "decision": "reject",
+    "reason": "真人角色扮演照片，不符合二次元插画取向。",
+    "identity": "odette",
+    "cropRect": null,
+    "rightPotential": false
+  }
+]
