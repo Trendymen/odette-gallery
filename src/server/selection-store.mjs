@@ -13,7 +13,13 @@ export function createSelectionStore({ stateFile, readCatalog, fsOps = fs, idsFi
   async function syncDirectory() {
     try {
       const dir = await fsOps.open(path.dirname(stateFile), 'r');
-      try { await dir.sync(); } finally { await dir.close(); }
+      try {
+        try { await dir.sync(); }
+        catch (error) {
+          // Windows 目录句柄的 fsync 返回 EPERM。
+          if (process.platform !== 'win32' || error.code !== 'EPERM' || error.syscall !== 'fsync') throw error;
+        }
+      } finally { await dir.close(); }
     } catch (error) { throw failure(500, title + '保存失败，请重试', error); }
   }
   async function persist(state) {

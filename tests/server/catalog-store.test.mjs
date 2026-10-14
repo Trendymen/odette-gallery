@@ -38,6 +38,27 @@ test('首次GET持久创建空revision0，重建读取选择，相同值幂等',
   assert.deepEqual((await createSelectionStore({ stateFile: f.stateFile, readCatalog: f.catalog }).get()).selectedIds, ['a']);
   assert.deepEqual(await f.store.set('a', true), saved);
 });
+test('已有状态可直接读取、保存选择并在重建后恢复', async t => {
+  for (const idsField of ['selectedIds', 'markedIds']) {
+    const f = await fixture(t), catalog = await f.catalog();
+    const state = { schemaVersion: 1, galleryKey: 'odette_mousepad_updated', revision: 7, catalogRevision: catalog.catalogRevision, updatedAt: '2026-10-14T00:00:00.000Z', [idsField]: ['a'] };
+    const original = JSON.stringify(state, null, 2) + '\n';
+    await fs.mkdir(path.dirname(f.stateFile)); await fs.writeFile(f.stateFile, original);
+    const directories = [], fsOps = { ...fs, open: async (...args) => {
+      const handle = await fs.open(...args);
+      if (args[0] === path.dirname(f.stateFile)) directories.push(handle);
+      return handle;
+    } };
+    const options = { stateFile: f.stateFile, readCatalog: f.catalog, idsField, fsOps }, store = createSelectionStore(options);
+    const loaded = await store.get(); assert.equal(loaded.revision, 7); assert.deepEqual(loaded[idsField], ['a']);
+    assert.equal(await fs.readFile(f.stateFile, 'utf8'), original);
+    const saved = await store.set('b', true); assert.equal(saved.revision, 8); assert.deepEqual(saved[idsField], ['a', 'b']);
+    assert.deepEqual(JSON.parse(await fs.readFile(f.stateFile, 'utf8'))[idsField], ['a', 'b']);
+    assert.deepEqual(await createSelectionStore(options).get(), saved);
+    assert.deepEqual(await store.set('b', true), saved);
+    for (const directory of directories) await assert.rejects(directory.stat(), { code: 'EBADF' });
+  }
+});
 test('100个不同ID并发持久保存不丢选择', async t => {
   const ids = Array.from({ length: 100 }, (_, i) => 'id_' + i), f = await fixture(t, ids);
   await Promise.all(ids.map(id => f.store.set(id, true)));
@@ -78,18 +99,45 @@ test('临时写入及rename失败保持旧文件，恢复后可重试', async t 
     await fs.writeFile(f.stateFile, original);
   }
 });
-test('文件写入或fsync失败不替换原状态，重试恢复', async t => {
+test('文件写入、fsync或关闭失败不替换原状态，重试恢复', async t => {
   const f = await fixture(t); await f.store.get(); const original = await fs.readFile(f.stateFile, 'utf8');
-  for (const method of ['writeFile', 'sync']) {
+  for (const method of ['writeFile', 'sync', 'close']) {
     let fail = true;
     const fsOps = { ...fs, open: async (...args) => {
       const handle = await fs.open(...args);
-      if (String(args[0]).includes('.tmp-')) return { writeFile: (...values) => { if (fail && method === 'writeFile') throw new Error('write failed'); return handle.writeFile(...values); }, sync: () => { if (fail && method === 'sync') throw new Error('sync failed'); return handle.sync(); }, close: () => handle.close() };
+      if (String(args[0]).includes('.tmp-')) return {
+        writeFile: (...values) => { if (fail && method === 'writeFile') throw Object.assign(new Error('write failed'), { code: 'EPERM', syscall: 'write' }); return handle.writeFile(...values); },
+        sync: () => { if (fail && method === 'sync') throw Object.assign(new Error('sync failed'), { code: 'EPERM', syscall: 'fsync' }); return handle.sync(); },
+        close: async () => { await handle.close(); if (fail && method === 'close') throw Object.assign(new Error('close failed'), { code: 'EPERM', syscall: 'close' }); }
+      };
       return handle;
     } };
     const store = createSelectionStore({ stateFile: f.stateFile, readCatalog: f.catalog, fsOps });
     await assert.rejects(store.set('a', true), { status: 500 }); assert.equal(await fs.readFile(f.stateFile, 'utf8'), original);
     fail = false; assert.deepEqual((await store.set('a', true)).selectedIds, ['a']); await fs.writeFile(f.stateFile, original);
+  }
+});
+test('目录权限、IO或关闭错误继续报错，恢复后可读取', async t => {
+  const failures = [['open', 'EPERM', 'open'], ['sync', 'EPERM', 'other'], ['sync', 'EIO', 'fsync'], ['close', 'EPERM', 'fsync']];
+  if (process.platform !== 'win32') failures.push(['sync', 'EPERM', 'fsync']);
+  for (const [method, code, syscall] of failures) {
+    const f = await fixture(t); await f.store.get(); let fail = true;
+    const injected = Object.assign(new Error('directory failure'), { code, syscall });
+    const fsOps = { ...fs, open: async (...args) => {
+      if (args[0] !== path.dirname(f.stateFile)) return fs.open(...args);
+      if (fail && method === 'open') throw injected;
+      const handle = await fs.open(...args);
+      return {
+        sync: () => { if (fail && method === 'sync') throw injected; return handle.sync(); },
+        close: async () => { await handle.close(); if (fail && method === 'close') throw injected; }
+      };
+    } };
+    const store = createSelectionStore({ stateFile: f.stateFile, readCatalog: f.catalog, fsOps });
+    await assert.rejects(store.set('a', true), { status: 500 });
+    const replaced = await fs.readFile(f.stateFile, 'utf8'); assert.equal(JSON.parse(replaced).revision, 1);
+    await assert.rejects(store.get(), error => error.status === 500 && error.cause === injected);
+    assert.equal(await fs.readFile(f.stateFile, 'utf8'), replaced);
+    fail = false; assert.deepEqual((await store.get()).selectedIds, ['a']);
   }
 });
 test('rename后目录open或sync失败，同值PUT及GET继续报错直到持久确认', async t => {
