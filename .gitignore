@@ -1,6 +1,10 @@
 node_modules/
 archive/
-state/
+state/*
+!state/odette_mousepad_updated/
+state/odette_mousepad_updated/*
+!state/odette_mousepad_updated/custom-candidates.json
+!state/odette_mousepad_updated/deletion-marks.json
 .superpowers/
 coverage/
 test-results/

@@ -13,7 +13,9 @@ cd odette-gallery
 git lfs pull
 ```
 
-在用图片约 6.48 GB，首次克隆需要下载这些资源。`archive/` 中的历史资料和未用图片、`state/` 中的个人勾选、依赖及过程材料只保存在本地，未上传到 GitHub。来源和路径索引保留在 `data/provenance/`，索引指向本地归档的文件不包含在仓库中。新克隆会创建自己的空勾选状态。
+在用图片约 6.48 GB，首次克隆需要下载这些资源。`archive/` 中的历史资料和未用图片、依赖及过程材料只保存在本地，未上传到 GitHub。来源和路径索引保留在 `data/provenance/`，索引指向本地归档的文件不包含在仓库中。
+
+`state/odette_mousepad_updated/custom-candidates.json` 和 `deletion-marks.json` 随工程提交，分别保存定制候选和删除标记。新克隆会读取仓库中保存的记录；之后在画廊中的勾选会修改本地状态文件，需要再次提交并推送才能同步到 GitHub。删除标记只保存记录，不会自动删除或隐藏图片。
 
 ```sh
 npm ci
@@ -62,4 +64,4 @@ stage 复制在用图片、非图片资料和来源 JSON，源目录保持原位
 
 查询旧绝对路径时，在 data/provenance/assets.json、stage.json、archive.json 的 files 中查 originalAbsolutePath，对应 projectRelativePath 是新位置。sourceRecords 指向原来源资料及 JSON pointer，sourceURLs 保留已有 URL；用 sources.json 或 archive.json 的路径映射定位原文。无法关联的文件明确记录 sourceStatus: "unknown"，不补作者或来源。
 
-archive/、state/、node_modules/ 和 .superpowers/ 被本地 Git 忽略。迁移未创建正式状态时，正式切换由控制器在停服后搬入最终状态并逐字节核对；测试始终使用临时状态与端口。
+archive/、node_modules/ 和 .superpowers/ 被本地 Git 忽略。state/ 只提交上述两份状态 JSON，其余文件继续忽略。迁移未创建正式状态时，正式切换由控制器在停服后搬入最终状态并逐字节核对；测试始终使用临时状态与端口。
